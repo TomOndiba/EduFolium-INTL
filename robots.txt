@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_graphics
+Disallow: /documentation
+Disallow: /install

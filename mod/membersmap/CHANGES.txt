@@ -1,0 +1,35 @@
+CHANGE LOG
+
+1.8.4
+---------------------
+- MarkerClusterer added as an option to settings, in case that is not required
+- Fixed bug when name of user contains single or double quotes
+
+1.8.3
+---------------------
+- Added use of MarkerClusterer for improving map view when a large number of users are there on map
+- Improvements in map zoom
+- Fixed bug on input placeholder attribute for IE
+
+1.8.2
+---------------------
+- Fixed bug on display large number of users
+- Fixed bug on search users function
+- Improvements in code
+ 
+1.8.1
+---------------------
+- Added functionality search for nearby members based on radius
+- Added functionality search for members on map by name and their nearby members
+- Small improvements on search forms
+- Fixed various bugs
+
+1.8.0
+--------------------- 
+Initial release 
+
+
+
+
+
+
