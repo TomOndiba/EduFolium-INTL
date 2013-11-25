@@ -19,6 +19,8 @@ if (!isset($CONFIG)) {
 	$CONFIG = new stdClass;
 }
 
+date_default_timezone_set('America/Bogota');
+
 /*
  * Standard configuration
  *
