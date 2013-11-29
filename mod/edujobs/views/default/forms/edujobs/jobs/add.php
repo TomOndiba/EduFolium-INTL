@@ -62,6 +62,7 @@ if (empty($country))   {
 }
 // get countries list
 $countrieslist = get_countries_list();
+array_unshift($countrieslist, elgg_echo('edujobs:search:country'));
 
 // enable or disable other subject
 $sost = true;

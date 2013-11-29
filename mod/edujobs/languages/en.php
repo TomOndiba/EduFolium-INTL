@@ -521,6 +521,8 @@ $lang = array(
     'agora:river:annotate' => 'a comment on this job',
     'agora:river:item' => 'an item',	
 	    
+	'edujobs:addcv:country' => "Select your Country",    
+	
 );
 
 add_translation("en", $lang);  

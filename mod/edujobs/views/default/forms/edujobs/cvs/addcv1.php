@@ -40,6 +40,7 @@ if (empty($cv_birth_country))   {
 }
 // get countries list
 $countrieslist = get_countries_list();
+array_unshift($countrieslist, elgg_echo('Select your Country'));
 
 // set default city
 if (empty($cv_birth_city))   {
