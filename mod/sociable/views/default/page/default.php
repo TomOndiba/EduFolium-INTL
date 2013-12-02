@@ -382,7 +382,7 @@ Perfil = Docente
 /**************
 Perfil = Colegio
 ***************/		
-			#forward("edujobs/jobs");
+		#	forward("/edujobs/teachers/view");
 		?>
 		
 		<script type="text/javascript">
@@ -412,7 +412,12 @@ Perfil = Colegio
 		<script>
 		
 		$(document).ready(function() {
+
+			$(".elgg-menu-site").css("display","none");
+			$(".elgg-search").css("display","none");
+			$(".elgg-inner").css("height","80px");
 		
+			
 			$(".elgg-menu-item-activity").css("display","none");
 
 			//CREAR CV

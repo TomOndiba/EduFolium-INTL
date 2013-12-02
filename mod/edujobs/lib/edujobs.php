@@ -348,7 +348,7 @@ function get_profile_type($user = null) {
 		}
 	}
 
-	return 'Default';
+	return 'Docente';
 }
 
 // check if user can post post (Colegio)
@@ -368,13 +368,13 @@ function check_if_user_can_post_jobs($user = null) {
 function check_if_user_is_teacher($user = null) {
 	if($user && $profile_type_guid = $user->custom_profile_type){
 		if(($profile_type = get_entity($profile_type_guid)) && ($profile_type instanceof ProfileManagerCustomProfileType)){
-			if ($profile_type->getTitle()=='Docente') {
-				return true;
+			if ($profile_type->getTitle()=='Colegio') {
+				return false;
 			}
 		}
 	}
     
-    return false;
+    return true;
 }
 
 // check if user is school

@@ -100,7 +100,7 @@
 	 */
 	function login_redirector_general_login(ElggUser $user){
 		$result = false;
-		
+
 		$plugin = elgg_get_plugin_from_id("login_redirector");
 		
 		if($plugin->useroverride == 'yes'){
@@ -110,7 +110,23 @@
 		if(empty($pref)){
 			$pref = $plugin->redirectpage;
 		}
+
+		if($profile_type_guid = $user->custom_profile_type)
+		{
+			if(($profile_type = get_entity($profile_type_guid)) && ($profile_type instanceof ProfileManagerCustomProfileType))
+			{
+				$profile_name=$profile_type->getTitle();
+			}
+		}
+		else
+		{
+			$profile_name='Docente';		
+		}
+
+		if($profile_name=='Colegio')
+			$plugin->custom_redirect="[wwwroot]edujobs/teachers/view";	
 		
+
 		switch($pref){
 			case "homepage":
 				$url = elgg_get_site_url();
