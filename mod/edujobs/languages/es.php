@@ -6,12 +6,11 @@
 
 $lang = array(
 
-    // Menu items and titles
     'edujobs' => "Empleos",
     'edujobs:menu' => "Empleos",
     'item:object:edujobs' => "Empleos",
     'item:object:jobappication' => "Aplicaciones",
-    
+
     // Menu tab titles
     'edujobs:label:myjobs' => "Mis Empleos",
     'edujobs:label:mycv' => "Mi CV",
@@ -19,9 +18,9 @@ $lang = array(
     'edujobs:label:myjobposts' => "Ofertas de Empleo",
     'edujobs:label:teachers' => "Buscar Docentes",
     'edujobs:label:jobs' => "Buscar Empleos",
-            
+
     // Sidebar
-        
+
     // General
     'edujobs:none' => "No hay empleos disponibles",
     'edujobs:add' => "Publicar Oferta de Empleo",
@@ -33,7 +32,7 @@ $lang = array(
     'edujobs:teachers:myjobs:empty' => "No ha aplicado a empleos todavía.",
     'edujobs:teachers:jobsmaylike:empty' => "No hay sugerencias en este momento",
     'edujobs:delete:confirm' => "¿Realmente quiere eliminar esto?",
-    
+
     'edujobs:add:requiredfields' => "Todos los campos con asterisco son requeridos",
     'edujobs:add:title' => "Título de la Oferta",
     'edujobs:add:title:note' => "Ingrese un Título corto que resuma la oferta de empleo",
@@ -53,8 +52,8 @@ $lang = array(
     'edujobs:add:grade:one' => "Sección",
     'edujobs:add:grade:note' => "Ingrese uno o mas secciones",
     'edujobs:add:grade:kindergarten' => "Preescolar",
-    'edujobs:add:grade:earlyelementary' => "Primer Ciclo Primaria (Grados del 1 al 3)",
-    'edujobs:add:grade:lateelementary' => "Segundo Ciclo Primaria (Grades 4 al 5)",
+    'edujobs:add:grade:earlyelementary' => "Primer Ciclo Primaria (Grados 1 al 3)",
+    'edujobs:add:grade:lateelementary' => "Segundo Ciclo Primaria (Grados 4 al 5)",
     'edujobs:add:grade:middleschool' => "Primer Ciclo Secundaria (Grados 6 al 8)",
     'edujobs:add:grade:highschool' => "Segundo Ciclo Secundaria (Grados 9 al 12)",
     'edujobs:add:grade:othercategories' => "Otras Secciones (Especificar)",
@@ -135,7 +134,7 @@ $lang = array(
     'edujobs:view:job:rejected:failed' => "Ocurrió un error al agregar el candidato a Rechazados",
     'edujobs:unpublish:job:success' => "La oferta de empleo se despublicó satisfactoriamente",
     'edujobs:unpublish:job:failed' => "Ocurrió un error al despublicar esta oferta de empleo",
-    
+
     // CV
     'edujobs:teachers/addcv1' => "Editar CV",
     'edujobs:cv:create' => "Crear CV para aplicar",
@@ -247,18 +246,21 @@ $lang = array(
 	'edujobs:teachers/addworkexperience' => "Agregar una nueva experiencia laboral",
 	'edujobs:cv:add3' => "CV: Experiencia Laboral",
 	'edujobs:cv:add3:simple' => "Experiencia Laboral",  
-	'edujobs:cv:addworkexperience' => "Agregar Experiencia Laboral", 
+	'edujobs:cv:addworkexperience' => "Agregar Experiencia Laboral",
 	'edujobs:cv:add4' => "CV: Educación",
-	'edujobs:cv:add4:simple' => "Educación", 
+	'edujobs:cv:add4:simple' => "Educación",
 	'edujobs:cv:addeducation' => "Agregar nueva educación",
-	'edujobs:teachers/addeducation' => "Agregar nueva educación", 
+	'edujobs:teachers/addeducation' => "Agregar nueva educación",
 	'edujobs:cv:add5' => "CV: Idiomas",
-	'edujobs:cv:add5:simple' => "Idiomas", 
+	'edujobs:cv:add5:simple' => "Idiomas",
 	'edujobs:cv:addlanguage' => "Agregar nuevo Idioma",
+	'edujobs:teachers/addlanguage' => "Agregar nuevo Idioma",
 	'edujobs:cv:add6' => "CV: Pegar CV",
-	'edujobs:cv:add6:simple' => "Pegar CV", 	
-	'edujobs:cv:add6:title' => "Información Adicional", 	
-	'edujobs:teachers/addlanguage' => "Agregar nuevo Idioma", 
+	'edujobs:cv:add6:simple' => "Pegar CV",
+	'edujobs:cv:add6:title' => "Información Adicional", 
+	'edujobs:cv:add7' => "CV: Portafolio",
+	'edujobs:cv:add7:simple' => "Portafolio",
+	'edujobs:teachers/addportfolio' => "Agregar nuevo recurso al Portafolio",
 	'edujobs:add:cvwe_job_title' => "Cargo",
     'edujobs:add:cvwe_job_title:note' => "Ingrese el nombre del cargo que ocupa(ó)",
     'edujobs:add:cvwe_organization' => "Nombre de la institución",
@@ -302,6 +304,7 @@ $lang = array(
 	'edujobs:teachers:user:emptycvwe' => "Aún no ha ingresado Experiencia laboral",
 	'edujobs:teachers:user:emptycvedu' => "Aún no ha ingresado Educación",
 	'edujobs:teachers:user:emptycvlang' => "Aún no ha ingresado un Idioma",
+	'edujobs:teachers:user:emptycvport' => "No hay recursos en el portafolio",
     'edujobs:add:cvedu_degree' => "Título obtenido",
     'edujobs:add:cvedu_degree:note' => "Ingrese el título obtenido", 
     'edujobs:add:cvedu_school_name' => "Institución en la que estudió:",
@@ -455,9 +458,38 @@ $lang = array(
     'edujobs:delete:cvlang:success' => "El idioma fue eliminado satisfactoriamente",
     'edujobs:add:cv_paste_cv' => "Copie el texto de su CV y peguelo aquí",
     'edujobs:cv:portfolio' => "Portafolio",
-    
-		
+    'edujobs:cv:download:filenotexists' => "El archivo no existe",
+    'edujobs:cv:download:file' => "Archivo de certificación",
+    'edujobs:add:cvport_title' => "Titulo",
+    'edujobs:add:cvport_title:note' => "Ingresa el nombre del recurso", 
+    'edujobs:add:cvport_type' => "Tipo",
+    'edujobs:add:cvport_type:note' => "Selecciona si el recurso es un archivo o un enlace", 
+    'edujobs:add:cvport_link' => "Enlace",
+    'edujobs:add:cvport_link:note' => "Ingresa la dirección web del recurso", 
+    'edujobs:add:cvport_file' => "Archivo",
+    'edujobs:add:cvport_file:note' => "Selecciona el archivo desde el computador", 
+    'edujobs:add:cvport_recommend' => "¿Por qué recomendarías esto a otros docentes?",
+    'edujobs:add:cvport_recommend:note' => "Ingresa información relacionada al recurso", 
+    'edujobs:cv:addportfolio' => "Agregar Recurso al Portafolio",
+    'edujobs:cv:portfolio:link' => "Enlace",
+    'edujobs:cv:portfolio:file' => "Archivo",
+    'edujobs:cv:missing:cvport_title' => "Por favor ingresa el titulo",
+    'edujobs:cv:missing:cvport_type' => "Por favor ingresa el tipo",
+    'edujobs:cv:novalid_cvport_link' => "El enlace no es valido",
+    'edujobs:cv:missing:cvport_recommend' => "Por favor ingresa la recomendación",
+    'edujobs:portfolio:cvport_file:wrong_type' => "Tipo de archivo invalido",
+    'edujobs:cv:add:portfolio:failed' => "Error al guardar el recurso",
+    'edujobs:cv:add:portfolio:success' => "El recurso fue agregado satisfactoriamente al portafolio",  
+    'edujobs:add:cvport_file:title' => "Documento de Portafolio",  
+    'edujobs:delete:cvport:success' => "El recurso fue eliminado satisfactoriamente",
+    'edujobs:cv:port:edit' => "Actualizar",
+    'edujobs:cv:port:delete' => "Eliminar",
+    'edujobs:cv:portfolio:whyrecommend' => "Recomiendo este recurso por: ",
+    'edujobs:cv:download:portfile' => "Archivo de Portafolio",
+
+
     'edujobs:search:country' => "Seleccione el País",
+    'edujobs:search:allcountries' => "Todos los Paises",
     'edujobs:search:city' => "Seleccione la Ciudad",
     'edujobs:search:grades' => "Secciones",
     'edujobs:search:subjects' => "Asignaturas",
@@ -475,18 +507,20 @@ $lang = array(
 	'edujobs:search:select' => "Seleccionar", 
 	'edujobs:search:month01' => "Inmediatamente", 
 	'edujobs:search:month13' => "En 1 mes", 
-	'edujobs:search:month49' => "En 3 meses", 
-	'edujobs:search:cv_wey0' => "0 ", 
-	'edujobs:search:cv_wey1' => "1-2", 
-	'edujobs:search:cv_wey2' => "2-5", 
-	'edujobs:search:cv_wey5' => "5-10", 
-	'edujobs:search:cv_wey10' => ">10", 
-	
+	'edujobs:search:month49' => "En 3 meses",
+	'edujobs:search:cv_wey0' => "0 ",
+	'edujobs:search:cv_wey1' => "1-2",
+	'edujobs:search:cv_wey2' => "2-5",
+	'edujobs:search:cv_wey5' => "5-10",
+	'edujobs:search:cv_wey10' => ">10",
+
     // river
     'river:create:object:edujobs' => '%s publicó un nuevo empleo %s',
     'river:comment:object:edujobs' => '%s comentó en el empleo %s',
     'agora:river:annotate' => 'un comentario en este empleo',
-    'agora:river:item' => 'un elemento',	
+    'agora:river:item' => 'un elemento',
+
+	'edujobs:addcv:country' => "Selecciona tu País",
 	    
 );
 

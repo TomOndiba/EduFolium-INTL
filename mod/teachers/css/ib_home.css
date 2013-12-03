@@ -36,7 +36,7 @@
 .ib_ConnectBut {
 	width:214px;
 	height:184px;
-	background-image:url(../graphics/connect.png);
+	background-image:url(../graphics/home-connect.png);
 	background-size: contain;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -46,7 +46,7 @@
 .ib_ShareBut {
 	width:192px;
 	height:184px;
-	background-image:url(../graphics/b2copy.png);
+	background-image:url(../graphics/home-jobs.png);
 	background-size: contain;
 	background-position: center 30px;
 	background-repeat:no-repeat;

@@ -48,7 +48,7 @@ if (elgg_is_logged_in()) {
     ?>
 <div class="row">
     <div class="span5">
-        <div class="elgg-heading-site">
+        <div class="elgg-heading-site" >
             <div class="elgg-heading-site-logo">
 			<img src="/intl/_graphics/logo.png" style="height: 60px;">
 			<?php
@@ -89,7 +89,7 @@ if (elgg_is_logged_in()) {
 <script>
     (function() {
         $(".elgg-heading-site").click(function() {
-            window.location = elgg.config.wwwroot;
+            window.location = elgg.config.wwwroot+"edujobs/";
         });
     })();
 </script>

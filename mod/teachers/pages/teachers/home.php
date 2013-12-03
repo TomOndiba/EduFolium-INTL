@@ -6,7 +6,7 @@
     gatekeeper();
  
     // set the title
-    $title = "Inicio Docentes Colombia - EduFolium ";
+    $title = "Docentes - EduFolium ";
 	$user = elgg_get_logged_in_user_entity();
 	
 	$linkedIN_warning='<div id="ib_bannerButs" style="height:50px; padding:20px;min-height: 50px;width: 400px;">
@@ -30,20 +30,23 @@
 						<span class="ib_homeTitle">
 							Bienvenido '.$user->name.'!!<br><br>
 						</span>	
-							Estamos iniciando EduFolium y hemos creado algunas funcionalidades para que te conectes con otros docentes e intercambies ideas.<br>  
+							Conéctate con Docentes y Colegios de América Latina!<br>  
 						</p>
 					</div>
 
 					<div class="ib_ShareBut" style="display:none">
 						<div class="ib_buts">
-							<a href="/intl/file">Compartir Recursos Educativos</a>
+							<a href="/intl/edujobs/jobs">Explora Oportunidades Laborales</a>
 						</div>
+				
 					</div>
 
 					<div class="ib_ConnectBut" style="display:none">
 						<div class="ib_buts">
-							<a href="/intl/activity">Conéctese con otros Docentes</a>
+							<a href="/intl/activity">Comunidad de<br>Docentes</a>
 						</div>
+						
+					
 					</div>
 					<div class="ib_CreateBut" style="display:none">
 						<div class="ib_buts">
@@ -53,8 +56,8 @@
 			</div>
 			<script>
 					$("document").ready(function(){
-						$(".ib_ConnectBut").show("fast",function(){
-							$(".ib_ShareBut").show("fast",function(){
+						$(".ib_ConnectBut").show("slow",function(){
+							$(".ib_ShareBut").show("slow",function(){
 								//$(".ib_CreateBut").show("fast");
 							});
 						});

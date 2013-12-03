@@ -24,7 +24,7 @@ function teachers_init()
 
 		//CREATE CV
 		//CV-ZOHO
-		$item5 = new ElggMenuItem('ibpals_cv', "CREAR CV", 'edujobs/teachers/mycv');
+		$item5 = new ElggMenuItem('ibpals_cv', "COMUNIDAD", 'activity');
 		elgg_register_menu_item('site', $item5);		
 
 		//CV-ZOHO

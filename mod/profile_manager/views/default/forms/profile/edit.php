@@ -76,16 +76,16 @@
 				<script type="text/javascript">
 					$(document).ready(function(){
 
-						$("#custom_profile_type option:contains('Default')").attr("selected",false) ;					
-						$("#custom_profile_type option:contains('Docente')").attr("selected",true) ;					
+						//$("#custom_profile_type option:contains('Default')").attr("selected",false) ;					
+						//$("#custom_profile_type option:contains('Docente')").attr("selected",true) ;					
 					
-						elgg.profile_manager.change_profile_type();
+						//elgg.profile_manager.change_profile_type();
 					});
 				</script>
 			
 				<?php
 				 
-				echo "<div style='display:none'>";
+				echo "<div>";
 				echo "<label>" . elgg_echo("profile_manager:profile:edit:custom_profile_type:label") . "</label>";
 				echo elgg_view("input/dropdown", array("name" => "custom_profile_type",
 														"id" => "custom_profile_type",
@@ -274,7 +274,12 @@
 			function set_access_control(val){
 				$(".elgg-input-access").not(".simple_access_control").val(val);
 			}
+
+			$(".chzn-select").css( "display", "block" );
+		
 		</script>
+
+		
 		<style type="text/css">
 			.elgg-input-access {
 				display: none;

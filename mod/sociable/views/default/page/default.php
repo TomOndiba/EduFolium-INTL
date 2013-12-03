@@ -163,7 +163,7 @@ $lang = get_current_language();
 										</section>
 										<section class="ib_sectionB">
 										<h1>Conectar . . .</h1>
-										<h2>Encuentre a los mejores docentes y colegios de Colombia y aumente su visibilidad en la comunidad educativa. Expanda su red de contactos profesionales y explore nuevas posibilidades de trabajo..</h2>
+										<h2>Encuentre a los mejores docentes y colegios de América Latina y aumente su visibilidad en la comunidad educativa. Expanda su red de contactos profesionales y explore nuevas posibilidades de trabajo..</h2>
 										<div id="ib_butsNavigate">
 											<a class="ascensorLink ascensorLink3" onClick="_gaq.push(['_trackEvent','Nav-CSC','Create','T1 - Create']);">							
 												<div id="ib_butCreate">
@@ -195,7 +195,7 @@ $lang = get_current_language();
 										</section>
 										<section class="ib_sectionB">
 										<h1>Compartir . . .</h1>
-										<h2>Contribuya a crear una verdadera comunidad de práctica entre los profesionales de la educación en Colombia. Comparta con otros docentes los recursos educativos y experiencias de aprendizaje que ha diseñado, y aumente así su visibilidad profesional dentro de la comunidad EduFolium.</h2>
+										<h2>Contribuya a crear una verdadera comunidad de práctica entre los profesionales de la educación en América Latina. Comparta con otros docentes los recursos educativos y experiencias de aprendizaje que ha diseñado, y aumente así su visibilidad profesional dentro de la comunidad EduFolium.</h2>
 										<div id="ib_butsNavigate">
 											<a class="ascensorLink ascensorLink3" onClick="_gaq.push(['_trackEvent','Nav-CSC','Create','T1 - Create']);">							
 												<div id="ib_butCreate">
