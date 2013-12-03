@@ -26,6 +26,7 @@
 	$categorized_fields = profile_manager_get_categorized_fields($vars['entity'], true);
 	$cats = $categorized_fields['categories'];
 	$fields = $categorized_fields['fields'];
+	//$user = elgg_get_logged_in_user_entity();
 	
 	$user_metadata = profile_manager_get_user_profile_data($vars['entity']);
 	
@@ -73,6 +74,8 @@
 				}
 				
 				?>
+
+
 				<script type="text/javascript">
 					$(document).ready(function(){
 
