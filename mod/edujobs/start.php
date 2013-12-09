@@ -48,11 +48,11 @@ function edujobs_init() {
                 
     // Register entity_type for search
     elgg_register_entity_type('object', Edujobs::SUBTYPE);
-    //elgg_register_entity_type('object', Educv::SUBTYPE);
-    //elgg_register_entity_type('object', Educvedu::SUBTYPE);
-    //elgg_register_entity_type('object', Educvlang::SUBTYPE);
-    //elgg_register_entity_type('object', Educvport::SUBTYPE);
-    //elgg_register_entity_type('object', Educvwe::SUBTYPE);
+    elgg_register_entity_type('object', Educv::SUBTYPE);
+    elgg_register_entity_type('object', Educvedu::SUBTYPE);
+    elgg_register_entity_type('object', Educvlang::SUBTYPE);
+    elgg_register_entity_type('object', Educvport::SUBTYPE);
+    elgg_register_entity_type('object', Educvwe::SUBTYPE);
                 
     // Site navigation
     $item = new ElggMenuItem('edujobs', elgg_echo('edujobs:menu'), 'edujobs/jobs');

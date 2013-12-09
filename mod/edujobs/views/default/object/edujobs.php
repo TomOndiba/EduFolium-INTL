@@ -113,7 +113,7 @@ if ($jobs->canEdit()) {
 
 	$content .= '</div>';    
 }
-else if ($user->custom_profile_type == DOCENTE_PROFILE_TYPE_GUID)	{
+else if ($user->custom_profile_type != COLEGIO_PROFILE_TYPE_GUID)	{
 	$content .= '<div class="job-side">';
 	$apply = check_if_user_has_apply($user->guid, $jobs->guid);
 	if ($apply) {

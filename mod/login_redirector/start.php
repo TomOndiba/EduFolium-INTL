@@ -120,12 +120,17 @@
 		}
 		else
 		{
-			$profile_name='Docente';		
+			$profile_name='Default';		
 		}
 
-		if($profile_name=='Colegio')
-			$plugin->custom_redirect="[wwwroot]edujobs/teachers/view";	
-		
+		if(!strcmp($profile_name,'Colegio'))
+			$plugin->custom_redirect="[wwwroot]edujobs/teachers/view";
+			
+		if(!strcmp($profile_name,'Docente'))
+			$plugin->custom_redirect="[wwwroot]teachers/home";
+			
+		if(!strcmp($profile_name,'Default'))
+			$plugin->custom_redirect="[wwwroot]teachers/home";				
 
 		switch($pref){
 			case "homepage":

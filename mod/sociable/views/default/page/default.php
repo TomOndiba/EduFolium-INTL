@@ -110,7 +110,8 @@ $lang = get_current_language();
 		}
 		else
 		{
-			$profile_name='Docente';		
+			$profile_name='Docente';
+			$user->custom_profile_type = 169;		
 		}		
 	
 		if (!elgg_is_logged_in()){ 
@@ -304,81 +305,79 @@ Perfil = Docente
 
 
 	if (elgg_is_logged_in()) {
-		if($profile_name=='Docente')
+		if(($profile_name=='Docente')||($profile_name=='Default'))
 		{		
 	?>
-		<script type="text/javascript">
-		  _kmq.push(['identify', '<?php echo $user->username;?>']);
-		</script>
-        <div class="loader" style="display:none"></div>
-        <div class="elgg-page elgg-page-default">
-            <div class="elgg-page-messages">
-				<?php echo $messages; ?>
-            </div>
-            <div class="elgg-page-header">
-                <div class="elgg-inner">
-					<?php echo $header; ?>
-                </div>
-            </div>
-            <div class="elgg-page-body">
-                <div class="elgg-inner">
-		               <?php
-		               		               
-		               	if(	(elgg_get_context() == 'activity') || 
-		               		(elgg_get_context() == 'file') || 
-		               		(elgg_get_context() == 'members')|| 
-		               		(elgg_get_context() == 'membersmap')||
-		               		(elgg_get_context() == 'groups')||
-		               		(elgg_get_context() == 'thewire')
-		               		
-		               		){
-		               		echo $connect_menu;
-		               	}
-		               ?>	 
-					<?php echo $body; ?>
-                </div>
-            </div>
-            <div class="elgg-page-footer" style="display:none">
-                <div class="elgg-inner">
-					<?php echo $footer; ?>
-                </div>
-            </div>
-        </div>
-		<script>
-		
-		$(document).ready(function() {
-		
-			$(".elgg-menu-item-activity").css("display","none");
-
-			//CREAR CV
-			$(".elgg-menu-item-ibpals-cv").css("background-color","rgb(22, 126, 186)");
-			$(".elgg-menu-item-ibpals-cv").css("margin-left","400px");							
-			$('.elgg-menu-item-ibpals-cv').children().css('color', 'white');	
-			$('.elgg-menu-item-ibpals-cv').children().css('text-shadow', 'none');
-			$('.elgg-menu-item-ibpals-cv').children().hover().css("background-color","rgb(22, 126, 186)");		
-
-			//OFERTAS LABORALES
-			$(".elgg-menu-item-ibpals-jp").css("background-color","rgb(22, 126, 186)");
-			$(".elgg-menu-item-ibpals-jp").css("margin-left","10px");							
-			$('.elgg-menu-item-ibpals-jp').children().css('color', 'white');	
-			$('.elgg-menu-item-ibpals-jp').children().css('text-shadow', 'none');
-			$('.elgg-menu-item-ibpals-jp').children().hover().css("background-color","rgb(22, 126, 186)");	
-
-			//SHARE THIS
-			$(".at4-follow").css("top","50px").delay(800);
-	  
-		});
+			<script type="text/javascript">
+			  _kmq.push(['identify', '<?php echo $user->username;?>']);
+			</script>
+			<div class="loader" style="display:none"></div>
+			<div class="elgg-page elgg-page-default">
+				<div class="elgg-page-messages">
+					<?php echo $messages; ?>
+				</div>
+				<div class="elgg-page-header">
+					<div class="elgg-inner">
+						<?php echo $header; ?>
+					</div>
+				</div>
+				<div class="elgg-page-body">
+					<div class="elgg-inner">
+						   <?php
+											   
+							if(	(elgg_get_context() == 'activity') || 
+								(elgg_get_context() == 'file') || 
+								(elgg_get_context() == 'members')|| 
+								(elgg_get_context() == 'membersmap')||
+								(elgg_get_context() == 'groups')||
+								(elgg_get_context() == 'thewire')
+								
+								){
+								echo $connect_menu;
+							}
+						   ?>	 
+						<?php echo $body; ?>
+					</div>
+				</div>
+				<div class="elgg-page-footer" style="display:none">
+					<div class="elgg-inner">
+						<?php echo $footer; ?>
+					</div>
+				</div>
+			</div>
+			<script>
 			
-		
-		</script>
-		<?php echo elgg_view('page/elements/foot');  ?>
-	<?php
+			$(document).ready(function() {
+			
+				$(".elgg-menu-item-activity").css("display","none");
+
+				//CREAR CV
+				$(".elgg-menu-item-ibpals-cv").css("background-color","rgb(22, 126, 186)");
+				$(".elgg-menu-item-ibpals-cv").css("margin-left","400px");							
+				$('.elgg-menu-item-ibpals-cv').children().css('color', 'white');	
+				$('.elgg-menu-item-ibpals-cv').children().css('text-shadow', 'none');
+				$('.elgg-menu-item-ibpals-cv').children().hover().css("background-color","rgb(22, 126, 186)");		
+
+				//OFERTAS LABORALES
+				$(".elgg-menu-item-ibpals-jp").css("background-color","rgb(22, 126, 186)");
+				$(".elgg-menu-item-ibpals-jp").css("margin-left","10px");							
+				$('.elgg-menu-item-ibpals-jp').children().css('color', 'white');	
+				$('.elgg-menu-item-ibpals-jp').children().css('text-shadow', 'none');
+				$('.elgg-menu-item-ibpals-jp').children().hover().css("background-color","rgb(22, 126, 186)");	
+
+				//SHARE THIS
+				$(".at4-follow").css("top","50px").delay(800);
+		  
+			});
+				
+			
+			</script>
+			<?php echo elgg_view('page/elements/foot');  ?>
+<?php
 		}
 		else		
 		{
-		?>
 
-		<?php
 /**************
 Perfil = Colegio
 ***************/		
@@ -416,7 +415,6 @@ Perfil = Colegio
 			//$(".elgg-menu-site").css("display","none");
 			//$(".elgg-search").css("display","none");
 			//$(".elgg-inner").css("height","80px");
-		
 			
 			$(".elgg-menu-item-activity").css("display","none");
 
@@ -469,14 +467,14 @@ Perfil = Colegio
 	<div id="sociaRegister" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="sociaRegisterLabel" aria-hidden="true">
         <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h3 id="sociaRegisterLabel"><?php echo elgg_echo("Registro - Profesor"); ?></h3>
+            <h3 id="sociaRegisterLabel"><?php echo elgg_echo("Registro - Docente"); ?></h3>
         </div>
         <div class="modal-body">
             <?php echo elgg_view_form("register"); ?>
         </div>
         <div class="modal-footer" style="display:none">
-            <button class="btn btn-info socia_login" data-dismiss="modal">Login</button>
-            <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Close</button>
+            <button class="btn btn-info socia_login" data-dismiss="modal">Ingresar</button>
+            <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Cerrar</button>
         </div>
     </div>	
 		<?php
@@ -504,7 +502,7 @@ Perfil = Colegio
 				{'service': 'twitter', 'id': 'EduFolium'},
 				{'service': 'google_follow', 'id': '114645522359538105807'}
 			  ],
-			'postFollowTitle' : 'Gracias por seguir a EduFolium - intl!',
+			'postFollowTitle' : 'Gracias por seguir a EduFolium!',
 			'postFollowRecommendedMsg' : 'Recomendado para ti',
 			}   
 		  });

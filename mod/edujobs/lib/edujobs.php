@@ -344,7 +344,7 @@ function get_profile_type($user = null) {
 			else if ($profile_type->getTitle()=='Colegio') {
 				return 'Colegio';
 			}
-			 
+		 
 		}
 	}
 
