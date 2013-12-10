@@ -26,7 +26,6 @@ $options = array(
 	'list_type_toggle' => false,
 	'count' => false,
 	'pagination' => true,
-	//'owner_guid' => 7570,
 );
 
 //$profile_type_frm = array('name' => 'custom_profile_type','value' => DOCENTE_PROFILE_TYPE_GUID, 'operand' => '=');

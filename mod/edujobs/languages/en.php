@@ -11,7 +11,8 @@ $lang = array(
     'edujobs:menu' => "Jobs",
     'item:object:edujobs' => "Jobs",
     'item:object:jobappication' => "Job Applications",
-    
+    'item:object:educv' => "Teachers CV",
+        
     // Menu tab titles
     'edujobs:label:myjobs' => "My Jobs",
     'edujobs:label:mycv' => "My CV",
@@ -520,6 +521,9 @@ $lang = array(
     'river:comment:object:edujobs' => '%s commented on job %s',
     'agora:river:annotate' => 'a comment on this job',
     'agora:river:item' => 'an item',	
+    'river:update:object:educv' => '%s has update the CV',
+    'river:we:object:educvwe' => '%s has a new work experience',
+    'river:portfolio:object:educvport' => '%s has upload a new resource %s',
 	    
 	'edujobs:addcv:country' => "Select your Country",    
 	

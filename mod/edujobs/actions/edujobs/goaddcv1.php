@@ -99,6 +99,7 @@ if (check_if_user_is_teacher($user))   {
     
     $tagarray = string_to_tag_array($tags);   
   
+    $cv->title = $cv_name. ' ' . $cv_last_name; 
     $cv->cv_name = $cv_name; 
     $cv->cv_last_name = $cv_last_name; 
     $cv->cv_description = $cv_description; 
@@ -110,7 +111,8 @@ if (check_if_user_is_teacher($user))   {
     $cv->cv_telephone = $cv_telephone; 
     $cv->cv_address = $cv_address; 
     
-    $cv->access_id = $access_id;
+    //$cv->access_id = $access_id;
+    $cv->access_id = 2;
     $cv->tags = $tagarray;
     $cv->comments_on = 'Off';
     
@@ -122,6 +124,9 @@ if (check_if_user_is_teacher($user))   {
         register_error(elgg_echo('edujobs:cv:add:failed'));
     }   
     
+	//add to river
+	add_to_river('river/object/educv/update','update', elgg_get_logged_in_user_guid(), $cv->getGUID());
+
     forward('edujobs/teachers/addcv2/'.$user->guid); 
     //forward('edujobs/teachers/addcv2/'.$user->guid); 
 }

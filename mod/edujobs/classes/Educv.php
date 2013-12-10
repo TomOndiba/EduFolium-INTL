@@ -8,6 +8,7 @@ class Educv extends ElggObject {
     const SUBTYPE = "educv";
     
     protected $meta_defaults = array(
+		"title" 			=> NULL,
         "cv_name" 			=> NULL,	// CV 1
         "cv_last_name"		=> NULL,
         "cv_description"	=> NULL,
@@ -44,6 +45,7 @@ class Educv extends ElggObject {
         "cv_grade_othercategories_text"	=> NULL, 
         "cv_more_info" 					=> NULL,
         "cv_paste_cv" 					=> NULL,
+        "description" 					=> NULL,
         "tags" 				=> NULL,
         "comments_on" 		=> NULL,
     );    

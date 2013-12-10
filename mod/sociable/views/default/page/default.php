@@ -417,7 +417,9 @@ Perfil = Colegio
 			//$(".elgg-inner").css("height","80px");
 			
 			$(".elgg-menu-item-activity").css("display","none");
-
+			
+			$(".elgg-menu-item-teachers a").attr("href", "http://edufolium.com/intl/edujobs/")	;
+			
 			//CREAR CV
 			$(".elgg-menu-item-ibpals-cv").css("display","none");
 

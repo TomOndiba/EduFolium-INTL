@@ -131,7 +131,7 @@ if (empty($cv_description))   {
 		</span>
 	</div>
 	<div class='form-right'>
-		<?php echo elgg_view('input/date', array('name' => 'cv_birth_date', 'value' => $cv_birth_date)); ?>
+		<?php echo elgg_view('input/datepicker', array('name' => 'cv_birth_date', 'value' => $cv_birth_date)); ?>
 	</div>
 </div>
 
@@ -209,6 +209,7 @@ if (empty($cv_description))   {
 	</div>
 </div>	
 
+<!--
 <div class="form-wide">
 	<div class='form-left'>
 		<label><?php echo elgg_echo('access'); ?></label><br />
@@ -217,7 +218,7 @@ if (empty($cv_description))   {
 		 <?php echo elgg_view('input/access', array('name' => 'access_id', 'value' => $access_id, 'class' => 'access_selector')); ?>
 	</div>
 </div>	
-
+-->
 <div class="elgg-foot">
 <?php
 

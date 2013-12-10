@@ -83,7 +83,8 @@ if (check_if_user_is_teacher($user))   {
     $cvlang->cvlang_writing_score = $cvlang_writing_score; 
     $cvlang->cvlang_total_score = $cvlang_total_score; 
     //$cvlang->cvlang_cert_document = $cvlang_cert_document; 
-    $cvlang->access_id = $access_id;
+    //$cvlang->access_id = $access_id;
+    $cvlang->access_id = 2;
     
     if ($cvlang->save()) {
 		if ($cvlang_cert_document_file) {	

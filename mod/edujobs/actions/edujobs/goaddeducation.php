@@ -82,7 +82,8 @@ if (check_if_user_is_teacher($user))   {
     $cvedu->cvedu_time_from = $cvedu_time_from; 
     $cvedu->cvedu_time_to = $cvedu_time_to; 
   
-    $cvedu->access_id = $access_id;
+    //$cvedu->access_id = $access_id;
+    $cvedu->access_id = 2;
     
     if ($cvedu->save()) {
         elgg_clear_sticky_form('educvedupost');

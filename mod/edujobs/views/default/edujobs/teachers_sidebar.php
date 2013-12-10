@@ -48,7 +48,7 @@ $work_desired = get_work_desired_search();
 
 <div class="form-wide">
 	<label><?php echo elgg_echo('edujobs:search:city'); ?></label>
-	<?php echo elgg_view('input/text', array('name' => 'cv_birth_city', 'value' => $cv_birth_city)); ?>
+	<?php echo elgg_view('input/text', array('name' => 'cv_birth_city', 'value' => $cv_birth_city, 'onchange' => 'this.form.submit()')); ?>
 </div>
 
 <div class="form-wide">

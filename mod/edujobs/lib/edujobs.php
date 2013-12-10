@@ -101,6 +101,7 @@ function cv_prepare_form_vars($cv = null) {
 		'cv_grade_othercategories_text' => '',
 		'cv_more_info' => '',
 		'cv_paste_cv' => '',
+		'description' => '',
 		'access_id' => ACCESS_DEFAULT,
 		'container_guid' => elgg_get_page_owner_guid(),
 		'entity' => $cv,
@@ -344,11 +345,11 @@ function get_profile_type($user = null) {
 			else if ($profile_type->getTitle()=='Colegio') {
 				return 'Colegio';
 			}
-		 
+			 
 		}
 	}
 
-	return 'Docente';
+	return 'Default';
 }
 
 // check if user can post post (Colegio)
@@ -368,13 +369,13 @@ function check_if_user_can_post_jobs($user = null) {
 function check_if_user_is_teacher($user = null) {
 	if($user && $profile_type_guid = $user->custom_profile_type){
 		if(($profile_type = get_entity($profile_type_guid)) && ($profile_type instanceof ProfileManagerCustomProfileType)){
-			if ($profile_type->getTitle()=='Colegio') {
-				return false;
+			if ($profile_type->getTitle()=='Docente') {
+				return true;
 			}
 		}
 	}
     
-    return true;
+    return false;
 }
 
 // check if user is school

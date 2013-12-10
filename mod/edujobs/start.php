@@ -49,10 +49,10 @@ function edujobs_init() {
     // Register entity_type for search
     elgg_register_entity_type('object', Edujobs::SUBTYPE);
     elgg_register_entity_type('object', Educv::SUBTYPE);
-    elgg_register_entity_type('object', Educvedu::SUBTYPE);
-    elgg_register_entity_type('object', Educvlang::SUBTYPE);
-    elgg_register_entity_type('object', Educvport::SUBTYPE);
-    elgg_register_entity_type('object', Educvwe::SUBTYPE);
+    //elgg_register_entity_type('object', Educvedu::SUBTYPE);
+    //elgg_register_entity_type('object', Educvlang::SUBTYPE);
+    //elgg_register_entity_type('object', Educvport::SUBTYPE);
+    //elgg_register_entity_type('object', Educvwe::SUBTYPE);
                 
     // Site navigation
     $item = new ElggMenuItem('edujobs', elgg_echo('edujobs:menu'), 'edujobs/jobs');
@@ -68,6 +68,7 @@ function edujobs_init() {
     
     // Register a URL handler for jobs
     elgg_register_entity_url_handler('object', 'edujobs', 'edujobs_url');  
+    elgg_register_entity_url_handler('object', 'educv', 'educv_url');  
     
     // Add cv widget
 	elgg_register_widget_type('edujobs',	elgg_echo('edujobs:widget:cv'),	elgg_echo('edujobs:widget:cv:description'));
@@ -243,5 +244,23 @@ function edujobs_url($entity) {
 	$title = elgg_get_friendly_title($title);
 
 	return $CONFIG->url . "edujobs/job/view/" . $entity->getGUID() . "/" . $title;
+}
+
+function educv_url($entity) {
+	global $CONFIG;
+
+	$elgg_user = elgg_get_entities_from_metadata(array(
+		'type' => 'user',
+		'limit' => 1,
+		'full_view' => false,
+		'count' => false,
+		'pagination' => false,
+		'guid' => $entity->owner_guid,
+	));
+	
+	//$title = $entity->title;
+	//$title = elgg_get_friendly_title($title);
+
+	return $CONFIG->url . "edujobs/teachers/cv/" . $elgg_user[0]->username;
 }
 

@@ -106,6 +106,7 @@ if (check_if_user_is_teacher($user))   {
         $cvwe = new ElggObject;
         $cvwe->subtype = "educvwe";        
         $cvwe->container_guid = $container_guid;
+        $new = true;
         
         // Set its owner to the current user
 		$cvwe->owner_guid = elgg_get_logged_in_user_guid();
@@ -150,7 +151,8 @@ if (check_if_user_is_teacher($user))   {
     $cvwe->cvwe_grade_othercategories_text = $cvwe_grade_othercategories_text; 
     $tagarray = string_to_tag_array($tags); 
     $cvwe->tags = $tagarray;     
-    $cvwe->access_id = $access_id;
+    //$cvwe->access_id = $access_id;
+    $cvwe->access_id = 2;
     
     if ($cvwe->save()) {
         elgg_clear_sticky_form('educvwepost');
@@ -159,6 +161,11 @@ if (check_if_user_is_teacher($user))   {
     } else {
         register_error(elgg_echo('edujobs:cv:add:we:failed'));
     }   
+    
+    //add to river
+    if ($new) {
+		add_to_river('river/object/educv/we','we', elgg_get_logged_in_user_guid(), $cvwe->getGUID());
+	}
     
     forward('edujobs/teachers/addcv3/'.$user->guid); 
 }

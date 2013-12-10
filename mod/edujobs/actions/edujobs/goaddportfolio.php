@@ -121,6 +121,7 @@ if (check_if_user_is_teacher($user))   {
         $cvport = new ElggObject;
         $cvport->subtype = "educvport";        
         $cvport->container_guid = $container_guid;
+        $new = true;
         
         // Set its owner to the current user
 		$cvport->owner_guid = elgg_get_logged_in_user_guid();
@@ -156,7 +157,8 @@ if (check_if_user_is_teacher($user))   {
     $cvport->cvport_recommend = $cvport_recommend; 
     $cvport->tags = $tagarray;
 
-    $cvport->access_id = $access_id;    
+    //$cvport->access_id = $access_id;    
+    $cvport->access_id = 2;    
     
     if ($cvport->save()) {
 		if ($cvport_file_file) {	
@@ -216,6 +218,11 @@ if (check_if_user_is_teacher($user))   {
     } else {
         register_error(elgg_echo('edujobs:cv:add:portfolio:failed'));
     }   
+    
+    //add to river
+    if ($new) {
+		add_to_river('river/object/educv/portfolio','portfolio', elgg_get_logged_in_user_guid(), $cvport->getGUID());
+	}
     
     forward('edujobs/teachers/addcv7/'.$user->guid); 
 }

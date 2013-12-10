@@ -64,7 +64,7 @@ function ShowHideTextBox() {
 }
 
 
-  $(function() {
-    $( "#accordion" ).accordion();
-  });
+$(function() {
+$( "#accordion" ).accordion();
+});
 

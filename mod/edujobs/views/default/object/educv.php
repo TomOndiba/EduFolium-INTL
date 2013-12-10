@@ -136,12 +136,19 @@ if ($full) {
 		$body .= '</div>';
 	}
 	
-	if ($mycv->cv_paste_cv)	{
+	if ($mycv->descritpion)	{
+		$mycv_descritpion = $mycv->descritpion;
+	}
+	else	{
+		$mycv_descritpion = $mycv->cv_paste_cv;
+	}
+	if ($mycv_descritpion)	{
 		$body .= '<div class="cvsection">';
 		$body .= '<div><h3>'.elgg_echo('edujobs:cv:add6:title').'</h3></div>';
-		$body .= $mycv->cv_paste_cv;
+		$body .= $mycv_descritpion;
 		$body .= '</div>';
 	}
+	
 	if ($content_port)	{
 		$body .= '<div class="cvsection" id="tportfolio">';
 		$body .= '<div><h3>'.elgg_echo('edujobs:cv:add7:simple').'</h3></div>';

@@ -97,9 +97,10 @@ $content .= $jobs->description;
 $content .= '</div>';
 
 if ($jobs->canEdit()) {
+	$no_of_applicants = get_number_of_applicants($jobs->guid);
 	$content .= '<div class="job-side">';
 	$content .= '<p><a class="elgg-button elgg-button-submit" href="'. elgg_get_site_url().'edujobs/job/edit/'.$jobs->guid.'">'.elgg_echo('edujobs:view:job:update').'</a></p>';
-	$content .= '<p><a class="elgg-button elgg-button-submit" href="'. elgg_get_site_url().'edujobs/job/applicants/all/'.$jobs->guid.'">'.elgg_echo('edujobs:view:job:applicants').'</a></p>';
+	$content .= '<p><a class="elgg-button elgg-button-submit" href="'. elgg_get_site_url().'edujobs/job/applicants/all/'.$jobs->guid.'">'.elgg_echo('edujobs:view:job:applicants').' ('.$no_of_applicants.')</a></p>';
 	if ($jobs->access_id != 0) {
 		$ts = time();
 		$token = generate_action_token($ts);		
@@ -113,7 +114,7 @@ if ($jobs->canEdit()) {
 
 	$content .= '</div>';    
 }
-else if ($user->custom_profile_type != COLEGIO_PROFILE_TYPE_GUID)	{
+else if ($user->custom_profile_type == DOCENTE_PROFILE_TYPE_GUID)	{
 	$content .= '<div class="job-side">';
 	$apply = check_if_user_has_apply($user->guid, $jobs->guid);
 	if ($apply) {

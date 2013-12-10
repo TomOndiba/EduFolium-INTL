@@ -146,7 +146,8 @@ if (check_if_user_can_post_jobs($user))   {
     $job->published_until = $published_until; 
     $job->published_until_final = $start_time + $published_until;  //unixtime that job stop published
     $job->noofapplicants = 0; 
-    $job->access_id = $access_id;
+    //$job->access_id = $access_id;
+    $job->access_id = 2;
     $job->tags = $tagarray;
     $job->comments_on = 'Off';
 

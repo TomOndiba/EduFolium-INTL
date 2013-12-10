@@ -479,8 +479,7 @@ if (elgg_is_logged_in()) {
 		$options['filter_override'] = elgg_view('edujobs/nav-school', array('selected' => $selected));
 	}
 	else  {
-		$options['filter_override'] = elgg_view('edujobs/nav-teacher', array('selected' => $selected));	
-		//$options['filter_override'] = elgg_view('edujobs/nav', array('selected' => $vars['page']));
+		$options['filter_override'] = elgg_view('edujobs/nav', array('selected' => $vars['page']));
 	}
 }	
 

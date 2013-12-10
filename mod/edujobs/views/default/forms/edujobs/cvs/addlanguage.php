@@ -156,7 +156,7 @@ $langslevellist = get_lang_levels();
 	</div>
 </div>
 
-
+<!--
 <div class="form-wide">
 	<div class='form-left'>
 		<label><?php echo elgg_echo('access'); ?></label><br />
@@ -165,7 +165,7 @@ $langslevellist = get_lang_levels();
 		 <?php echo elgg_view('input/access', array('name' => 'access_id', 'value' => $access_id, 'class' => 'access_selector')); ?>
 	</div>
 </div>	
-
+-->
 
 <!------------------------------------------------------------------------------->
 <div class="elgg-foot">

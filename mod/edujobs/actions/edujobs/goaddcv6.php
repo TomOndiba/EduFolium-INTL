@@ -9,7 +9,8 @@ $user = elgg_get_logged_in_user_entity();
 
 if (check_if_user_is_teacher($user))   {
     // Get variables
-    $cv_paste_cv = get_input("cv_paste_cv");
+    //$cv_paste_cv = get_input("cv_paste_cv");
+    $description = get_input("description");
     $guid = (int) get_input('object_guid');
  
 	elgg_make_sticky_form('educvpost');
@@ -26,7 +27,7 @@ if (check_if_user_is_teacher($user))   {
 		forward(REFERRER);		
 	}
 		
-    $cv->cv_paste_cv = $cv_paste_cv; 
+    $cv->description = $description; 
                
     if ($cv->save()) {
         elgg_clear_sticky_form('educvpost');

@@ -295,6 +295,7 @@ if (!empty($cvwe_grade_othercategories) || !empty($cvwe_grade_othercategories_te
 	</div>
 </div>	
 
+<!--
 <div class="form-wide">
 	<div class='form-left'>
 		<label><?php echo elgg_echo('access'); ?></label><br />
@@ -303,7 +304,7 @@ if (!empty($cvwe_grade_othercategories) || !empty($cvwe_grade_othercategories_te
 		 <?php echo elgg_view('input/access', array('name' => 'access_id', 'value' => $access_id, 'class' => 'access_selector')); ?>
 	</div>
 </div>	
-
+-->
 
 <!------------------------------------------------------------------------------->
 <div class="elgg-foot">
