@@ -424,7 +424,14 @@ Perfil = Colegio
 			$(".elgg-menu-item-ibpals-cv").css("display","none");
 
 			//OFERTAS LABORALES
-			$(".elgg-menu-item-ibpals-jp").css("display","none");
+			$(".elgg-menu-item-ibpals-jp a").text("PUBLICAR OFERTA");
+			$(".elgg-menu-item-ibpals-jp").css("background-color","rgb(22, 126, 186)");
+			$(".elgg-menu-item-ibpals-jp").css("margin-left","490px");							
+			$('.elgg-menu-item-ibpals-jp').children().css('color', 'white');	
+			$('.elgg-menu-item-ibpals-jp').children().css('text-shadow', 'none');
+			$('.elgg-menu-item-ibpals-jp').children().hover().css("background-color","rgb(22, 126, 186)");				
+			$(".elgg-menu-item-ibpals-jp a").attr("href", "http://edufolium.com/intl/edujobs/job/add")	;			
+
 
 			//SHARE THIS
 			$(".at4-follow").css("top","50px").delay(800);

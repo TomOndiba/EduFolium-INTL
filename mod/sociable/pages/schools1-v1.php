@@ -61,6 +61,19 @@ $lang = get_current_language();
             <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Close</button>
         </div>
     </div>
+    <div id="sociaLogin" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="sociaLoginLabel" aria-hidden="true">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h3 id="sociaLoginLabel"><?php echo elgg_echo("Ingreso - Colegio"); ?></h3>
+        </div>
+        <div class="modal-body">
+            <?php echo elgg_view_form("login"); ?>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-info socia_register" data-dismiss="modal">Registrarse</button>
+            <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Cerrar</button>
+        </div>
+    </div>    
 
 	
 		<header class="IB_school_header">
@@ -68,28 +81,38 @@ $lang = get_current_language();
 					<div id="butSchools"><a href="/intl" class="transition">Docentes</a></div>		
 					<div id="IBPals_logo"><a href="/intl" class="transition"><img src="/intl/_graphics/logo.png"></a></div>
 				</div>	
-    
+				<div id="topforma">
+					<div id="logvalidate">
+						<a class="socia_register" href="<?php echo $CONFIG->url; ?>register" onClick="_gaq.push(['_trackEvent','SignUP-Schools','OpenForm','Top Menu']);">Regístrese</a>
+					</div>
+					<div class="logvalidateB">
+						<a class="socia_login" href="<?php /*echo $CONFIG->url; */?>login"><spam class="azul">Ingrese +</spam></a>
+					</div>
+				</div>    
 		</header>
 		<div id="schools_container">
 			
 			<section class="section1">
-				<h1>¡Olvidese de revisar cientos de hojas de vida para su proceso de contratación! Nosotros le damos acceso a los docentes que mejor se adaptan a sus necesidades de una manera fácil, cómoda y efectiva. </h1>
-				<p>EduFolium está creando la comunidad de docentes más grande de Latinoamérica.  A través de algoritmos que nos permiten hacer un ranking de los recursos educativos subidos en nuestra plataforma podemos ofrecerle acceso a los mejores docentes del país.  Encuentre perfiles de LinkedIn y muestras del trabajo de los docentes. </p>
+				<h1>Con cerca de 1,000 docentes en nuestra plataforma, EduFolium es una nueva alternativa para encontrar los mejores profesionales para su colegio.  </h1>
+				<p> EduFolium está creando la comunidad de docentes más grande de Latinoamérica. Tenemos en la actualidad más de 800 docentes activos en la comunidad en línea y más de 1,500 hojas de vida en nuestra base de datos (no todas disponibles para consulta en línea).  </p>
 			</section>
 			<section class="section2">
 				<div class="lupa"></div>
 				<div id="callAct">
 					<span class="destDos">
-						Si está interesado en conocer más de nuestros servicios registrese ya sin ningún costo o compromiso. No se necesita tarjeta de crédito.  
+						 Explore cientos de hojas de vida de Docentes, publique sus ofertas laborales y gestione los candidatos.  
 					</span>
 					<div class="ib_butEntrar" style="float:none;margin-top:20px">
-						<a class="socia_register" href="<?php echo $CONFIG->url; ?>register">Regístrese</a>
+						<a class="socia_register" onClick="_gaq.push(['_trackEvent','SignUP-Schools','OpenForm','Registrese']);" href="<?php echo $CONFIG->url; ?>register">Regístrese</a>
 					</div>		
 				</div>
 			</section>
 		</div>			
 
 		<script>
+		 
+			$('#topforma').css( "float", "left" );	
+			$('#topforma').css( "margin-left", "500px" );					
 			$('#custom_profile_fields_custom_profile_type').css( "display", "none" );
 			$('#custom_profile_fields_custom_profile_type').val($("#custom_profile_fields_custom_profile_type option:contains('Colegio')"));
 

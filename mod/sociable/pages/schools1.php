@@ -51,7 +51,7 @@ $lang = get_current_language();
 	<div id="sociaRegister" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="sociaRegisterLabel" aria-hidden="true">
         <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h3 id="sociaRegisterLabel"><?php echo elgg_echo("Resgistro - Colegios"); ?></h3>
+            <h3 id="sociaRegisterLabel"><?php echo elgg_echo("Registro - Colegios"); ?></h3>
         </div>
         <div class="modal-body">
             <?php echo elgg_view_form("register"); ?>
@@ -73,9 +73,8 @@ $lang = get_current_language();
 		<div id="schools_container">
 			
 			<section class="section1">
-				<h1>¿Cansado de recibir cientos de hojas de vida en su correo?<br> </h1>
-				<h1 style="font-size:1.6em">Nosotros le damos acceso a los docentes que mejor se adaptan a sus necesidades de una manera fácil, cómoda y efectiva. </h1>
-				<p>EduFolium está creando la comunidad de docentes más grande de Latinoamérica. </p>
+				<h1>Con cerca de 1,000 docentes en nuestra plataforma, EduFolium es una nueva alternativa para encontrar los mejores profesionales para su colegio. <br> </h1>
+
 				<p>
 				<a <a style="color:#006BA4" href="http://demo.edufolium.com/oferta_laboral.html"> Publique ofertas laborales</a>
 				en nuestro portal haciendo <a style="color:#006BA4" href="http://demo.edufolium.com/oferta_laboral.html"> click aquí</a>. Le enviaremos la información de los candidatos sin ningún costo

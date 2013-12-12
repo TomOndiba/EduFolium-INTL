@@ -49,7 +49,7 @@ $lang = get_current_language();
     <div id="sociaLogin" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="sociaLoginLabel" aria-hidden="true">
         <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h3 id="sociaLoginLabel"><?php echo elgg_echo("IB Teacher - Login"); ?></h3>
+            <h3 id="sociaLoginLabel"><?php echo elgg_echo("Ingreso - Docente"); ?></h3>
         </div>
         <div class="modal-body">
             <?php echo elgg_view_form("login"); ?>
@@ -62,7 +62,7 @@ $lang = get_current_language();
 	<div id="sociaRegister" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="sociaRegisterLabel" aria-hidden="true">
         <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h3 id="sociaRegisterLabel"><?php echo elgg_echo("Registro - Profesor"); ?></h3>
+            <h3 id="sociaRegisterLabel"><?php echo elgg_echo("Registro - Docente"); ?></h3>
         </div>
         <div class="modal-body">
             <?php echo elgg_view_form("register"); ?>
