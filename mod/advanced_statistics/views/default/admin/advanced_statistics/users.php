@@ -29,6 +29,7 @@ $title = elgg_echo('advanced_statistics:users:popular');
 $body = "<div id='advanced-statistics-users-popular' class='advanced-statistics-plot-container'></div><div class='elgg-ajax-loader'></div>";
 echo elgg_view_module("inline", $title, $body);
 
+
 $title = elgg_echo('advanced_statistics:users:most_used_domains');
 $body = "<div id='advanced-statistics-users-most-used-domains' class='advanced-statistics-plot-container'></div><div class='elgg-ajax-loader'></div>";
 echo elgg_view_module("inline", $title, $body);

@@ -105,9 +105,10 @@ $lang = get_current_language();
 					<section class="ib_sectionB" style="width: 400px;">
 					<h1 class="ib_signupT">Felicitaciones!</h1>
 						<h2 class="ib_signupP">
-							Se ha registrado satisfactoriamente en EduFolium.</br>
+							Se ha registrado satisfactoriamente en EduFolium.</br></br>
 							Ahora, solo necesita activar su cuenta. </br>
-							Por favor confirme su correo electrónico, haciendo click al enlace que se le envió a su dirección.
+							Por favor haga click al enlace que se le envió a su correo electrónico. </br></br>
+							Algunas veces este correo llega a la carpeta de "correo no deseado" (SPAM/JUNK), si aún no ha recibido el correo, no olvide verificar dicha carpeta.  
 						</h2>
 					</section>
 				
