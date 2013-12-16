@@ -216,7 +216,8 @@ switch ($page[0]) {
 				$in = array();
 				if(is_array($applies) && count($applies) > 0){
 					foreach ($applies as $ap) {
-					  $in[] = $ap->job_guid;
+					  if (is_numeric($ap->job_guid))
+						$in[] = $ap->job_guid;
 					}
 				}
 				$in = implode(',', $in);

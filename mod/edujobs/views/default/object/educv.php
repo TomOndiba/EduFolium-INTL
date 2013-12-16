@@ -193,7 +193,18 @@ else {
 		}
 		$languages = substr_replace($languages ,"",-2);
 	} 
-	
+
+	if (elgg_is_admin_logged_in())	{
+		$delete_link = elgg_view('output/url', array(
+			'href' => elgg_get_site_url().'action/edujobs/job/delete?guid='.$mycv->guid,
+			'text' => 'Delete',
+			'is_trusted' => true,
+			'is_action' => true,
+			'class' => 'elgg-button elgg-button-submit elgg-requires-confirmation',
+			'style' => 'float:right',
+		));
+	}
+     	
 	$title_url = elgg_view('output/url', array(
 		'href' => 'edujobs/teachers/cv/'.$elgg_user[0]->username,
 		'text' => $mycv->cv_name.' '.$mycv->cv_last_name,
@@ -206,7 +217,10 @@ else {
 	));
 	
 	// backward compatibility. Show name if title not available
-	if (!$mycv->title)$content =  '<h3>'.$title_url.'</h3>';
+	if (!$mycv->title) $content =  '<h3>'.$title_url.'</h3>';	
+	
+	$content =  $delete_link;
+	$content .=  '<h3>'.$title_url.'</h3>';
 	
 	$content .=  '<p>'.$mycv->cv_position_looking_for.'</p>';
 	$content .=  '<p>'.$mycv->cv_description.'</p>';

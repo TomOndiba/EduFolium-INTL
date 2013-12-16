@@ -34,6 +34,7 @@ $lang = array(
     'edujobs:teachers:myjobs:empty' => "You haven't apply to any jobs yet.",
     'edujobs:teachers:jobsmaylike:empty' => "No suggestions for you at the moment",
     'edujobs:delete:confirm' => "Do you really want to delete this ?",
+    'edujobs:delete:cv:success' => "CV was successfully deleted",
     
     'edujobs:add:requiredfields' => "All fields with asterisk are required",
     'edujobs:add:title' => "Job Title",
