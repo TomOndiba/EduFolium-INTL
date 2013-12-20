@@ -38,6 +38,14 @@ $title = elgg_echo('advanced_statistics:users:account_creation');
 $body = "<div id='advanced-statistics-users-account-creation' class='advanced-statistics-plot-container'></div><div class='elgg-ajax-loader'></div>";
 echo elgg_view_module("inline", $title, $body);
 
+$title = elgg_echo('advanced_statistics:users:account_creation_teachers');
+$body = "<div id='advanced-statistics-users-account-creation-teachers' class='advanced-statistics-plot-container'></div><div class='elgg-ajax-loader'></div>";
+echo elgg_view_module("inline", $title, $body);
+
+$title = elgg_echo('advanced_statistics:users:account_creation_schools');
+$body = "<div id='advanced-statistics-users-account-creation-schools' class='advanced-statistics-plot-container'></div><div class='elgg-ajax-loader'></div>";
+echo elgg_view_module("inline", $title, $body);
+
 $title = elgg_echo('advanced_statistics:users:account_status');
 $body = "<div id='advanced-statistics-users-account-status' class='advanced-statistics-plot-container'></div><div class='elgg-ajax-loader'></div>";
 echo elgg_view_module("inline", $title, $body);

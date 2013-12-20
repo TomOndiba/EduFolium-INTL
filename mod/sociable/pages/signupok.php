@@ -118,65 +118,28 @@ $lang = get_current_language();
 				</div>
 				</article>
 			</section>
-
-			<section>
-				<article class="container">
-				<div id="ib_connect">
-				<section class="ib_sectionA">
-					<div class="ib_cajafoto"><figure><img src="/intl/_graphics/connect.png"></figure></div>
-					</section>
-					<section class="ib_sectionB">
-						<h1>Connect . . .</h1>
-						<h2>Find IB teachers and schools around the world. Increase the value of your professional network and become more visible for potential job opportunities with renowned IB Schools. </h2>
-						<div id="ib_butsNavigate">
-						<div id="ib_butCreate"><a class="ascensorLink ascensorLink3"><span><img src="/intl/_graphics/cr.png"></span></a></div>
-						<div id="ib_butShare"><a class="ascensorLink ascensorLink2"><span><img src="/intl/_graphics/sh.png"></span></a></div>
-						<div id="ib_butHome"><a class="ascensorLink ascensorLink0"><span><img src="/intl/_graphics/home.png"></span></a></div>
-					</div>
-					
-					</section>
+			
+			<!-- Google Code for Edufolium Signup Conversion Page -->
+			<script type="text/javascript">
+				/* <![CDATA[ */
+				var google_conversion_id = 1024154874;
+				var google_conversion_language = "en";
+				var google_conversion_format = "2";
+				var google_conversion_color = "ffffff";
+				var google_conversion_label = "sQsBCJzapggQ-rmt6AM";
+				var google_conversion_value = 0;
+				var google_remarketing_only = false;
+				/* ]]> */
+			</script>
+			<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+			</script>
+			<noscript>
+				<div style="display:inline;">
+					<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1024154874/?value=0&amp;label=sQsBCJzapggQ-rmt6AM&amp;guid=ON&amp;script=0"/>
 				</div>
-				</article>
-			</section>
-
-			<section>
-				<article class="container">
-				<div id="ib_share">
-				<section class="ib_sectionA">
-					<div class="ib_cajafoto"><figure><img src="/intl/_graphics/share.png"></figure></div>
-				</section>
-				<section class="ib_sectionB">
-					<h1>Share . . .</h1>
-					<h2>Contribute to build a true IB community of practice. Share with your colleagues the learning experiences you've created. You'll find how your own teaching practice will improve by sharing what you know and learning from what others have created.</h2>
-					<div id="ib_butsNavigate">
-						<div id="ib_butCreate"><a class="ascensorLink ascensorLink3"><span><img src="/intl/_graphics/cr.png"></span></a></div>
-						<div id="ib_butConnect"><a class="ascensorLink ascensorLink1"><span><img src="/intl/_graphics/cn.png"></span></a></div>
-						<div id="ib_butHome"><a class="ascensorLink ascensorLink0"><span><img src="/intl/_graphics/home.png"></span></a></div>
-					</div>
-				</section>
-				</div>
-				</article>
-			</section>
+			</noscript>
 
 
-			<section>
-				<article class="container">
-				<div id="ib_create">
-				<section class="ib_sectionA">
-					<div class="ib_cajafoto"><figure><img src="/intl/_graphics/create.png"></figure></div>
-					</section>
-					<section class="ib_sectionB">
-						<h1>Create . . .</h1>
-						<h2>Finding it difficult to find a colleague at your school that understands the intricacies of your DP course or your Unit of Inquiry? Collaborate with other subject matter experts and create high quality learning experiences for your students. Gain professional visibility by sharing the results with the IB Pals community. </h2>							
-						<div id="ib_butsNavigate">
-							<div id="ib_butShare"><a class="ascensorLink ascensorLink2"><span><img src="/intl/_graphics/sh.png"></span></a></div>
-							<div id="ib_butConnect"><a class="ascensorLink ascensorLink1"><span><img src="/intl/_graphics/cn.png"></span></a></div>
-							<div id="ib_butHome"><a class="ascensorLink ascensorLink0"><span><img src="/intl/_graphics/home.png"></span></a></div>
-						</div>
-					</section>
-				</div>
-				</article>
-			</section>
 			<script>
 				prettyPrint();
 

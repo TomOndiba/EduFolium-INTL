@@ -64,6 +64,76 @@
 				$result["options"]["legend"] = array("show" => true, "position" => "e");
 				
 				break;
+			case "account-creation-teachers":
+				$data = array();
+				$data2 = array();
+				
+				$query = "SELECT FROM_UNIXTIME(r.time_created, '%Y-%m-%d') AS date_created, count(*) AS total";
+				$query .= " FROM " . $dbprefix . "entities e";
+				$query .= " JOIN " . $dbprefix . "entity_relationships r ON r.guid_one = e.guid";
+				$query .= " JOIN " . $dbprefix . "metadata md ON e.guid = md.entity_guid";
+				$query .= " WHERE r.guid_two = " . $current_site_guid . " AND r.relationship = 'member_of_site'";
+				$query .= " AND e.type = 'user'";
+				$query .= " AND r.time_created > 0";
+				$query .= " AND md.value_id=177";
+				$query .= " GROUP BY FROM_UNIXTIME(r.time_created, '%Y-%m-%d')";
+				
+				if($query_result = get_data($query)){
+					$total = 0;
+					
+					foreach($query_result as $row){
+						$date_total = (int) $row->total;
+						$total += $date_total; 
+						
+						$data[] = array($row->date_created , $date_total); 
+						$data2[] = array($row->date_created , $total); 
+					}
+				}
+				
+				$result["data"] = array($data, $data2);
+				$result["options"] = advanced_statistics_get_default_chart_options("date");
+				$result["options"]["series"] = array(
+					array("showMarker" => false, "label" => elgg_echo("admin:widget:new_users")),
+					array("showMarker" => false, "label" => elgg_echo("total") . " " . strtolower(elgg_echo("item:user")), "yaxis" => "y2axis")
+				);
+				$result["options"]["legend"] = array("show" => true, "position" => "e");
+				
+				break;
+			case "account-creation-schools":
+				$data = array();
+				$data2 = array();
+				
+				$query = "SELECT FROM_UNIXTIME(r.time_created, '%Y-%m-%d') AS date_created, count(*) AS total";
+				$query .= " FROM " . $dbprefix . "entities e";
+				$query .= " JOIN " . $dbprefix . "entity_relationships r ON r.guid_one = e.guid";
+				$query .= " JOIN " . $dbprefix . "metadata md ON e.guid = md.entity_guid";
+				$query .= " WHERE r.guid_two = " . $current_site_guid . " AND r.relationship = 'member_of_site'";
+				$query .= " AND e.type = 'user'";
+				$query .= " AND r.time_created > 0";
+				$query .= " AND md.value_id=243";
+				$query .= " GROUP BY FROM_UNIXTIME(r.time_created, '%Y-%m-%d')";
+				
+				if($query_result = get_data($query)){
+					$total = 0;
+					
+					foreach($query_result as $row){
+						$date_total = (int) $row->total;
+						$total += $date_total; 
+						
+						$data[] = array($row->date_created , $date_total); 
+						$data2[] = array($row->date_created , $total); 
+					}
+				}
+				
+				$result["data"] = array($data, $data2);
+				$result["options"] = advanced_statistics_get_default_chart_options("date");
+				$result["options"]["series"] = array(
+					array("showMarker" => false, "label" => elgg_echo("admin:widget:new_users")),
+					array("showMarker" => false, "label" => elgg_echo("total") . " " . strtolower(elgg_echo("item:user")), "yaxis" => "y2axis")
+				);
+				$result["options"]["legend"] = array("show" => true, "position" => "e");
+				
+				break;								
 			case "most-used-domains":
 				$data = array();
 				

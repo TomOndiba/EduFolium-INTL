@@ -10,6 +10,7 @@ $user = elgg_get_logged_in_user_entity();
 
 $uguid = get_input('uguid');
 
+
 // check if user can upload CV
 if (check_if_user_is_teacher($user) && $user->guid==$uguid) { 
 
@@ -23,7 +24,8 @@ if (check_if_user_is_teacher($user) && $user->guid==$uguid) {
 	if ($cv_guid)	{
 		$cv = get_entity($cv_guid);
 
-		$vars = cv_prepare_form_vars($cv);	
+		$vars = cv_prepare_form_vars($cv);
+			
 	}
 	else {
 		$vars = cv_prepare_form_vars();	

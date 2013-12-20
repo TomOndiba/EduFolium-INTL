@@ -216,12 +216,10 @@ else {
 		'is_trusted' => true,
 	));
 	
+	$content =  $delete_link;
 	// backward compatibility. Show name if title not available
 	if (!$mycv->title) $content =  '<h3>'.$title_url.'</h3>';	
-	
-	$content =  $delete_link;
-	$content .=  '<h3>'.$title_url.'</h3>';
-	
+		
 	$content .=  '<p>'.$mycv->cv_position_looking_for.'</p>';
 	$content .=  '<p>'.$mycv->cv_description.'</p>';
 	$content .=  '<p>';
