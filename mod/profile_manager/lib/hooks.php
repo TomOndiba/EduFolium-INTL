@@ -312,14 +312,14 @@
 		if(!empty($return_value)){
 			foreach($return_value as $key => $menu_item){
 				if($menu_item->getName() == "location"){
-					// add the new and improved version that supports 'old' location as tags field
-					if ($location = $params["entity"]->location) {
+					// add the new and improved version that supports 'old' location as tags field					if($params["entity"]->country)					{						$country = $params["entity"]->country;						$country = str_replace(" ", "_", $country);												if($country!='Seleccione_su_País')							$flag= "<img width='20' height='12' style='margin-left: 5px;padding-bottom: 5px;' alt='N/A' src='http://edufolium.com/intl/mod/edujobs/assets/flags/".$country.".png' ></img>";					}
+										if ($location = $params["entity"]->location) {
 						if(is_array($location)){
 							$location = implode(",", $location);
 						}
 						$options = array(
 									'name' => 'location',
-									'text' => "<span>$location</span>",
+									'text' => "<span>$location</span>". $flag,
 									'href' => false,
 									'priority' => 150,
 						);

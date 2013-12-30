@@ -19,9 +19,9 @@ $users = elgg_get_entities($options);
 //}
 
 echo '<table>';
-echo '<tr><th style="width:30px;">No</th><th style="width:200px;">Username</th><th style="width:200px;">Name</th><th style="width:300px;">Email</th><th style="width:100px;">CV</th></tr>';
+echo '<tr><th style="width:30px;">No</th><th style="width:200px;">Username</th><th style="width:200px;">Name</th><th style="width:300px;">Email</th><th style="width:100px;">CV</th><th style="width:100px;">Country</th><th style="width:100px;">Location</th></tr>';
 $i=0;
-
+$teachers="";
 foreach ($users as $u)  {
 	if ($u->custom_profile_type == DOCENTE_PROFILE_TYPE_GUID)	{
 		$link = elgg_view('output/url', array(
@@ -37,23 +37,45 @@ foreach ($users as $u)  {
 			else
 				{	
 					if ($u->School_Email)
+					{
 						echo '<td>'.$u->School_Email.'</td>';
+						$u->email = $u->School_Email;
+					}	
 					else
 						{
-							if($u->contactemail)	
+							if($u->contactemail)
+							{	
 								echo '<td>'.$u->contactemail.'</td>';
+								$u->email = $u->contactemail;
+							}
 							else
 								echo '<td>N/A</td>';
+								$u->email = "N/A";
 						}
 				}					
 			
 		$i=$i+1;											
-		if (check_if_user_has_cv($u)) 
-			echo '<td>YES</td></tr>';
-		else 	
-			echo '<td>NO</td></tr>';
+		if (check_if_user_has_cv($u))
+		{ 
+			echo '<td>YES</td>';
+			$cv="YES";
+		}
+		else
+		{ 	
+			echo '<td>NO</td>';
+			$cv="NO";
+		}
+			echo '<td>'.$u->country.'</td>';		
+			echo '<td>'.$u->location.'</td></tr>';
+						
+		$teachers.= $u->username. "|". $u->name ."|".	$u->email ."|".$cv ."\n";
 	}
 }
 echo '</table>';
 
 echo "<br />finished";
+//$fichero = 'usuarios.txt';
+//file_put_contents($fichero, $teachers);
+
+//$output = shell_exec('ruby edufolium_intl.rb');
+//echo "<br />Ruby Output: $output";

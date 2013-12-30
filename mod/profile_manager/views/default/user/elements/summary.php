@@ -57,12 +57,12 @@ if((elgg_get_plugin_setting("user_summary_control", "profile_manager") == "yes")
 							if(!empty($value)){
 								$spacer_allowed = true;
 								$field_result = elgg_view("output/" . $profile_fields[$field], array("value" => $value));
-							}
+							}								
 							break;
 					}
 					
 					if(!empty($field_result)){
-						$vars[$position] .= $spacer_result . $field_result;
+						$vars[$position] .= $spacer_result .$field_result;
 					}					
 				}	
 			}

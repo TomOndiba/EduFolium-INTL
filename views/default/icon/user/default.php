@@ -85,6 +85,7 @@ if ($show_menu) {
 	);
 	echo elgg_view_icon('hover-menu');
 	echo elgg_view_menu('user_hover', $params);
+
 }
 
 if ($use_link) {

@@ -145,7 +145,7 @@ $lang = get_current_language();
 									<section class="ib_sectionA">
 										<div class="ib_cajafoto">
 											<figure>
-												<img src="/intl/_graphics/edufolium-123.png" alt="Empleo para Docentes - EduFolium Colombia">
+												<img src="/intl/_graphics/edufolium-123.png" alt="Empleo para Docentes">
 											</figure>
 										</div>
 										<div class="ib_butEntrar">
@@ -367,6 +367,7 @@ Perfil = Docente
 
 				//SHARE THIS
 				$(".at4-follow").css("top","50px").delay(800);
+				$(".chzn-select").css( "display", "block" );					
 		  
 			});
 				
@@ -435,6 +436,8 @@ Perfil = Colegio
 
 			//SHARE THIS
 			$(".at4-follow").css("top","50px").delay(800);
+
+			$(".chzn-select").css( "display", "block" );			
 	  
 		});
 			

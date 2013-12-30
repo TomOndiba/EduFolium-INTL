@@ -264,6 +264,12 @@
 	?>
 	</div>
 
+		<script type="text/javascript">
+
+			$(".chzn-select").css( "display", "block" );
+		
+		</script>
+
 <?php 
 	if($simple_access_control == "yes"){ 
 		?>

@@ -84,6 +84,8 @@ $sharethis = '<!-- AddThis Button BEGIN -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51df54285c67c5b3"></script>
 <!-- AddThis Button END -->';
 
+$sharethis = "";
+
 $location = '';
 if ($jobs->city) $location .= $jobs->city;
 if ($jobs->country) $location .= ', ' . $jobs->country;
