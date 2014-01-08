@@ -55,6 +55,8 @@ if ($summary == $key) {
 if($subject->country)
 {
 if($subject->country!='Seleccione su País')
-	$flag= "<img style='margin-right:5px' width='20' height='12' alt='N/A' src='http://edufolium.com/intl/mod/edujobs/assets/flags/".$subject->country.".png' >";
+ 	$country = str_replace(" ", "_", $subject->country);
+	$flag= "<img style='margin-right:5px' width='20' height='12' alt='N/A' src='http://edufolium.com/intl/mod/edujobs/assets/flags/".$country.".png' >";
 }
+
 echo $flag.$summary;

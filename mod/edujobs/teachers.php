@@ -49,8 +49,10 @@ foreach ($users as $u)  {
 								$u->email = $u->contactemail;
 							}
 							else
+							{
 								echo '<td>N/A</td>';
 								$u->email = "N/A";
+							}	
 						}
 				}					
 			
@@ -74,8 +76,8 @@ foreach ($users as $u)  {
 echo '</table>';
 
 echo "<br />finished";
-//$fichero = 'usuarios.txt';
-//file_put_contents($fichero, $teachers);
+$fichero = 'usuarios.txt';
+file_put_contents($fichero, $teachers);
 
-//$output = shell_exec('ruby edufolium_intl.rb');
-//echo "<br />Ruby Output: $output";
+$output = shell_exec('ruby edufolium_intl.rb');
+echo "<br />Ruby Output: $output";

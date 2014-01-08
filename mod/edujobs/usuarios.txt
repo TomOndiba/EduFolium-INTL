@@ -1,31 +1,56 @@
+caceresalejandra4|Alejandra Cáceres|caceresalejandra4@gmail.com|NO
+AdrianaBravo|Adriana Bravo|bravopachita22@gmail.com|NO
+CaRoBecerraTéllez|CaRo Becerra Téllez|keroppy23_9@hotmail.com|NO
+angelg|Angel Girano|angelg@ciedi.edu.co|NO
+RodeCcapa|Rode Ccapa|waynakunaqalternancia@hotmail.com|NO
+lillith0022|nohora herrera|lillith0022@hotmail.com|NO
+GennyReyes|Genny Reyes|N/A|NO
+caro94q|Carolina Roa Q.|caro94q@gmail.com|NO
+juantoza|Julian Torres|juantoza@gmail.com|YES
+JaimeRivera|Jaime Rivera|profejaime58@hotmail.com|NO
+JonathanAndréAriasLópez|Jonathan André Arias López|novoskhaos@hotmail.com|NO
+JeimyAlexandraPardo|Jeimy Alexandra|jeimyalexandrapardo@hotmail.com|NO
+Deisy|Deisy Chavarro|valentina_c233@hotmail.com|NO
+ErwinGallo|Erwin Gallo|erwin897@gmail.com|NO
+DeisyValentina|Deisy Valentina|valentina_c233@hotmail.com|NO
+AlexandraPardoAvila|Alexandra Pardo Avila|sweetymoon17@hotmail.com|NO
+MarioNigrinis|Mario Nigrinis|mnigrinis@emiliovalenzuela.edu.co|YES
+cesarpava|César Augusto Pava Linares|cesarpava@gmail.com|NO
+licyurypaomarin|YURY MARIN|licyurypaomarin@hotmail.es|NO
+cotediego|diegocote|cotediego@gmail.com|YES
+LaformadoradelafeMariaLunaPérez|Laformadoradelafe Maria Luna Pérez|N/A|NO
+EfrainGutierrez|Efrain Gutierrez|gutierrezeduardo2003@yahoo.com.ar|NO
+yanelinpinguin0485|NOHORA YANETH PINTO NIÑO|yanelinpinguin0485@hotmail.com|NO
 angelalesmesjb|Jenny Angela Bernal Lesmes|angelalesmesjb@hotmail.com|NO
-AnaMariaMojicaArango|Ana Maria Mojica Arango|N/A|YES
-MarioGetial_8528|Mario Getial|N/A|NO
+AnaMariaMojicaArango|Ana Maria Mojica Arango|anamojica85@hotmail.com|YES
+MarioGetial_8528|Mario Getial|mgetial@yahoo.es|NO
+mariogetial2014|mario getial|mariogetial20013@gmail.com|NO
 carolina12_god|Carolina Moreno Marulanda|carolina12_god@yahoo.es|NO
 sandra|sandra Milena|samigapri@gmail.com|YES
-RodrigoRapoport|Rodrigo Rapoport|N/A|NO
-StefaNia|Stefa Nia|N/A|YES
+liceiyennyrocha|Yenny Rocha|ne_ni_1990@hotmail.com|NO
+RodrigoRapoport|Rodrigo Rapoport|rodrigorapoport@gmail.com|NO
+hermesindamosquera|HERMESINDA MOSQUERA|hermesindamosquera@gmail.com|NO
+StefaNia|Stefa Nia|tfy19@hotmail.com|YES
 Carola|Carola Jordan|maria.anguelus@gmail.com|YES
-HeilerLampreaConsejoSuperiorUpn|Heiler Lamprea Consejo Superior Upn|N/A|YES
-Bwtukiilnm|Bwtukiilnm|exte.nd.h.lua@gmail.com|NO
-MilagrosBetancourt|Milagros Betancourt|N/A|NO
-DeivyASaldaña|Deivy A Saldaña|N/A|NO
+HeilerLampreaConsejoSuperiorUpn|Heiler Lamprea Consejo Superior Upn|heylerlamprea55@hotmail.com|YES
+MilagrosBetancourt|Milagros Betancourt|mila5628@gmail.com|NO
+DeivyASaldaña|Deivy A Saldaña|daviscardona@hotmail.com|NO
 yenye16|Yenny Castañeda|yenye16@hotmail.es|YES
 johannasequera|Johanna|johannasequera@hotmail.com|NO
 diana050585|Diana Carolina Octavia|diana050585@gmail.com|NO
-IsmaeldelaCera|Ismael de la Cera|N/A|NO
+IsmaeldelaCera|Ismael de la Cera|ismael.de.la.cera@gmail.com|NO
 Francisco|Francisco|frlaor@hotmail.com|NO
 eliana.s.gonzalez|Eliana González|eliana.s.gonzalez@hotmail.com|YES
 Helena|Helena Bustos|bustos.hel@gmail.com|YES
 AngélicaMaría|Angélica María|anmayito@gmail.com|NO
 daniellabuenaventura|Daniella Buenaventura|daniellabuenaventura@gmail.com|NO
-OlgaAhumadaBonino|Olga Ahumada Bonino|N/A|NO
+OlgaAhumadaBonino|Olga Ahumada Bonino|olgahumada@yahoo.com.br|NO
 arnulfolinero|arnulfo linero|arnulfolinero@hotmail.com|NO
-MaríaAriza|María Ariza|N/A|NO
+MaríaAriza|María Ariza|stephy1806@hotmail.com|NO
 Beatriz|betty|alvarez.beatrizliliana@gmail.com|NO
-LuisCarvajal|Luis Carvajal|N/A|YES
+LuisCarvajal|Luis Carvajal|luchocarv@gmail.com|YES
 griseldace3|Cecilia|griseldace3@gmail.com|NO
-ValeriaVerona|Valeria Verona|N/A|NO
+ValeriaVerona|Valeria Verona|valeriaverona@hotmail.com|NO
 gladysvm20062|Gladys  Vargas|gladysvm20062@gmail.com|NO
 SoniaMolaro|Sonia Molaro|N/A|NO
 claudetta00|clau|claudetta00@yahoo.com.ar|NO
@@ -33,44 +58,44 @@ anfersavi|FERNANDO SAMANIEGO VILLA|edgarfernandosamaniego@gmail.com|NO
 geogon|GLADYS GONZALEZ|geogon@hotmail.com|NO
 fernyontiveros|FERNANDA|fernyontiveros@hotmail.com|NO
 maria_jose367|Maria Jose|maria_jose367@hotmail.com|YES
-ElianaKlotschan|Eliana Klotschan|N/A|NO
+ElianaKlotschan|Eliana Klotschan|eliklo@yahoo.com.ar|NO
 noraabran|nora beatriz abran|noraabran@hotmail.com|NO
-KarinaLeonik|Karina Leonik|N/A|NO
-LiliSel|Lili Sel|N/A|NO
+KarinaLeonik|Karina Leonik|karinaleonik@hotmail.com|NO
+LiliSel|Lili Sel|lililop_26@hotmail.com|NO
 JorgeRodrigoVargasGuerrero|Jorge Rodrigo Vargas Guerrero|N/A|NO
-MargaritaAguiar|Margarita Aguiar|N/A|NO
+MargaritaAguiar|Margarita Aguiar|prof.margaritaaguiar@gmail.com|NO
 liliaedithcan|LIlia Canosa|liliaedithcan@hotmail.com|NO
-EmilseImpoco|Emilse Impoco|N/A|NO
-FranciscoJavierAcosta|Francisco Javier Acosta|N/A|NO
-CristinaSaulo|Cristina Saulo|N/A|NO
+EmilseImpoco|Emilse Impoco|emilseimpoco@hotmail.com|NO
+FranciscoJavierAcosta|Francisco Javier Acosta|eljavideaca@hotmail.com|NO
+CristinaSaulo|Cristina Saulo|crissaulo2013@hotmail.com|NO
 marianadevincenzi|Mariana Devincenzi|marianadevincenzi@gmail.com|NO
 adrusruiz_1|Adriana Ruiz|adrusruiz_1@hotmail.com|NO
 MonicaTauil|Monica Tauil|N/A|NO
 SilviaViviana|Silvia Viviana|N/A|NO
 marley_cruzf|Marley|marley_cruzf@hotmail.com|NO
-MariaLuzGattini|Maria Luz Gattini|N/A|NO
+MariaLuzGattini|Maria Luz Gattini|marialuz323@hotmail.com|NO
 silviopiera|Silviopiera|silviopiera@hotmail.com|NO
 leofaber|LEOFABER|leofaberadoratrices@gmail.com|NO
 mariaclaudiasosa|maria|mariaclaudiasosa@gmail.com|NO
 bertaminin|berta minin|bertaminin@hotmail.com|NO
-MariaMarcelaLasagaWehrhahne|Maria Marcela Lasaga Wehrhahne|N/A|NO
+MariaMarcelaLasagaWehrhahne|Maria Marcela Lasaga Wehrhahne|lasagamarcela@yahoo.com.ar|NO
 enrique|edwin garces|enrique7336@hotmail.com|NO
 JoséI.Rozo|José Ignacio Rozo Villamil|joigrov@gmail.com|NO
-VivianaBombelli|Viviana Bombelli|N/A|NO
-CésarOrlandoPallaresDelgado|César Orlando Pallares Delgado|N/A|NO
+VivianaBombelli|Viviana Bombelli|viviskys@hotmail.com|NO
+CésarOrlandoPallaresDelgado|César Orlando Pallares Delgado|copdeb@hotmail.com|NO
 vivinallim|Viviana|vivinallim@live.com.r|NO
-aquilinodejesus_7659|aquilino dejesus|N/A|NO
+aquilinodejesus_7659|aquilino dejesus|losrodriguezfami@gmail.com|NO
 escalantecarina|Carina Anahi Escalante|escalantecarina@gmail.com|NO
 albalibertad2026|Alba Alcira López Bolívar|albalibertad2026@yahoo.com|YES
-norbelyscelis|norbelys celis|N/A|YES
+norbelyscelis|norbelys celis|norbely1@gmail.com|YES
 JimmyGuevara|Jimmy Guevara|jimmygyh@gmail.com|YES
 henrymoreno|Henry Moreno|henrymoreno@gmail.com|NO
 medoferrero|maurizio medo|medoferrero@gmail.com|NO
-marthamolina85|Martha Molina|marthamolina85@hotmail.com|NO
-OscarEspindola|Oscar Espindola|N/A|NO
-AvedenagoGuevaraBriceño|Avedenago Guevara Briceño|N/A|NO
+marthamolina85|Martha Molina|marthamolina85@hotmail.com|YES
+OscarEspindola|Oscar Espindola|oespindola@msn.com|NO
+AvedenagoGuevaraBriceño|Avedenago Guevara Briceño|abguebri@hotmail.com|NO
 fairyfer5|Martha Isabel Pineda Correa|fairyfer5@gmail.com|NO
-CarlosEnriqueSánchezRomero|Carlos Enrique Sánchez Romero|N/A|NO
+CarlosEnriqueSánchezRomero|Carlos Enrique Sánchez Romero|sanchezromeroc@gmail.com|NO
 sanchezromeroc|Carlos Sánchez|sanchezromeroc@gmail.com|NO
 beatriz.camacho92|BETTY CAMACHO|beatriz.camacho92@yahoo.com|NO
 fabilucky|Héctor Arévalo|fabilucky@hotmail.com|NO
@@ -79,17 +104,17 @@ dalexp30|Diego Alexander Pérez Castañeda|dalexp22@hotmail.com|YES
 manuelzeap|manuel zea|manuelzeap@gmail.com|NO
 GabrielaChiapa|Gabriela Chiapa|N/A|NO
 jarabe731|Jose Ariel Ramirez Bedoya|jarabe731@hotmail.com|NO
-JorgeDanielPajueloRamirez|Jorge Daniel Pajuelo Ramirez|N/A|NO
+JorgeDanielPajueloRamirez|Jorge Daniel Pajuelo Ramirez|fuse402010@hotmail.com|NO
 fuse402010|jorge|fuse402010@hotmail.com|NO
-HECTORFERNANDOTRIVINHOSANTOS|HECTOR FERNANDO TRIVINHO SANTOS|N/A|NO
+HECTORFERNANDOTRIVINHOSANTOS|HECTOR FERNANDO TRIVINHO SANTOS|hector3santos@gmail.com|NO
 ca.moreno.lizarazo|Carlos Moreno|ca.moreno.lizarazo@gmail.com|NO
 DanielaChiaramonte|Daniela Chiaramonte|N/A|NO
-ElianaMontico|Eliana Montico|N/A|NO
-PablitoLongo|Pablito Longo|N/A|NO
-AleTyler|Ale Tyler|N/A|NO
+ElianaMontico|Eliana Montico|eli.1977@hotmail.com.ar|NO
+PablitoLongo|Pablito Longo|pablogastonlongo@hotmail.com|NO
+AleTyler|Ale Tyler|alejayjuanda8588@hotmail.com|NO
 marmil22|Mariana|marmil22@yahoo.com.ar|NO
-ErnestitoTaya|Ernestito Taya|N/A|NO
-RocioRodriguezDurand|Rocio Rodriguez Durand|N/A|NO
+ErnestitoTaya|Ernestito Taya|ernestito_patron@hotmail.com|NO
+RocioRodriguezDurand|Rocio Rodriguez Durand|pilar317@hotmail.com|NO
 DiegoCano|Diego Cano|N/A|NO
 manuel_vera_morales|Manuel Enrique|manuel_vera_morales@hotmail.com|NO
 edasoni6|david soto|edasoni6@gmail.com|NO
@@ -99,95 +124,95 @@ arturobotiagil|ARTURO BOTIA GIL|arturobotiagil01@yahoo.es|NO
 alemartinez1966|Ale|alemartinez1966@gmail.com|NO
 NOKACABRERA|NOREXI|NOKACABRERA@HOTMAIL.COM|NO
 orlandopibe2569|orlando rolon potes|orlandopibe2569@hotmail.com|NO
-SilvanaVillalba-Villalba|Silvana Villalba-Villalba|N/A|NO
-JimmyAlexander|Jimmy Alexander|N/A|NO
-CatalinaQuitianOquendo|Catalina Quitian Oquendo|N/A|NO
-OscarMorales|Oscar Morales|N/A|NO
+SilvanaVillalba-Villalba|Silvana Villalba-Villalba|gregoadry737@hotmail.com|NO
+JimmyAlexander|Jimmy Alexander|jarr5@hotmail.com|NO
+CatalinaQuitianOquendo|Catalina Quitian Oquendo|cata28-8@hotmail.es|NO
+OscarMorales|Oscar Morales|fotonicaproducciones@gmail.com|NO
 anreacultura|Andrea Cerdeyra|anreacultura@yahoo.com.ar|NO
 mrsprincipalchildrensworld|YAZMIN CARDOZO MOZO|mrsprincipalchildrensworld@gmail.com|NO
 rosemhh|Rose Hinostroza|rosemhh@hotmail.com|NO
 nanper68|nanper|nanper68@yahoo.es|NO
-NorbertoRivero|Norberto Rivero|N/A|NO
+NorbertoRivero|Norberto Rivero|jnrivero@gmail.com|NO
 margarams|Margarita Maria Gutierrez|margarams@gmail.com|NO
 sandramedina0119|Sandra Medina|sandramedina0119@hotmail.com|NO
-IreneQuadarella|Irene Quadarella|N/A|NO
+IreneQuadarella|Irene Quadarella|irenedv1@gmail.com|NO
 reyklug|Pablo|reyklug@hotmail.com|NO
 merigponce|María del Carmen|merigponce@hotmail.com|NO
-JoséCarlosMaguiñaM.|José Carlos Maguiña M.|N/A|NO
+JoséCarlosMaguiñaM.|José Carlos Maguiña M.|josecarlosm@therevolutionbrain.com|NO
 manuelyarasca|Manuel Yarasca|manuelyarasca@hotamail.com|NO
-RoxanaHikawczuk|Roxana Hikawczuk|N/A|NO
-JoseVicentePadillaV|Jose Vicente Padilla V|N/A|NO
+RoxanaHikawczuk|Roxana Hikawczuk|roxhik@hotmail.com|NO
+JoseVicentePadillaV|Jose Vicente Padilla V|jvpadillav@gmail.com|NO
 SergioMuñoz|Sergio Muñoz|oigresjmg@gmail.com|NO
-AlfredoVinicioJaramillo|Alfredo Vinicio Jaramillo|N/A|NO
-LeticiaNoemíChávezBrito|Leticia Noemí Chávez Brito|N/A|NO
+AlfredoVinicioJaramillo|Alfredo Vinicio Jaramillo|jaramillov09@rambler.ru|NO
+LeticiaNoemíChávezBrito|Leticia Noemí Chávez Brito|lechabri@hotmail.com|NO
 alejandroreynals|Alejandro Fernandez|alejandroreynals@gmail.com|NO
 EDaza|EDaza|c.daza@hotmail.com|NO
-KaremGómez-Cadenas|Karem Gómez-Cadenas|N/A|NO
+KaremGómez-Cadenas|Karem Gómez Cadenas|karemcita04@hotmail.com|NO
 kusto|Rafael.Kusto|rafaelkusto@gmail.com|NO
 estudiayaprende2|Yohnny|estudiayaprende2@hotmail.com|NO
-CarlososOlveira|Carlosos Olveira|N/A|NO
+CarlososOlveira|Carlosos Olveira|carlosolveira09@gmail.com|NO
 escar|Esperanza Cardona|cardonapalomo24@yahoo.com|YES
 nozrag4|Oscar Alejandro Ardila|nozrag4@gmail.com|YES
 jorgeromero|Jorge Romero|jorgeromeroc@hotmail.com|NO
 jorgeromeroc|Jorge Romero|jorgeromeroc@hotmail.com|NO
 Juan|juank|jjuan_boy15@hotmail.com|NO
 moiramonzon|Moira Monzón|moiramonzon@gmail.com|NO
-EslyMaríaMonterrosaMontaño|Esly María Monterrosa Montaño|N/A|YES
+EslyMaríaMonterrosaMontaño|Esly María Monterrosa Montaño|e.trabajosupn@gmail.com|YES
 pedroluis|pedro|plas1871@hotmail.com|NO
 josuedonas|Josué Donaciano Ruiz García|josue_ci19@hotamil.com|NO
-DianaCastellanos|Diana Castellanos|N/A|NO
-JoséMiguel|José Miguel|N/A|NO
-CieFabafu|Cie Fabafu|N/A|NO
+DianaCastellanos|Diana Castellanos|dmariacastellanos@gmail.com|NO
+JoséMiguel|José Miguel|miguelcarapaz@hotmail.com|NO
+CieFabafu|Cie Fabafu|ciefabafu0878@yahoo.es|NO
 luiscardenaspadilla|Luis Cardenas Padilla|luiscardenaspadilla@hotmail.com|NO
 ollurago7171|Olga Lucia|ollurago7171@gmail.com|NO
-LuisAlfonsoJimenezMejia|Luis Alfonso Jimenez Mejia|N/A|NO
+LuisAlfonsoJimenezMejia|Luis Alfonso Jimenez Mejia|viejolajimenez@gmail.com|NO
 ClaraVenegas|Clara Venegas|N/A|NO
 fercho42000|Fernando Cobo Cisneros|fercho42000@yahoo.es|NO
 miguelmarchenacastro|Miguel Angel Marchena Castro|miguelmarchenacastro@hotmail.com|NO
 SILVANA|SILVANA|yurani-benavides-ortega@hotmail.com|NO
 pablotique|pablotique|pablotique@yahoo.com|YES
-LauraOjedaAlvarez|Laura Ojeda  Alvarez|N/A|NO
-AnaDoloresAvellaneda|Ana Dolores Avellaneda|N/A|YES
-JuanElCarlos|Juan El Carlos|N/A|NO
+LauraOjedaAlvarez|Laura Ojeda  Alvarez|lauraojedao@hotmail.com|NO
+AnaDoloresAvellaneda|Ana Dolores Avellaneda|lolitaconamor_315@hotmail.com|YES
+JuanElCarlos|Juan El Carlos|nauj585@hotmail.com|NO
 adris978|ADRIANA LAMPREA BERMUDEZ|adris978@hotmail.com|NO
 stefania.infantesanchez|Estefania Infante Sanchez|stefania.infantesanchez@gmail.com|NO
 PatricioCadena|Ing. Patricio Cadena|patocadena@hotmail.com|NO
-WilliamAlbertoGuamánBagua|William Alberto Guamán Bagua|N/A|NO
+WilliamAlbertoGuamánBagua|William Alberto Guamán Bagua|william-aguba@hotmail.es|NO
 RamiroAntonioForero|Ramiro Antonio Forero|N/A|NO
 dorammartinez|dora|dorammartinez@hotmail.com|NO
 cgoyo|Christian|goyo-christian@hotmail.com|NO
-RosanaMascaro|Rosana Mascaro|N/A|NO
+RosanaMascaro|Rosana Mascaro|mascaro.rosana@yahoo.com.ar|NO
 jhondarlen0717|ALEN  IBAÑEZ|jhondarlen0717@hotmail.com|NO
 almaflower9|maestra Alma|almaflower9@hotmail.com|NO
 LilianaEstupñan|Liliana Estupñan|N/A|YES
 liliana.estupiancaicedo|liliana caicedo|liliana.estupiancaicedo@gamil.com|NO
 jimmyhugo|JIMMY ALVARADO MIRANDA|jimmyhugo@hotmail.com|NO
 josealbertorodriguez2004|José Alberto Rodriguez|josealbertorodriguez2004@yahoo.es|NO
-SaraEsterAranguren|Sara Ester Aranguren|N/A|NO
-DiAe|Di Ae|N/A|NO
+SaraEsterAranguren|Sara Ester Aranguren|sara311057@gmail.com|NO
+DiAe|Di Ae|i_am_alexa@hotmail.es|NO
 m.catalina.suarez|Maria Catalina Suarez|m.catalina.suarez@hotmail.com|NO
-SebastianBritoCardona|Sebastian Brito Cardona|N/A|NO
+SebastianBritoCardona|Sebastian Brito Cardona|sese_707@hotmail.com|NO
 yadira|YINNY YADIRA MORENO PALACIOS|morena.9412@hotmail.com|NO
-LeydiJohanaParraFuertes|Leydi Johana Parra Fuertes|N/A|NO
-RamosRomell|Ramos Romell|N/A|NO
-KarenPaolaQuintanaBarrios|Karen Paola Quintana Barrios|N/A|NO
+LeydiJohanaParraFuertes|Leydi Johana Parra Fuertes|l.j0724@hotmail.com|NO
+RamosRomell|Ramos Romell|siromell@hotmail.com|NO
+KarenPaolaQuintanaBarrios|Karen Paola Quintana Barrios|karshalison@hotmail.com|NO
 PaúlAlbertoReynaGutiérrez|Paúl Alberto Reyna Gutiérrez|paul7115@hotmail.com|NO
-AliciaBarba|Alicia Barba|N/A|NO
-RobertoYturralde|Roberto Yturralde|N/A|NO
-MargaritaCastelazo|Margarita Castelazo|N/A|NO
+AliciaBarba|Alicia Barba|alibarba@fibertel.com.ar|NO
+RobertoYturralde|Roberto Yturralde|fyturral@gmail.com|NO
+MargaritaCastelazo|Margarita Castelazo|m.castelazo@hotmail.com|NO
 marcelaurrego|Diana Marcela Urrego|marcelaurrego@hotmail.com|NO
-MariaJuliaSranko|Maria Julia Sranko|N/A|NO
+MariaJuliaSranko|Maria Julia Sranko|juliasranko@hotmail.com|NO
 themasterjagj|jaguzman2000|themasterjag@gmail.com|NO
-AlejandraCereceda|Alejandra Cereceda|N/A|NO
+AlejandraCereceda|Alejandra Cereceda|iorana.korua@hotmail.com|NO
 iorana.korua|Alejandra|iorana.korua@hotmail.com|NO
-NoelyaAlvarez|Noelya Alvarez|N/A|NO
+NoelyaAlvarez|Noelya Alvarez|nono_py@hotmail.com|NO
 lupejaca|LUPE|lupejaca@hotmail.com|NO
-JuanAmayaSuárez|Juan Amaya Suárez|N/A|NO
-MarianelaPeraltaCaro|Marianela Peralta Caro|N/A|NO
+JuanAmayaSuárez|Juan Amaya Suárez|jsamayas@gmail.com|NO
+MarianelaPeraltaCaro|Marianela Peralta Caro|marianelaperalta@hotmail.com|NO
 pjimenezguzman|Pedro Enrique Jimenez Guzman|pjimenezguzman@hotmail.com|NO
 roraima|RORAIMA MARCO|roratyma@hotmail.com|NO
 gianninazamorarojas84|Giannina Zamora Rojas|gianninazamorarojas84@gmail.com|NO
-MarlenyVargas|Marleny Vargas|N/A|YES
+MarlenyVargas|Marleny Vargas|masoisarro04@hotmail.com|YES
 tonnylicing|tonnylicing|tonnylicing@hotmail.com|NO
 brigidarojascarraasco|BRIGIDA ROJAS CARRASCO|brigidarojascarraasco@gmail.com|NO
 mariaalicia_camino|Maria Camino|mariaalicia_camino@yahoo.com|NO
@@ -195,88 +220,88 @@ luzrosillon|Luz Marina|luzrosillon@hotmail.com|NO
 wally|Waleska Rosado-Mostefaoui|wallygreeneyes@hotmail.com|NO
 losrodriguezfami|aquilino|losrodriguezfami@gmail.com|NO
 aquilinodejesus|aquilino|aquilinodejesus@hotmail.com|NO
-LolereyEspina|Lolerey Espina|N/A|NO
-GenaroAlmazan|Genaro Almazan|N/A|NO
+LolereyEspina|Lolerey Espina|lolereyespina@hotmail.com|NO
+GenaroAlmazan|Genaro Almazan|genaroalmazan@hotmail.com|NO
 educatemas|Educate+|educatemas@hotmail.com|NO
 marcoaurelio|Marco Aurelio|macoml@hotmail.com|NO
 oscar|OSCAR|rubio1080@hotmail.com|NO
 kvillarreal30|karina villarreal|kvillarreal30@hotmail.com|YES
 selvin|Selvin Soto|skineet2050@hotmail.com|NO
 rumeli6|rudy Melendez|rumeli6@hotmail.com|NO
-LizethAguilarZumbado|Lizeth Aguilar Zumbado|N/A|NO
+LizethAguilarZumbado|Lizeth Aguilar Zumbado|lazumbado@hotmail.com|NO
 lazumbado|Lizeth|lazumbado@hotmail.com|NO
-LethyNaranjo|Lethy Naranjo|N/A|YES
+LethyNaranjo|Lethy Naranjo|curiquitaka@hotmail.com|YES
 curiquitaka|LETHY|curiquitaka@hotmail.com|NO
 evangpardo|Evangelina|evangpardo@gmail.com|NO
 diogenestg|Diògenes Tejada|diogenestg@hotmail.com|NO
 bichita1412|melissa molina|bichita1412@hotmail.com|NO
 josehs163|Josehs|josehs163@gmail.com|NO
 mito356|Jaime Canastuj|mito356@hotmail.com|NO
-AndresLozano_3463|Andres Lozano|N/A|NO
-SandraYaníderCalvoMurcia|Sandra Yaníder Calvo Murcia|N/A|NO
-PatriciaLlugdar|Patricia Llugdar|N/A|NO
+AndresLozano_3463|Andres Lozano|palma8807@hotmail.com|NO
+SandraYaníderCalvoMurcia|Sandra Yaníder Calvo Murcia|yanider@hotmail.com|NO
+PatriciaLlugdar|Patricia Llugdar|patriciallugdar@hotmail.com|NO
 valeska.garrido|Valeska Garrido|valeska.garrido@usach.cl|NO
-GinaPaolaBedoya|Gina Paola Bedoya|N/A|NO
-EdnitaCorazondechocolate|Ednita Corazondechocolate|N/A|NO
-IreneTorresdeCalens|Irene Torres de Calens|N/A|NO
+GinaPaolaBedoya|Gina Paola Bedoya|ginitalovevhbdoya197@gmail.com|NO
+EdnitaCorazondechocolate|Ednita Corazondechocolate|melancolia_ed@yahoo.com|NO
+IreneTorresdeCalens|Irene Torres de Calens|irectorres@hotmail.com|NO
 AnabelArrospideGallo|Anabel Arrospide Gallo|N/A|NO
 meugepicco|MaEuge|meugepicco@hotmail.com|NO
-JuanMartinCeballosAlmeraya|Juan Martin Ceballos Almeraya|N/A|NO
-JhonPolo|Jhon Polo|N/A|YES
+JuanMartinCeballosAlmeraya|Juan Martin Ceballos Almeraya|almeraya_6@hotmail.com|NO
+JhonPolo|Jhon Polo|jpolo156@gmail.com|YES
 martinveron27|Martín Verón de Astrada|martin19@hotmail.com|NO
-BrendaCáceresFuentes|Brenda Cáceres Fuentes|N/A|NO
+BrendaCáceresFuentes|Brenda Cáceres Fuentes|brenda-ve@hotmail.es|NO
 anaibern|Ana|anaibern@yahoo.com.ar|NO
-IgnacioEduardoReyesCayul|Ignacio Eduardo Reyes Cayul|N/A|NO
-ClaudiaLuciaCañonFranco|Claudia Lucia Cañon Franco|N/A|NO
+IgnacioEduardoReyesCayul|Ignacio Eduardo Reyes Cayul|ignacio.ignacito@gmail.com|NO
+ClaudiaLuciaCañonFranco|Claudia Lucia Cañon Franco|clcanonf102997@gmail.com|NO
 ruth.palaciosb|Ruth Palacios|ruth.palaciosb@gmail.com|NO
-DubisTorresPovea|Dubis Torres Povea|N/A|NO
-AndrésJara|Andrés Jara|N/A|NO
-SaraLuisaSotoReyes|Sara Luisa Soto Reyes|N/A|NO
-CristhianFrancisAtamari|Cristhian Francis Atamari|N/A|NO
+DubisTorresPovea|Dubis Torres Povea|dubistp@hotmail.com|NO
+AndrésJara|Andrés Jara|andresjc.bio@gmail.com|NO
+SaraLuisaSotoReyes|Sara Luisa Soto Reyes|luisarsot@hotmail.com|NO
+CristhianFrancisAtamari|Cristhian Francis Atamari|franck_zetha@hotmail.com|NO
 pabloleiva.csv|Pablo Leiva|pabloleiva.csv@gmail.com|NO
-EvelinNoeliaParedesSalas|Evelin Noelia Paredes Salas|N/A|NO
+EvelinNoeliaParedesSalas|Evelin Noelia Paredes Salas|eweeliin@hotmail.es|NO
 DiegoSaldíasMeza|Diego Saldías Meza|diego.saldiasm@usach.cl|NO
 CristiánPiñaCarrillo|Cristián Piña Carrillo|cristian.pinac@gmail.com|NO
 elferabad_aparicio|elfer|elferabad_aparicio@hotmail.com|NO
-FabiolaPezoa|Fabiola Pezoa|N/A|NO
+FabiolaPezoa|Fabiola Pezoa|tu_vampiressa@hotmail.com|NO
 alphemipe|Alphe|alphemipe@gmail.com|NO
-lilybell|lily bell|N/A|NO
+lilybell|lily bell|lirobe30@gmail.com|NO
 Pao1424c|Paola cuenca|Pao1424c@hotmail.com|NO
 kchvedine|Katiuska Chvedine|kchvedine@yahoo.com|NO
-EdithMTorres-Gracia|Edith M Torres-Gracia|N/A|NO
-AndreaEstradaLaurent|Andrea Estrada Laurent|N/A|NO
+EdithMTorres-Gracia|Edith M Torres-Gracia|Edithm.Torres@upr.edu|NO
+AndreaEstradaLaurent|Andrea Estrada Laurent|machis-78@hotmail.com|NO
 dmarcelapt|Marcela|dmarcelapt@hotmail.com|YES
-DavidPalacios_5176|David Palacios|N/A|NO
+DavidPalacios_5176|David Palacios|davidpalgut@gmail.com|NO
 irvingserrano|Irving Serrano|irvingserrano@yahoo.es|NO
 mcdominguezm|Mari Carmen|mcdominguezm@hotmail.com|NO
-IvonneEuladeAssis|Ivonne Eula de Assis|N/A|NO
-ElkinPalma|Elkin Palma|N/A|NO
+IvonneEuladeAssis|Ivonne Eula de Assis|soyjaji@hotmail.com|NO
+ElkinPalma|Elkin Palma|elkinpalma3@hotmail.com|NO
 jhonk|Jhon Kennedy Nieto|jhonk-1416@hotmail.com|NO
 SALAS|TEODORA|tcalvasalas@yahoo.com.mx|NO
-JuanAndrésMoralesVelasco|Juan Andrés Morales Velasco|N/A|NO
-tatianamosquera|tatiana mosquera|N/A|NO
+JuanAndrésMoralesVelasco|Juan Andrés Morales Velasco|tazchacal@hotmail.com|NO
+tatianamosquera|tatiana mosquera|marley320@gmail.com|NO
 maestraanamariacappiello|ana maria|maestraanamariacappiello@hotmail.com|NO
 fgriffith|Flora Griffith|floragriffithdeolivero@yahoo.com|NO
 Dhery1|Robert Vega|dhery1@hotmail.com|NO
 piternand0|Fer|piternand0@hotmail.com|NO
 Maria|Maria Cruz|marygarvel@yahoo.com|NO
 borispanchig|Boris Panchig Cardenas|borispanchig@hotmail.com|NO
-EdithDeLaRosaEstrada|Edith De La Rosa Estrada|N/A|NO
-AmeCordero|Ame Cordero|N/A|NO
+EdithDeLaRosaEstrada|Edith De La Rosa Estrada|edit2505@live.com.mx|NO
+AmeCordero|Ame Cordero|vannecm12@hotmail.com|NO
 raymundoedwinpem|Eraymundo|raymundoedwinpem@gmail.com|NO
-GermanLeoDiazlinares|German Leo Diazlinares|N/A|YES
+GermanLeoDiazlinares|German Leo Diazlinares|germanleonardo27@hotmail.com|YES
 dgacademiico|Denis|dgacademiico@hotmail.com|NO
-JnR|Jn R|N/A|NO
+JnR|Jn R|jnrivero@gmail.com|NO
 monicapavone|Mónica|monicapavone@live.com.ar|NO
-DaniloMorales|Danilo Morales|N/A|NO
+DaniloMorales|Danilo Morales|eldano3@hotmail.com|NO
 Estalin|Estalin Malla|estalin57@hotmail.com|NO
-MarleneMaicas|Marlene Maicas|N/A|NO
-ANDREAGARNICASUAREZ|ANDREA GARNICA SUAREZ|N/A|YES
-FernandoMorenoLara|Fernando Moreno Lara|N/A|NO
+MarleneMaicas|Marlene Maicas|marlene040163@hotmail.com|NO
+ANDREAGARNICASUAREZ|ANDREA GARNICA SUAREZ|juliandru6@gmail.com|YES
+FernandoMorenoLara|Fernando Moreno Lara|agris26_@starmedia.com|NO
 normanescau|Nélida Manescau|normanescau@yahoo.com.ar|NO
 estibaliz.perez|Estíbaliz Pérez|perez.estibaliz@gmail.com|NO
-EugeniaQuinteroRivero|Eugenia Quintero Rivero|N/A|NO
-ClariVaccarini|Clari Vaccarini|N/A|NO
+EugeniaQuinteroRivero|Eugenia Quintero Rivero|marugeniaquintero@hotmail.com|NO
+ClariVaccarini|Clari Vaccarini|clarisav5@gmail.com|NO
 matilde|Matilde|matildecobeas@yahoo.com.ar|NO
 VIRGINIO|VIRGILIO|lingamboav@hotmail.com|NO
 EméritoCalle|Emérito Calle|N/A|NO
@@ -286,39 +311,39 @@ evilorio|Emilio|evilorio@gmail.com|NO
 maria_del64|maria amparo|maria_del64@hotmail.com|NO
 eldymariana77|ELDY VASQUEZ|eldymariana77@gmail.com|NO
 CayitaGrand|Cayita Grand|N/A|NO
-Google_user_1135||N/A|NO
-JazminIbarroladeKrone|Jazmin Ibarrola de Krone|N/A|NO
+Google_user_1135||formarmundos@gmail.com|NO
+JazminIbarroladeKrone|Jazmin Ibarrola de Krone|jazminibarrola@hotmail.com|NO
 lametaeselcamino|Laura Guerra Bauzá|lametaeselcamino@gmail.com|NO
 canairagraterol|Canaíra Graterol|canairagraterol@hotmail.com|NO
 alarcon1389|Maria Paula|alarcon1389@gmail.com|NO
 Isabelfa|Isis|marthons@gmail.com|NO
-juancarlosgonzalezparra|juan carlos gonzalez parra|N/A|NO
-AngelaLeguizamo|Angela Leguizamo|N/A|YES
+juancarlosgonzalezparra|juan carlos gonzalez parra|licenciadohoy@gmail.com|NO
+AngelaLeguizamo|Angela Leguizamo|angela904@etb.net.co|YES
 crucetica|andrea cruz|crucetica@hotmail.com|NO
 jphoenix.07|jefferson|jphoenix.07@hotmail.com|NO
-WilliamAndresGranadaCampos|William Andres Granada Campos|N/A|NO
+WilliamAndresGranadaCampos|William Andres Granada Campos|william_gra@hotmail.com|NO
 audreyedithpntrz|Audrey|audreyedithpntrz@gmail.com|YES
 geragui123|Gerson Gerardo Aguirre Patiño|geragui123@hotmail.com|NO
-CarolinaCastaño|Carolina Castaño|N/A|NO
+CarolinaCastaño|Carolina Castaño|carito.castano@gmail.com|NO
 EdwinEliasAlanizCamacho|Edwin Elias Alaniz Camacho|N/A|NO
 Oresttes|Javier Echeverría|oresttess@hotmail.com|NO
-AlbaVenegasGuerrero|Alba Venegas Guerrero|N/A|NO
-EdwinFernandoGuzmanHenao|Edwin Fernando Guzman Henao|N/A|YES
-RuthMeza|Ruth Meza|N/A|NO
+AlbaVenegasGuerrero|Alba Venegas Guerrero|albitalvg@hotmail.com|NO
+EdwinFernandoGuzmanHenao|Edwin Fernando Guzman Henao|edwinferguz@gmail.com|YES
+RuthMeza|Ruth Meza|ingesmefe@hotmail.com|NO
 nymb22|NIDIA YAMILE GUTIERREZ|nymb22@hotmail.com|NO
-AdryanaGonzalez|Adryana Gonzalez|N/A|NO
-JehistEsquivTyler|Jehist Esquiv Tyler|N/A|NO
-AdriKaseres|Adri Kaseres|N/A|NO
-JuanManuelLozanoZuñiga|Juan Manuel Lozano Zuñiga|N/A|NO
-DuqueJosé|Duque José|N/A|NO
-VMILLÁNJuanC|V MILLÁN Juan C|N/A|NO
-PabloXanthopoulos|Pablo Xanthopoulos|N/A|NO
+AdryanaGonzalez|Adryana Gonzalez|adryanagonza@hotmail.com|NO
+JehistEsquivTyler|Jehist Esquiv Tyler|jehist6433@hotmail.com|NO
+AdriKaseres|Adri Kaseres|adri1co@yahoo.com|NO
+JuanManuelLozanoZuñiga|Juan Manuel Lozano Zuñiga|manolo27loz@gmail.com|NO
+DuqueJosé|Duque José|jjpardey@gmail.com|NO
+VMILLÁNJuanC|V MILLÁN Juan C|jcvmillan@gmail.com|NO
+PabloXanthopoulos|Pablo Xanthopoulos|px@stmary.edu.ar|NO
 maraqcua|RUBEN BARRETO|maraqcua@gmail.com|YES
-AdrianaLampreaBermudez|Adriana Lamprea Bermudez|N/A|NO
+AdrianaLampreaBermudez|Adriana Lamprea Bermudez|adris978@hotmail.com|NO
 carolina|carolina|karo.edufisica@gmail.com|YES
 ehofmann|Erika Leonor|ehofmann019@gmail.com|NO
 anrologo23|Ana Rosa López Gómez|anrologo23@hotmail.com|NO
-WilliamJavierCastillo|William Javier Castillo|N/A|NO
+WilliamJavierCastillo|William Javier Castillo|williamjavier.castillocastillo@gmail.com|NO
 henrykoreano|Henry Alberto Ramirez Florian|henrykoreano@gmail.com|NO
 erika|ERIKA TORRES|erikapicon11@hotmail.com|NO
 williamjavier.castillocastillo|William Javier Castillo|williamjavier.castillocastillo@gmail.com|YES
@@ -326,35 +351,35 @@ roneme54|ROSA|roneme54@hotmail.com|NO
 kari_09_13|Dayanna Araque|kari_09_13@hotmail.com|NO
 ag71724|uger|ag71724@gmail.com|NO
 josefernandoperezg|Fernando Pérez|josefernandoperezg@yahoo.com|YES
-LarryFragozo|Larry Fragozo|N/A|NO
-LarryJonatanFragozoVillafane|Larry Jonatan Fragozo Villafane|N/A|NO
+LarryFragozo|Larry Fragozo|fragozo821@hotmail.com|NO
+LarryJonatanFragozoVillafane|Larry Jonatan Fragozo Villafane|fragozo821@hotmail.com|NO
 pacha22|Adriana Bravo|pacha22@hotmail.com|YES
 rojasgonzalezmireya1|Mireya Rojas G.|rojasgonzalezmireya1@hotmail.com|NO
 saavedradorcas|Dorcas Saavedra|saavedradorcas@hotmail.com|NO
 salvechina|Daniel Rosales|salvechina@gmail.com|NO
-JohannaPaolaGranados|Johanna Paola Granados|N/A|YES
-NatalyBelloFernandez|Nataly Bello Fernandez|N/A|NO
+JohannaPaolaGranados|Johanna Paola Granados|johagrab@gmail.com|YES
+NatalyBelloFernandez|Nataly Bello Fernandez|natalybello1@gmail.com|NO
 pilarcastillo26|María del Pilar Castillo|pilarcastillo26@hotmail.com|NO
 Lufe|Luisa Fernanda Torres Jiménez|lufe40luisa40@hotmail.com|YES
 EdwinCarlos|Edwin Carlos|edwincarlos@hotmail.com|YES
-EduardoPuentesTorres|Eduardo Puentes Torres|N/A|NO
+EduardoPuentesTorres|Eduardo Puentes Torres|e.p1982@hotmail.com|NO
 ALEYDA|ALEYDA|aleyda_camacho@hotmail.com|NO
 gustavo|gustavo Ortegon|gustavo.961@hotmail.com|NO
 dianis|Diana|dianis15_0@hotmail.com|NO
 charte|ronald gaitan|xawwierftt@hotmail.com|NO
 miguelangelo|miguel  angel|mcieza60@hotmail.com|NO
-PaoBonilla|Pao Bonilla|N/A|YES
+PaoBonilla|Pao Bonilla|rosadita_22@hotmail.com|YES
 javisalc|Javier|javisalc@gmail.com|NO
-AlexMonoCastañeda|Alex Mono Castañeda|N/A|NO
+AlexMonoCastañeda|Alex Mono Castañeda|aleximono@gmail.com|NO
 myriamorr|Myriam orjuela|myriamorr@yahoo.com|NO
-NathaliaAndreaCubillosRodríguez|Nathalia Andrea Cubillos Rodríguez|N/A|YES
-DiegoAlejandroRamirez|Diego Alejandro Ramirez|N/A|NO
-MarioGetial|Mario Getial|N/A|NO
-MariaCamilaMunozArdila|Maria Camila Munoz Ardila|N/A|YES
+NathaliaAndreaCubillosRodríguez|Nathalia Andrea Cubillos Rodríguez|nathalia.cubillos.r@gmail.com|YES
+DiegoAlejandroRamirez|Diego Alejandro Ramirez|darz70@hotmail.com|NO
+MarioGetial|Mario Getial|mariogetial2013@gmail.com|NO
+MariaCamilaMunozArdila|Maria Camila Munoz Ardila|camiluna.10@hotmail.com|YES
 andcar_09|Andrea Carolina Cruz Rios|andcar_09@hotmail.com|NO
 nimujica|Nicolás Mujica|nimujica@gmail.com|NO
-RicardoGarcia|Ricardo Garcia|N/A|NO
-JorgeCanalesRodríguez|Jorge Canales Rodríguez|N/A|NO
+RicardoGarcia|Ricardo Garcia|rycardogg@yahoo.es|NO
+JorgeCanalesRodríguez|Jorge Canales Rodríguez|jorgecanales_r@hotmail.com|NO
 yaritza3079|Yaritza Urriola|yaritza3079@hotmail.com|NO
 Fega|Fernanda Gabriela|nandaela@gmail.com|NO
 mayuarevalo|mayu|mayuarevalo@gmail.com|NO
@@ -362,43 +387,43 @@ cristian.sosa|Cristian Sosa|cristian.sosa@gmail.com|NO
 jcvanegasariza|Julia Vanegas|jcvanegasariza@hotmail.com|YES
 ErikaVargas|ErikaVargas|erikita379@hotmail.com|NO
 ricardorodolfo2004|RICARDO|ricardorodolfo2004@gmail.com|NO
-NahomyArenas|Nahomy Arenas|N/A|NO
+NahomyArenas|Nahomy Arenas|gestiongarantizada@gmail.com|NO
 vicente.1978|Vicente Morocho|vicente.1978@yahoo.es|NO
 bmedinao|Benjamin Medina|bmedinao@hotmail.com|NO
 josebaeza|Jose baeza|josebaeza@gmail.com|NO
 connarias|constanza arias|constanza.arias@gmail.com|NO
-LicIsraelGarcíaRamirez|Lic Israel García Ramirez|N/A|NO
+LicIsraelGarcíaRamirez|Lic Israel García Ramirez|i-s-ra007@hotmail.com|NO
 Martha|Martha Castro Villa|estrella.castrovilla6@gmail.com|NO
 noramiro|noramiro|mirogali@hotmail.com|NO
 MixterioMisterio|Jose L. Sandoval|zandovalrbk@hotmail.com|NO
 fontanazul|José Abel Torres Conde|fontanazul33@yahoo.com.mx|NO
 natis|natis|natis523_1@hotmail.com|NO
-LudwigJohannsenMehner|Ludwig Johannsen Mehner|N/A|NO
+LudwigJohannsenMehner|Ludwig Johannsen Mehner|ljohannsen@humboldt.edu.mx|NO
 marinafe1204|Marina|marinafe1204@hotmail.com|NO
-MargaritaViana|Margarita Viana|N/A|NO
+MargaritaViana|Margarita Viana|marviana@hotmail.com|NO
 Rosa|ROSA|cortes_aguirre_miriam@hotmail.com|NO
 oswaldomerchan|ECUADOR EMPRENDE|oswaldomerchan@hotmail.com|NO
 idijupeli|idianis|idijupeli@hotmail.com|NO
-JoaquínSolano_7682|Joaquín Solano|N/A|NO
+JoaquínSolano_7682|Joaquín Solano|joaquinsolana@yahoo.com.co|NO
 JorgeEduardoRodriguezMiranda|Jorge Eduardo Rodriguez Miranda|N/A|YES
 junker_odca|Daniel|junker_odca@hotmail.com|NO
-AnaMariaMojicadeMendoza|Ana Maria Mojica de Mendoza|N/A|NO
-CarolinaGonzález|Carolina González|N/A|NO
+AnaMariaMojicadeMendoza|Ana Maria Mojica de Mendoza|anamojica85@hotmail.com|NO
+CarolinaGonzález|Carolina González|cgonzalezra@gmail.com|NO
 bethsy1516|Bethsy Marcela|bethsy1516@hotmail.com|YES
-LauraQuintero_8111|Laura Quintero|N/A|NO
+LauraQuintero_8111|Laura Quintero|quinterolaura72@gmail.com|NO
 aperezgil|Ana ELizabeth|aperezgil@gmail.com|NO
-JuanCarlosAlvarezMora|Juan Carlos Alvarez Mora|N/A|NO
+JuanCarlosAlvarezMora|Juan Carlos Alvarez Mora|masterjuan9@gmail.com|NO
 claudia_camacho61|Claudia Camacho Beltran|claudia_camacho61@yahoo.com|NO
 monicamrc013|Mónica Murcia|monicamrc013@gmail.com|YES
 canvagadu|Carlos Andrés|canvagadu@gmail.com|NO
-ElvisLópez|Elvis López|N/A|NO
+ElvisLópez|Elvis López|elvis63169@hotmail.com|NO
 elvis63169|Elvis López|elvis63169@hotmail.com|NO
 disoider|Nathalia Valbuena|disoider@gmail.com|YES
 PedroGalvis|Pedro Galvis|pepegale@gmail.com|NO
-GladysEslava|Gladys Eslava|N/A|NO
-LeidyMarcelaAngelOrtega|Leidy Marcela Angel Ortega|N/A|NO
+GladysEslava|Gladys Eslava|gladyseslava_2005@hotmail.com|NO
+LeidyMarcelaAngelOrtega|Leidy Marcela Angel Ortega|monjita1087@hotmail.com|NO
 neisve28|Neisve|neisve28@hotmail.com|NO
-LuisÁngelPérezCante|Luis Ángel Pérez Cante|N/A|YES
+LuisÁngelPérezCante|Luis Ángel Pérez Cante|lperez@openmailbox.org|YES
 GEOVANNYGARCÍA|GEOVANNY GARCÍA|liceoporvenir@hotmail.com|NO
 luzdy5000|Luzdy|luzdy5000@yahoo.com|NO
 andrea.hernandez1588|Andrea Hernandez|andrea.hernandez1588@hotmail.com|YES
@@ -408,23 +433,23 @@ MariemKaterineMaderaMachado|Mariem Katerine Madera Machado|geografa0891@hotmail.
 fredy|FREDY AVILA SANCHEZ|fredy-profemat@hotmail.com|NO
 nancymateus|Nancy Mateus|nancy_mateus@yahoo.es|NO
 gear0617|Gabriel0617|gear0617@hotmail.com|NO
-DanielWinstonChavesRamirez|Daniel Winston Chaves Ramirez|N/A|YES
+DanielWinstonChavesRamirez|Daniel Winston Chaves Ramirez|chavesramirez@gmail.com|YES
 maritzamateusv|Maritza Mateus Vargas|maritzamateusv@hotmail.com|NO
 tami_1709|Tania Maribel Getial Quenoran|tami_1709@hotmail.com|NO
-MarthaYadiraOtaloraRojas|Martha Yadira Otalora Rojas|N/A|NO
+MarthaYadiraOtaloraRojas|Martha Yadira Otalora Rojas|myadira.otalora@hotmail.com|NO
 mirandaforero|ÓSCAR MIRANDA|mirandaforero@gmail.com|YES
-FelipeGuevara|Felipe Guevara|N/A|NO
+FelipeGuevara|Felipe Guevara|a-gutierrezg@hotmail.com|NO
 valen.sanchezb|Valentina Sánchez|valen.sanchezb@gmail.com|NO
 tcastillo|Thayira|tcastillo@ucla.edu.ve|NO
 fhgarcia|Fabio H. Garcia Gomez|fhgarcia@misena.edu.co|NO
 juliadsm|Julia Dolores Salamandra Martinez|juliadsm@hotmail.com|NO
 soniareyes|Sonia Lisbeth Reyes Neira|soniareyes17@yahoo.com|YES
-ManjulaLondoño|Manjula Londoño|N/A|NO
+ManjulaLondoño|Manjula Londoño|tatathc@hotmail.com|NO
 gladyshurtadoosorio|Gladys Huirtado|gladyshurtadoosorio@gmail.com|NO
-WejxaLuucx|Wejxa Luucx|N/A|NO
+WejxaLuucx|Wejxa Luucx|wejxa@hotmail.com|NO
 sanguino777|José Agustin Sanguino|sanjast777@hotmail.com|NO
 dubistp|DUBIS TORRES POVEA|dubistp@hotmail.com|NO
-Javierperezpineda|Javier perez pineda|N/A|NO
+Javierperezpineda|Javier perez pineda|jpboreal@gmail.com|NO
 rosafer204|Rosa Maria Fernandez|rosafer204@yahoo.es|NO
 ar.178|RUTH|ar.178@hotmail.com|NO
 quimidios|Diana Garcia|quimidios@yahoo.es|NO
@@ -432,72 +457,72 @@ ingridaramirezm|INGRID|ingridaramirezm@yahoo.com|NO
 andreadealpilar|andrea del pilar rodriguez riaño|andreadelpilr40_@hotmail.com|NO
 leomateusbedoya|LEONARDO MATEUS BEDOYA|leomateusbedoya@gmail.com|NO
 rokitaq|IGNACIO ROCA|rokitaq@yahoo.es|NO
-ClarisaMori|Clarisa Mori|N/A|NO
+ClarisaMori|Clarisa Mori|clarimoriyriesco@yahoo.com.ar|NO
 kdianaarroyo|Diana|kdianaarroyo@gmail.com|NO
 claublap21|Claudia|claublap21@gmail.com|NO
 158427011969|Alcibiades Nieto Zambrano|nietoalcibiades@gmail.com|NO
 juannzuluagaosorio|Juan Norberto Zuluaga Osorio|juannzuluagaosorio@gmail.com|NO
-EdwinEnriqueRojasFerrari|Edwin Enrique Rojas Ferrari|N/A|NO
+EdwinEnriqueRojasFerrari|Edwin Enrique Rojas Ferrari|rosarios77@gmail.com|NO
 lvanessaw|Vanessa Mora|lvanessaw@hotmail.com|YES
 mnieves91|Maura Nieves|mnieves91@hotmail.com|NO
-PatriciaMHerreraSalazar|Patricia M Herrera Salazar|N/A|NO
-JohannaRodriguez_7127|Johanna Rodriguez|N/A|NO
-LauraMarcelaPereaVélez|Laura Marcela Perea Vélez|N/A|NO
+PatriciaMHerreraSalazar|Patricia M Herrera Salazar|patty_launica@hotmail.com|NO
+JohannaRodriguez_7127|Johanna Rodriguez|johannaluna00@gmail.com|NO
+LauraMarcelaPereaVélez|Laura Marcela Perea Vélez|marcelalau15@gmail.com|YES
 doragaldana|Dora Gallo Aldana|doragaldana@gmail.com|NO
-MiguelIto|Miguel Ito|N/A|NO
+MiguelIto|Miguel Ito|felipe24mg@gmail.com|NO
 Atuco2010|Ivan Villarreal|ivillarrealarango@gmail.com|NO
-JulianGuzman|Julian Guzman|N/A|NO
+JulianGuzman|Julian Guzman|julian83g83@gmail.com|NO
 jesucristo|Alexander Luna Nieto|alexlunanieto@gmail.com|NO
 natap84|Natalia Perez|natap84@hotmail.com|NO
-JuanPabloCastel|Juan Pablo Castel|N/A|NO
+JuanPabloCastel|Juan Pablo Castel|molinagomezcarlosalberto@gmail.com|NO
 william3276|William Aguilera|william3276@gmail.com|NO
 harrypkr|Harry Augusto Gómez Espinosa|harry1118@hotmail.com|NO
 cduqueosfer|CLAUDIA PATRICIA DUQUE GIRALDO|cduqueosfer@gmail.com|NO
 andreakml05|Andrea Camelo|andreakml05@hotmail.com|NO
 ropardof|Robinson Pardo|ropardof@hotmail.com|NO
-juancarlosgonzálezsánchez|juan carlos gonzález sánchez|N/A|NO
+juancarlosgonzálezsánchez|juan carlos gonzález sánchez|hepatopatias@gmail.com|NO
 jmilena75|Jenny|jmilena75@hotmail.com|NO
 YohannaMilena|Yohanna Milena Nieto Gamboa|yohannanieto4@gmail.com|NO
-LeoVargas|Leo Vargas|N/A|NO
+LeoVargas|Leo Vargas|leovargas18@gmail.com|NO
 Didiana|Didiana|reinadidiana@hotmail.com|NO
 laforerope|Luz Amanda Forero Perez|laforerope@unal.edu.co|NO
 aramirezgale|alberto ramirez gale|aramirezgale@yahoo.com|NO
 alejo200487|Fredy Alejandro|alejo200487@gmail.com|YES
-WilsonAlejandroTriana|Wilson Alejandro Triana|N/A|YES
-JuliánEcheverryZapata_1595|Julián Echeverry Zapata|N/A|NO
+WilsonAlejandroTriana|Wilson Alejandro Triana|alejo2566@gmail.com|YES
+JuliánEcheverryZapata_1595|Julián Echeverry Zapata|julianez@gmail.com|NO
 lee_yjcanont113|jenny cañon|lee_yjcanont113@pedagogica.edu.co|NO
-JûlïïpäûlïïnGönzälëz|Jûlïïpäûlïïn Gönzälëz|N/A|YES
+JûlïïpäûlïïnGönzälëz|Jûlïïpäûlïïn Gönzälëz|hazz_86@hotmail.com|YES
 gatubela_30_|Diana López Pinto|gatubela_30_@hotmail.com|NO
 i.bermudez.a|Iván Bermúdez|i.bermudez.a@hotmail.com|YES
-LinaSaldarriaga|Lina Saldarriaga|N/A|NO
-ppiRedsor|ppi Redsor|N/A|NO
-LuisaFernandaGutierrez|Luisa Fernanda Gutierrez|N/A|YES
+LinaSaldarriaga|Lina Saldarriaga|linaupn7@gmail.com|NO
+ppiRedsor|ppi Redsor|virtualppisordos@gmail.com|NO
+LuisaFernandaGutierrez|Luisa Fernanda Gutierrez|lufegu23@hotmail.com|YES
 bochis90|Ivonne|bochis90@hoptmail.com|NO
 alejitafigo14|yenny alejandra|alejitafigo14@gmail.com|YES
 nata040693|natalia moreno choconta|natika040693@hotmail.com|NO
-JeniferSofiaBlanco|Jenifer Sofia Blanco|N/A|NO
+JeniferSofiaBlanco|Jenifer Sofia Blanco|jeniferbo86@hotmail.com|NO
 karime_hissami|luzkh|karime_hissami@hotmail.com|NO
 PattyAndre|Patricia Andrea|aicirtap2087@hotmail.com|NO
-JenniferBolivar|Jennifer Bolivar|N/A|NO
-JulianEcheverryZapata|Julian Echeverry Zapata|N/A|NO
+JenniferBolivar|Jennifer Bolivar|jjenniiffeerr@hotmail.com|NO
+JulianEcheverryZapata|Julian Echeverry Zapata|julianez@hotmail.com|NO
 FernandoReneSolerHernandez|Fernando Rene Soler Hernandez|rene_solerh@yahoo.com|NO
 vivihirland|vivian hirlandy franco|vivihirland@hotmail.com|NO
 alejandramenco|Alejandra Menco|alejandramenco@gmail.com|NO
 Sara.a|Sara Avellaneda|sarisavga@gmail.com|NO
-johannarodriguez|johanna rodriguez|N/A|YES
+johannarodriguez|johanna rodriguez|lili1632@gmail.com|YES
 JuliánAugustoHernándezPulido_5174|Julián Augusto Hernández Pulido|juahernandezpu@unal.edu.co|YES
-AlejandroOlivares|Alejandro Olivares|N/A|NO
-BethbathrickElizabeth|Bethbathrick Elizabeth|N/A|NO
+AlejandroOlivares|Alejandro Olivares|joseolivares5872@hotmail.com|NO
+BethbathrickElizabeth|Bethbathrick Elizabeth|elizabethbath@hotmail.com|NO
 enlohe_7|Esp. Enrique López|enlohe_7@hotmail.com|NO
 gleydisol|Gleydi González|gleygo@yahoo.es|YES
-SaMiMuñozRodriguez|SaMi Muñoz Rodriguez|N/A|NO
-AstridSanchez|Astrid Sanchez|N/A|NO
-NéstorBriceñoEstepa|Néstor Briceño Estepa|N/A|NO
-LibiaVélezLatorre|Libia Vélez Latorre|N/A|NO
+SaMiMuñozRodriguez|SaMi Muñoz Rodriguez|sami890208@hotmail.com|NO
+AstridSanchez|Astrid Sanchez|soniastro@hotmail.es|NO
+NéstorBriceñoEstepa|Néstor Briceño Estepa|nestbric@gmail.com|NO
+LibiaVélezLatorre|Libia Vélez Latorre|lvelez@pedagogica.edu.co|NO
 aleaarley|John Arley|aleaarley@hotmail.com|YES
-MayerlyCampos|Mayerly Campos|N/A|NO
-CamiloYesidRoseroRamírez|Camilo Yesid Rosero Ramírez|N/A|NO
-AngiePaez|Angie Paez|N/A|NO
+MayerlyCampos|Mayerly Campos|mayerly57@gmail.com|NO
+CamiloYesidRoseroRamírez|Camilo Yesid Rosero Ramírez|c.y.rr@hotmail.com|NO
+AngiePaez|Angie Paez|angiepaez_93@hotmail.com|NO
 Jorgesolanoespitia|Jorge Solano Espitia|Jorgesolanoespitia@gmail.com|NO
 AndresLozano|Andres Lozano|alozano8807@hotmail.com|NO
 stefanith422|Stefanith Caballero|stefanith422@hotmail.com|NO
@@ -507,145 +532,145 @@ yessivi|Yessica Barragán|yessivi-520@hotmail.com|YES
 jsamayas|Juan Sebastian Amaya Suárez|jsamayas@gmail.com|NO
 IGNISNATUS|DIEGO GONGORA|DARCK16DIEGO@HOTMAIL.COM|NO
 maayazzo|MARIA ANGELICA YAZZO ZAMBRANO|maayazzo@gmail.com|NO
-ViviVanegasRojas|Vivi Vanegas Rojas|N/A|NO
-CindyStephanieRiveraMiranda|Cindy Stephanie Rivera Miranda|N/A|NO
-JohnH.Diaz|John H. Diaz|N/A|YES
-AdrianEstebanSegura|Adrian Esteban Segura|N/A|YES
-LauraQuecán|Laura Quecán|N/A|YES
-AndrésBeltrán|Andrés Beltrán|N/A|NO
+ViviVanegasRojas|Vivi Vanegas Rojas|viviana_3621@hotmail.com|NO
+CindyStephanieRiveraMiranda|Cindy Stephanie Rivera Miranda|cindy.rivera.miranda@gmail.com|NO
+JohnH.Diaz|John H. Diaz|johnhadiaz1@gmail.com|YES
+AdrianEstebanSegura|Adrian Esteban Segura|adrianccong@gmail.com|YES
+LauraQuecán|Laura Quecán|lauraquecan22@gmail.com|YES
+AndrésBeltrán|Andrés Beltrán|bianconero_rain@hotmail.com|NO
 OmarAya|Omar Aya|omarayar@hotmail.com|YES
-gladysElenaHurtado|gladys Elena Hurtado|N/A|NO
-Roci-meAlvarado|Roci-me Alvarado|N/A|NO
-PaolaGoyeneche|Paola Goyeneche|N/A|NO
-AlvaroAndrésPrieto|Alvaro Andrés Prieto|N/A|YES
-LisethPulidoGómez|Liseth Pulido Gómez|N/A|NO
+gladysElenaHurtado|gladys Elena Hurtado|gladyshurtadoosorio@gmail.com|NO
+Roci-meAlvarado|Roci-me Alvarado|roci018@hotmail.com|NO
+PaolaGoyeneche|Paola Goyeneche|paoolita458@outlook.com|NO
+AlvaroAndrésPrieto|Alvaro Andrés Prieto|millosandresp@hotmail.com|YES
+LisethPulidoGómez|Liseth Pulido Gómez|coraje251@hotmail.com|NO
 GeraldinBaquero|Geraldin Baquero|Pre Universitario popular "San Cristobal"|YES
 JhonatikoRodriguez|Jhonattan Rodriguez|jrodriguez@designgo.com.co|YES
-CristianYamidArizaMonroy|Cristian Yamid Ariza Monroy|N/A|YES
-lesliealexasanchezreyes|leslie alexa sanchez reyes|N/A|YES
-YudyMahechaJiménez|Yudy Mahecha Jiménez|N/A|NO
-JHONMOSQUERA|JHON MOSQUERA|N/A|NO
-LilianaAlvarez|Liliana Alvarez|N/A|NO
-AlejandraMartinez|Alejandra Martinez|N/A|NO
-BathRick|Bath Rick|N/A|YES
-AnaLUCIARODRIGUEZ|Ana LUCIA RODRIGUEZ|N/A|NO
-CristianHerrera|Cristian Herrera|N/A|NO
-HeiderBeltran|Heider Beltran|N/A|YES
-KarimeHissami|Karime Hissami|N/A|NO
+CristianYamidArizaMonroy|Cristian Yamid Ariza Monroy|cristianyamid@gmail.com|YES
+lesliealexasanchezreyes|leslie alexa sanchez reyes|lessan0617@gmail.com|YES
+YudyMahechaJiménez|Yudy Mahecha Jiménez|stephy.m.j_@hotmail.com|NO
+JHONMOSQUERA|JHON MOSQUERA|jhonsairus@gmail.com|NO
+LilianaAlvarez|Liliana Alvarez|lilialfi22@hotmail.com|NO
+AlejandraMartinez|Alejandra Martinez|magdalema_1980@yahoo.es|NO
+BathRick|Bath Rick|satanasluciferiexelci@gmail.com|YES
+AnaLUCIARODRIGUEZ|Ana LUCIA RODRIGUEZ|anaroco@gmail.com|NO
+CristianHerrera|Cristian Herrera|cristianleons_102@hotmail.com|NO
+HeiderBeltran|Heider Beltran|beldescorp@gmail.com|YES
+KarimeHissami|Karime Hissami|karime_hissami@hotmail.com|NO
 dianapaola2606|DIANA PAOLA GUZMAN ESPEJO|dianapaola2606@gmail.com|YES
-miguelalexanderricaurtelasso|miguel alexander ricaurte lasso|N/A|NO
-JorgeAndresSuarezRodriguez|Jorge Andres Suarez Rodriguez|N/A|NO
+miguelalexanderricaurtelasso|miguel alexander ricaurte lasso|miguelricaurte@gmail.com|NO
+JorgeAndresSuarezRodriguez|Jorge Andres Suarez Rodriguez|jasuarez729@gmail.com|NO
 iramospardo|Ivan Marcelo Ramos Pardo|iramospardo@gmail.com|NO
 tatiana.repizo|Ingrid Tatiana Repizo Correa|tatiana.repizo@gmail.com|NO
 andtatis172|Tatiana Escobar|andtatis172@hotmail.com|YES
 luby|luby garcia|luby_9214@hotmail.com|NO
 Ishqueriot|Andrés Gonzalez Herrera|iscariot_von_hohenheim@hotmail.com|NO
-OmardanielVargasSuarez|Omardaniel Vargas Suarez|N/A|NO
-AdrianaCardenas|Adriana Cardenas|N/A|NO
-EderGonzalez|Eder Gonzalez|N/A|NO
-LuisBeltran|Luis Beltran|N/A|NO
-JavierEcheverry|Javier Echeverry|N/A|NO
+OmardanielVargasSuarez|Omardaniel Vargas Suarez|daomjo_359@hotmail.es|NO
+AdrianaCardenas|Adriana Cardenas|jemigi@hotmail.com|NO
+EderGonzalez|Eder Gonzalez|eder_gon2003@hotmail.com|NO
+LuisBeltran|Luis Beltran|chuzo73@hotmail.com|NO
+JavierEcheverry|Javier Echeverry|jaturo10@hotmail.com|NO
 nmarin1949|Norberto|nmarin1949@yahoo.com|NO
-AdrianaAstorquiza|Adriana Astorquiza|N/A|YES
-CarolinaGonzálezRaigosa|Carolina González Raigosa|N/A|NO
-JorgeLeónCorrea|Jorge León Correa|N/A|NO
+AdrianaAstorquiza|Adriana Astorquiza|adriastor@gmail.com|YES
+CarolinaGonzálezRaigosa|Carolina González Raigosa|cgonzalezra@gmail.com|NO
+JorgeLeónCorrea|Jorge León Correa|offulgeo@gmail.com|NO
 ChepeRiano|Chepe Riano|N/A|NO
-EricSchilling_5613|Eric Schilling|N/A|NO
+EricSchilling_5613|Eric Schilling|onestepbehind@gmail.com|NO
 yuli.garzon8|Yuli Garzón|yuli.garzon8@hotmail.com|NO
 edwin77|Edwin Rojas Ferrari|rosarios77@gmail.com|NO
-JuanCarlos|Juan Carlos|N/A|NO
+JuanCarlos|Juan Carlos|hepatopatias@gmail.com|NO
 albitalvg|Alba Venegas G.|albitalvg@hotmail.com|YES
-AndresDiago|Andres Diago|N/A|NO
+AndresDiago|Andres Diago|andres41@hotmail.com|NO
 leidymarin7|leidy|leidymarin7@gmail.com|YES
 edwinferguz|Edwin Henao|edwinferguz@hotmail.com|NO
 rague|rami|ra-gue-design@hotmail.fr|NO
-CarlosAndresMedinaMunoz_4111|Carlos Andres Medina Munoz|N/A|NO
+CarlosAndresMedinaMunoz_4111|Carlos Andres Medina Munoz|camed15@hotmail.com|NO
 rodriguezandres.b|Engelver Andres Rodriguez|rodriguezandres.b@gmail.com|NO
 diana_c_ramirez|Psicóloga Diana|diana_c_ramirez@hotmail.com|NO
-SilviaOspina|Silvia Ospina|N/A|NO
+SilviaOspina|Silvia Ospina|sil.ospina@gmail.com|NO
 silvanasalazarg|Silvana|silvanasalazarg@gmail.com|NO
-PerOest|Per Oest|N/A|NO
-andreaöst|andrea|N/A|NO
-JohanF.Lizarazo|Johan F. Lizarazo|N/A|NO
+PerOest|Per Oest|pellequilla@gmail.com|NO
+andreaöst|andrea|andreamanrique8@hotmail.com|NO
+JohanF.Lizarazo|Johan F. Lizarazo|johanferleylizarazo@hotmail.com|NO
 soniagarnicam|SONIA|soniagarnicam@gmail.com|NO
 posgradofinanzas|William Muñoz Quintero|posgradofinanzas@gmail.com|NO
-AlexanderLunaNieto|Alexander Luna Nieto|N/A|NO
+AlexanderLunaNieto|Alexander Luna Nieto|alexjhs99@hotmail.com|NO
 arlex007|Arlex Américo|arlex007@gmail.com|NO
 AndreaCatalina|Andrea Catalina|N/A|NO
-CarolineLovins|Caroline Lovins|N/A|NO
+CarolineLovins|Caroline Lovins|scarlettnett@aol.com|NO
 AriTMartinez|Ari T Martinez|nanayzaza84@yahoo.com|YES
 emillan100|Educación en Gerencia Proyectos|emillan100@yahoo.es|NO
 jmurciapiedrahita|JOSE LUIS MURCIA|jmurciapiedrahita@gmail.com|NO
 axta72|LUIS GABRIEL VILLAMIZAR RANGEL|axta72@gmail.com|NO
 jaimeandres3|Jaime Carvajal Blanco|jaimeandres3@gmail.com|NO
-JuanaCDiaz|Juana C Diaz|N/A|NO
+JuanaCDiaz|Juana C Diaz|purpuream@hotmail.com|NO
 diegtorb|Diego|diegtorb@hotmail.com|NO
 YOAveFénix|YO Ave Fénix|skyandseag@hotmail.com|NO
-MONICANUÑEZALVAREZ|MONICA NUÑEZ ALVAREZ|N/A|NO
+MONICANUÑEZALVAREZ|MONICA NUÑEZ ALVAREZ|monica@monicacnunez.com|NO
 arneth.rm|arneth|arneth.rm@gmail.com|NO
 jeff01ale|JEFFERSON ALEXANDER SOSSA|jeff01ale@yahoo.es|NO
 katherinesd|Katherine|katherinesd@hotmail.com|NO
 Viviana|Viviana Reyes Ospina|vivi-marce-18@hotmail.com|NO
 marthica|Martha Arevalo|marthica.cae@gmail.com|NO
 edificandovidas|DMP|edificandovidas@hotmail.es|NO
-CarlosFernandoDeviaVillegas|Carlos Fernando Devia Villegas|N/A|NO
-YuliCasallasAmaya|Yuli Casallas Amaya|N/A|NO
+CarlosFernandoDeviaVillegas|Carlos Fernando Devia Villegas|cfdv3@yahoo.com|NO
+YuliCasallasAmaya|Yuli Casallas Amaya|ycasallas@tyt.edu.co|NO
 clim_mp|CLÍMACO MACHUCA PEREZ|clim_mp@hotmail.com|NO
 edcruci7608|Edgardo Antonio Cruz Cicero|edcruci7608@gmail.com|NO
 faridram16|Farid|faridram16@hotmail.com|NO
 dnegret9|Daniel|dnegret9@hotmail.com|YES
-JoshuaJoshua|Joshua Joshua|N/A|NO
+JoshuaJoshua|Joshua Joshua|jjpardey@gmail.com|NO
 JOROMOGA28|ROLANDO|JOROMOGA28@GMAIL.COM|NO
-JorgeAlexanderCaicedo|Jorge Alexander Caicedo|N/A|NO
+JorgeAlexanderCaicedo|Jorge Alexander Caicedo|jorgeacaicedo@hotmail.com|NO
 DOBEJO|DORIS BELTRAN JOYA|mdorisbj@hotmail.com|NO
 jmahecha21|jmahecha21|jmahecha21@msn.com|NO
-CarlosChaparroLopez|Carlos Chaparro Lopez|N/A|NO
-GilbertoCorrea|Gilberto Correa|N/A|NO
-ManuelLopezHernandez|Manuel Lopez Hernandez|N/A|NO
+CarlosChaparroLopez|Carlos Chaparro Lopez|carchalo22_neo@hotmail.com|NO
+GilbertoCorrea|Gilberto Correa|gacb99@gmail.com|NO
+ManuelLopezHernandez|Manuel Lopez Hernandez|malpher360@gmail.com|NO
 jeisonhenaovalencia|Jeison Henao|jeisonhenaovalencia@hotmail.com|NO
 alirioquitian|A.Quitián M.|alirioquitian@yahoo.es|NO
 LuisPertuz|Luis Pertuz|lpertuz@colegiohebreounion.edu.co|NO
-BladimirRojas|Bladimir Rojas|N/A|NO
+BladimirRojas|Bladimir Rojas|blaromo@hotmail.com|NO
 tedder|Tédder|tninod@cdiocesano.edu.co|NO
 henrycanon87|Henry Cañon|henrycanon87@hotmail.com|NO
 yuly|yuly|yulyeparra@gmai.com|NO
-AlejandroA.GalvisEnciso|Alejandro A. Galvis Enciso|N/A|NO
-WalterCórdoba|Walter Córdoba|N/A|NO
+AlejandroA.GalvisEnciso|Alejandro A. Galvis Enciso|canas2003@msn.com|NO
+WalterCórdoba|Walter Córdoba|antonico00@gmail.com|NO
 Hernando|Hernando Carvalho-Murcia|carvalh_3@hotmail.com|NO
-NelsonRiaño|Nelson Riaño|N/A|NO
-MargaritaLealLeal|Margarita Leal Leal|N/A|NO
-JuanDavidArroyaveHenao|Juan David Arroyave Henao|N/A|NO
+NelsonRiaño|Nelson Riaño|nelson.m.riano@gmail.com|NO
+MargaritaLealLeal|Margarita Leal Leal|margaritaleal53@hotmail.com|NO
+JuanDavidArroyaveHenao|Juan David Arroyave Henao|juanda6@gmail.com|NO
 myriamromero2011|Myriam|myriamromero2011@hotmail.com|NO
-AdrianMarino|Adrian Marino|N/A|NO
-AndrésNúñezÁlvarez|Andrés Núñez Álvarez|N/A|NO
-JuanCarlosCasasbuenasRodriguez|Juan Carlos Casasbuenas Rodriguez|N/A|NO
+AdrianMarino|Adrian Marino|fekicode@gmail.com|NO
+AndrésNúñezÁlvarez|Andrés Núñez Álvarez|andres@andresnunez.com|NO
+JuanCarlosCasasbuenasRodriguez|Juan Carlos Casasbuenas Rodriguez|juancasasbuenas@hotmail.com|NO
 deosandra1|SANDRA LIMAS|deosandra1@yahoo.es|NO
 ehernandez|Eduardo Hernandez Ortiz|ehernandez@udistrital.edu.co|NO
-JairoACeronD|Jairo A Ceron D|N/A|NO
-JulioVillateJessen|Julio Villate Jessen|N/A|NO
+JairoACeronD|Jairo A Ceron D|jarrigan@hotmail.com|NO
+JulioVillateJessen|Julio Villate Jessen|villate_ismg33@hotmail.com|NO
 williamgranada|William Granada|william_gra@hotmail.com|NO
 JuanETorres|Juan E Torres|torresjuane@yahoo.com|NO
 olaya19912009|Javier Olaya Rodriguez|olaya19912009@hotmail.com|NO
-JuanCarlosNegret|Juan Carlos Negret|N/A|NO
+JuanCarlosNegret|Juan Carlos Negret|juannegret@herramientasygestion.com|NO
 LeonardoCastellanos|Leonardo Castellanos|leonardocastellanostrujillo@gmail.com|NO
-LeonardoPrieto|Leonardo Prieto|N/A|NO
+LeonardoPrieto|Leonardo Prieto|leonardo.prieto@uexternado.edu.co|NO
 williampin|William|williampin@gmail.com|NO
 kirikiplay|Jonatan|kirikiplay@gmail.com|NO
 ruth|ruth|ingesmefe@hotmail.com|NO
-EdwinAlbertoCarmonaBedoya|Edwin Alberto Carmona Bedoya|N/A|NO
-AlexanderVelasquez|Alexander Velasquez|N/A|NO
+EdwinAlbertoCarmonaBedoya|Edwin Alberto Carmona Bedoya|saluteable@yahoo.es|NO
+AlexanderVelasquez|Alexander Velasquez|alexvelasquez0682@yahoo.es|NO
 profediego|Profediego|profediego2005@yahoo.com.ar|NO
 Flor|Flor|florbaram07@gmail.com|NO
 jairogomez1981|Jairo Antonio Gomez Moreno|jairogomez1981@hotmail.com|NO
 MACERH|MARIA CECILIA  RAMOS H.|macerh@hotmail.com|NO
 gjime02|albert|gjime02@hotmail.com|NO
-FranciscoJavierRoldánVelásquez|Francisco Javier Roldán Velásquez|N/A|NO
+FranciscoJavierRoldánVelásquez|Francisco Javier Roldán Velásquez|frajaro@gmail.com|NO
 andrearestrepo28|Andrea Restrepo|andrearestrepo28@hotmail.com|NO
-VictorRodriguez|Victor Rodriguez|N/A|NO
+VictorRodriguez|Victor Rodriguez|victor@multilingua.com.co|NO
 doracevedo|Doralba Acevedo Rodríguez|doracevedo@hotmail.com|NO
 gabrielcatano|Gabriel Cataño|gabrielcatano@itm.edu.co|NO
-FabioHumbertoGarciaGomez|Fabio Humberto Garcia Gomez|N/A|NO
-ProfeFabioGarciaGarcíaGomez|Profe Fabio Garcia García Gomez|N/A|NO
+FabioHumbertoGarciaGomez|Fabio Humberto Garcia Gomez|fhgg2005@gmail.com|NO
+ProfeFabioGarciaGarcíaGomez|Profe Fabio Garcia García Gomez|fhgarcia@misena.edu.co|NO
 jleonado|Javier Leonardo Cifuentes|jleonado@gmail.com|NO
 naborinfantepinto|NABOR|naborinfantepinto@yahoo.com|NO
 doddyc|doddy|doddyc@hotmail.com|NO
@@ -654,25 +679,25 @@ nefoduarte|nelly forero|nefoduarte@hotmail.com|NO
 mariprias|Mariana Prias Trujillo|mariprias@gmail.com|NO
 masterjuan9|JUAN CARLOS ALVAREZ|masterjuan9@gmail.com|NO
 ccrfono|Clemencia Cuervo-Rodríguez|ccrfono@gmail.com|NO
-CristhianAlejandroGuzmanIbagon|Cristhian Alejandro Guzman Ibagon|N/A|NO
+CristhianAlejandroGuzmanIbagon|Cristhian Alejandro Guzman Ibagon|guzmancristhian19@hotmail.com|NO
 dionnemoreno|DIONNE|dionnemoreno@gmail.com|NO
 actualizacionespedagogica|GUIDO  CERPA|actualizacionespedagogica@gmail.com|NO
-FranciscoTarapuezAscuntar|Francisco Tarapuez Ascuntar|N/A|NO
+FranciscoTarapuezAscuntar|Francisco Tarapuez Ascuntar|pacholin11@yahoo.es|NO
 joseperezgamboa|JOSE KEYVINO PEREZ GAMBOA|joseperezgamboa@yahoo.es|NO
-MariaCeciliaRamosHerrera|Maria Cecilia Ramos Herrera|N/A|NO
-UgoSanchezBaezaProfesor|Ugo Sanchez Baeza Profesor|N/A|NO
+MariaCeciliaRamosHerrera|Maria Cecilia Ramos Herrera|macerh@hotmail.com|NO
+UgoSanchezBaezaProfesor|Ugo Sanchez Baeza Profesor|ugoandresprofesor@yahoo.com|NO
 juanmarinos|Juan Marín|juanmarinos@hotmail.com|YES
-DiegoAlonsoGómezGonzález|Diego Alonso Gómez González|N/A|NO
-LeonardoEnriqueMezaDeLaHoz|Leonardo Enrique Meza De La Hoz|N/A|NO
+DiegoAlonsoGómezGonzález|Diego Alonso Gómez González|diegolonso@gmail.com|NO
+LeonardoEnriqueMezaDeLaHoz|Leonardo Enrique Meza De La Hoz|leosoft_s@hotmail.com|NO
 moralopezsp|Sandra Mora|moralopezsp@hotmail.com|NO
 yomayda|yomayda|lunhadazul@gmail.com|NO
 geovannygarciaf|geovanny garcia|geovannygarciaf@hotmail.com|NO
-JohnJairoEscobar|John Jairo Escobar|N/A|NO
+JohnJairoEscobar|John Jairo Escobar|johnjaescobar@hotmail.com|NO
 facoperez_19|fanny consuelo perez gutierrez|facoperez_19@hotmail.com|NO
 limaba69|LILIBETH MATEUS BARBOZA|limaba69@hotmail.com|NO
 consufer6|CONSIIELO FERNANDEZ ARIAS|consufer6@hotmail.com|NO
 formarmundos|Docente Constanza diaz|formarmundos@gmail.com|NO
-JaimeAlejandroFernandezOlivera|Jaime Alejandro Fernandez Olivera|N/A|NO
+JaimeAlejandroFernandezOlivera|Jaime Alejandro Fernandez Olivera|injafo@hotmail.com|NO
 edmuriel|Edward|edmuriel62@yahoo.es|NO
 gunupe|Gustavo|gunupe@gmail.com|NO
 Gabriel|Gabriel Francisco|catanogabrielfrancisco@gmail.com|NO
@@ -688,12 +713,12 @@ hei_pagra|heiman paz|hei_pagra@hotmail.com|NO
 teacherjdv|Johnny Durango V.|teacherjdv@hotmail.com|NO
 dodidi.1970|DORIS DIAZ Diaz|dodidi.1970@yahoo.es|NO
 frevartoone|FREDDY VARGAS TORRES|frevartoone@hotmail.com|NO
-ClaudiaBuitrago|Claudia Buitrago|N/A|NO
+ClaudiaBuitrago|Claudia Buitrago|patycpbg@gmail.com|NO
 rauljide|rauljide|rauljide@gmail.com|NO
 caleon70|carlosleon|caleon70@gmail.com|NO
-JuanCarlosBlandonVargas|Juan Carlos Blandon Vargas|N/A|NO
+JuanCarlosBlandonVargas|Juan Carlos Blandon Vargas|yoguis2000@hotmail.com|NO
 edgasalo|Edgar Daniel Sánchez L|edgasalo@gmail.com|NO
-EdwinFranco|Edwin Franco|N/A|NO
+EdwinFranco|Edwin Franco|fraedwin@gmail.com|NO
 alejo0351|alejo0351|alejandrolivares08@gmail.com|NO
 lalvarez|LEONARDO ALVAREZ|lalvarez@lanuevaesperanza.edu.co|NO
 jasd2004|jesus|jasd2004@hotmail.com|NO
@@ -702,25 +727,25 @@ tara988|EDUARDO|tara988@hotmail.com|NO
 crisma99|Ma. Cristina Cely C.|nacely84@hotmail.com|NO
 miouja13|Edilma Olmos Cotes|miouja13@gmail.com|NO
 nhoralucia|Nhora Lucia Arias|nhoralucia@gmail.com|NO
-JuliánE.Guzmán|Julián E. Guzmán|N/A|NO
+JuliánE.Guzmán|Julián E. Guzmán|julian83g83@gmail.com|NO
 filosofandoconelkin|ELKIN PALMA BARAHONA|filosofandoconelkin@gmail.com|NO
 jairomanuel|JAIRO MANUEL TURIZO REINEL|jivyes@hotmail.com|NO
 jhanandrade|jhan ever|jhanandrade@yahoo.es|NO
 JAZMIN|ERLIS LOPEZ|jazminalh@hotmail.com|NO
 dguerra091067|David Guerra|dguerra091067@gmail.com|NO
-NenaDaconte|Nena Daconte|N/A|NO
-JessicaSierra|Jessica Sierra|N/A|NO
-CarlosAlbertoMuñozJoaqui|Carlos Alberto Muñoz Joaqui|N/A|NO
-WilsonJavierMosqueraPalacios|Wilson Javier Mosquera Palacios|N/A|NO
+NenaDaconte|Nena Daconte|apherrera2007@gmail.com|NO
+JessicaSierra|Jessica Sierra|jklasierra@yahoo.es|NO
+CarlosAlbertoMuñozJoaqui|Carlos Alberto Muñoz Joaqui|kamujo@gmail.com|NO
+WilsonJavierMosqueraPalacios|Wilson Javier Mosquera Palacios|wilson.mosquera@hotmail.com|NO
 ignacio_nk|ignacio calle|ignacio.klle@gmail.com|NO
 jose.pardey|JOSE JOAQUIN PARDEY DUQUE|jose.pardey@gimnasioloscaobos.com|NO
 barcenas302|profebarcenas|barcenas302@yahoo.com|NO
 henrry455|HENRRY ABAUNSA CASTRO|henrry455@gmail.com|NO
 CARLOSANDRESMEDINAMUÑOZ|CARLOS ANDRES MEDINA MUÑOZ|camed151@gmail.com|NO
-AlbaInesGiraldoLopez|Alba Ines Giraldo Lopez|N/A|NO
+AlbaInesGiraldoLopez|Alba Ines Giraldo Lopez|albaigiraldo@hotmail.com|NO
 arquinem|Arquigil|arquinem@gmail.com|NO
 mikyjair|mikyjair|mikyjair@hotmail.com|NO
-JaimeAlbertoCaballeroArguelles|Jaime Alberto Caballero Arguelles|N/A|NO
+JaimeAlbertoCaballeroArguelles|Jaime Alberto Caballero Arguelles|jacaxo@gmail.com|NO
 johnhadiaz1|John Diaz|johnhadiaz1@hotmail.com|NO
 fredmer51|Fredy A. Mercado Díaz|fredmer51@misena.edu.co|NO
 SilvioRebolledo|Repipe|srliteratura@yahoo.es|NO
@@ -728,177 +753,177 @@ claupatrivillasal|CLAUDIA PATRICIA VILLADA SALAZAR|claupatrivillasal@gmail.com|N
 dino.segura|dino|dino.segura@epe.edu.co|NO
 beatriz.triana|colegios@edufolium.com|beatriz.triana@sanboni.edu.co|NO
 jorge|Jorge|davidpalgut@hotmail.com|NO
-AnaArenasL|Ana Arenas L|N/A|NO
-Raquellázarovicente|Raquel lázaro vicente|N/A|NO
+AnaArenasL|Ana Arenas L|theana1306@gmail.com|NO
+Raquellázarovicente|Raquel lázaro vicente|raquelazaro1988@gmail.com|NO
 NairoGranados|Nairo Granados|nairox@gmail.com|NO
-JudaroTrece|Judaro Trece|N/A|NO
+JudaroTrece|Judaro Trece|judaro13@gmail.com|NO
 iloflorez|Ileana Flórez P.|iloflorez@hotmail.com|NO
-camilamedina|camila medina|N/A|NO
-AngelaPatriciaPérezLuque|Angela Patricia Pérez Luque|N/A|NO
+camilamedina|camila medina|medina.camila01@gmail.com|NO
+AngelaPatriciaPérezLuque|Angela Patricia Pérez Luque|angieluque@gmail.com|NO
 Bryhan1831|Bryhan|Bryhan1831@gmail.com|NO
 diego.vdem|Diego Vanegas Acero|diego.vdem@misena.edu.co|NO
-MonicaJurado|Monica Jurado|N/A|NO
+MonicaJurado|Monica Jurado|monijurado@hotmail.com|NO
 gabrielbar10|andres barrios|gabrielbar10@gmail.com|NO
-JosephMRing|Joseph M Ring|N/A|NO
-MagdadelSocorro|Magda del Socorro|N/A|NO
+JosephMRing|Joseph M Ring|josephmring@gmail.com|NO
+MagdadelSocorro|Magda del Socorro|magdadelsocorro@yahoo.es|NO
 gramon|gramon|gramon@misena.edu.co|NO
 JaimeAndresAlvarezSuarez|Jaime Andres Alvarez Suarez|N/A|NO
 sandramaceta|Sandra M|sandramaceta@yahoo.com|NO
-EricJosephSchilling_6118|Eric Joseph Schilling|N/A|NO
+EricJosephSchilling_6118|Eric Joseph Schilling|onestepbehind@gmail.com|NO
 ballongerardo|Gerardo|ballongerardo@gmail.com|YES
-MelissaAvendañoT.|Melissa Avendaño T.|N/A|NO
+MelissaAvendañoT.|Melissa Avendaño T.|issa2507@hotmail.com|NO
 andresbar10|andres barrios|andresbar10@gmail.com|NO
 marceabrilud|Diana Marcela Abril|marceabrilud@yahoo.es|NO
 carfiel|Hemel Carrillo Rivadeneira|helcar09@hotmail.com|NO
 lauraojedao|Laura Ojeda|lauraojedao@hotmail.com|NO
 yovannysilva1|Yovanny Silva|yovannysilva1@hotmail.com|NO
-DILIAROSABARRIOS|DILIA ROSA BARRIOS|N/A|NO
+DILIAROSABARRIOS|DILIA ROSA BARRIOS|diliarosabarrios@hotmail.com|NO
 juancvmillan|Juan Carlos VARGAS MILLAN|jcvmillan@gmail.com|NO
-GlorisetGarcia|Gloriset Garcia|N/A|NO
-AngélicaMaríaMoyaPachón|Angélica María Moya Pachón|N/A|NO
-EdilbertoGonzalez|Edilberto Gonzalez|N/A|NO
+GlorisetGarcia|Gloriset Garcia|deliberance_@hotmail.com|NO
+AngélicaMaríaMoyaPachón|Angélica María Moya Pachón|anmayitoo@hotmail.com|NO
+EdilbertoGonzalez|Edilberto Gonzalez|discipulo2006@gmail.com|NO
 Camila|Camila|camiluna.10@hotmail.com|NO
-JoseManuelAparicio|Jose Manuel Aparicio|N/A|NO
+JoseManuelAparicio|Jose Manuel Aparicio|ironmaiden870111@hotmail.com|NO
 ximena.new|Ximena|ximena.new@gmail.com|NO
-ProfeCathy|Profe Cathy|N/A|NO
-AngieCárdenas|Angie Cárdenas|N/A|NO
+ProfeCathy|Profe Cathy|cathi84@gmail.com|NO
+AngieCárdenas|Angie Cárdenas|angiecardenas84@hotmail.com|NO
 eleenna06|eleen@|eleenna06@gmail.com|NO
 angelibocanegra|Angeli Bocanegra Silva|angelibocanegra@hotmail.co|NO
 adjan2000|Adriana Janneth Acevedo Andrade|adjan2000@yahoo.com|NO
 ROCIO88|EDNA ROCIO FINO CASTRO|ROSEROCIO88@GMAIL.COM|NO
 chavelitahurfor|ISABEL HURTADO FORERO|chavelitahurfor@gmail.com|NO
 lufegu23|luisa fernanda gutierrez alzate|lufegu23@hotmail.com|NO
-MónicaCastilloHernández|Mónica Castillo Hernández|N/A|NO
-JennyMikán|Jenny Mikán|N/A|NO
-PetiTeSandRita|PetiTe SandRita|N/A|NO
-AnaMaríaArenasBotero|Ana María Arenas Botero|N/A|NO
+MónicaCastilloHernández|Mónica Castillo Hernández|monicliz@gmail.com|NO
+JennyMikán|Jenny Mikán|jennymarcela18@gmail.com|NO
+PetiTeSandRita|PetiTe SandRita|sandrita37@hotmail.com|NO
+AnaMaríaArenasBotero|Ana María Arenas Botero|theana1306@gmail.com|NO
 mauros24|Carlos Mauricio Cerquera|mauros24@hotmail.com|NO
-NicolasNovoa|Nicolas Novoa|N/A|NO
-CristineNoguera|Cristine Noguera|N/A|NO
-AndreOliveros|Andre Oliveros|N/A|NO
+NicolasNovoa|Nicolas Novoa|mcnovoarockmafia@gmail.com|NO
+CristineNoguera|Cristine Noguera|licrisli94@hotmail.com|NO
+AndreOliveros|Andre Oliveros|shani_888_5@hotmail.com|NO
 germanuseche0519|german raul useche polanco|germanuseche0519@hotmail.es|NO
-EricSchilling|Eric Schilling|N/A|NO
-HarveyShaw|Harvey Shaw|N/A|NO
+EricSchilling|Eric Schilling|ejosephschilling@gmail.com|NO
+HarveyShaw|Harvey Shaw|harvshaw@yahoo.com|NO
 Mauricio58|Mauricio Vergara Lozano|mauriciovergaralozano@hotmail.com|NO
 mauricio|mauricio|mch14g@gmail.com|NO
 melinamercouri1952|Lina Soto|melinamercouri1952@gmail.com|NO
-ZullyMaquilom|Zully Maquilom|N/A|NO
+ZullyMaquilom|Zully Maquilom|zullyma80@hotmail.com|NO
 cortosil|Silvia Ospina|cortosil@hotmail.com|NO
-NelsonRafaelZapataZapataGonzalez|Nelson Rafael Zapata Zapata Gonzalez|N/A|NO
+NelsonRafaelZapataZapataGonzalez|Nelson Rafael Zapata Zapata Gonzalez|nelsonartist@gmail.com|NO
 nelsonartist|Nelson Rafael Zapata Gonzalez|nelsonartist@gmail.com|NO
 mendozagarcia|Mario Antonio|mendozagarcia@hotmail.com|NO
 juanchopepe66|Fabiola Amaya Moreno|juanchopepe66@gmail.com|NO
 claudiojuliag|Claudio Juliá|claudiojuliag@gmail.com|NO
 cogomezd|Constantino Gómez D.|cogomezd@gmail.com|NO
-SANDRAINÉSVIGO|SANDRA INÉS VIGO|N/A|NO
+SANDRAINÉSVIGO|SANDRA INÉS VIGO|svigo@arnet.com.ar|NO
 miguelangel|Miguel|miguel_ahdlc@speeedy.com.pe|NO
-YenithMurcia|Yenith Murcia|N/A|NO
+YenithMurcia|Yenith Murcia|yenithazmur@hotmail.com|NO
 alpelucar50|LUIS ALBERTO|alpelucar50@hotmail.com|NO
-MellemberAriasZabala|Mellember Arias Zabala|N/A|NO
+MellemberAriasZabala|Mellember Arias Zabala|mellember@gmail.com|NO
 marisacon|Marisa|marisacon04@yahoo.com.ar|NO
 sara311057|sara|sara311057@gmail.com|NO
-VanessaValero|Vanessa Valero|N/A|NO
+VanessaValero|Vanessa Valero|vanetya@hotmail.com|NO
 isneydenis|isney londoño|isslomo2009@hotmail.com|NO
 isney|isney londoño mosquera|isney.dennis@hotmail.com|NO
-GuillermoGarcíaParra|Guillermo García Parra|N/A|NO
-KarolinaMurcia|Karolina Murcia|N/A|NO
-CamiloAndrésFajardoP|Camilo Andrés Fajardo P|N/A|NO
-LuisFernandoAguirre|Luis Fernando Aguirre|N/A|NO
-AntoniMosDacapoMosDacapo|Antoni Mos Dacapo Mos Dacapo|N/A|NO
+GuillermoGarcíaParra|Guillermo García Parra|aule999@hotmail.com|NO
+KarolinaMurcia|Karolina Murcia|karoyale@hotmail.com|NO
+CamiloAndrésFajardoP|Camilo Andrés Fajardo P|camilofape.83@gmail.com|NO
+LuisFernandoAguirre|Luis Fernando Aguirre|luisfaguirreb96@hotmail.com|NO
+AntoniMosDacapoMosDacapo|Antoni Mos Dacapo Mos Dacapo|karma02_@hotmail.com|NO
 gutiherrez|Héctor Mario Gutiérrez Flórez|gutiherrez@gmail.com|NO
 gagliani|Vivian Gagliani|gagliani@gmail.com|NO
-JuanZuñiga|Juan Zuñiga|N/A|NO
+JuanZuñiga|Juan Zuñiga|manolo27loz@gmail.com|NO
 24englishmaster|Yesid Alexander Uchuvo González|24englishmaster@gmail.com|NO
-AnaMaríaGonzálezHerrera_2634|Ana María González Herrera|N/A|NO
-zulmacepeda|zulma cepeda|N/A|NO
-alejandramogollon|alejandra mogollon|N/A|NO
+AnaMaríaGonzálezHerrera_2634|Ana María González Herrera|anamagh22@hotmail.com|NO
+zulmacepeda|zulma cepeda|zcepeda65@gmail.com|NO
+alejandramogollon|alejandra mogollon|aleja78@gmail.com|NO
 SHARÍN|SANDRA CALVO|yanider@hotmail.com|NO
-ManuelFernandoPaez|Manuel Fernando Paez|N/A|YES
-AndreaVirginiaBorjas|Andrea Virginia Borjas|N/A|NO
+ManuelFernandoPaez|Manuel Fernando Paez|mfernandopaezl@yahoo.es|YES
+AndreaVirginiaBorjas|Andrea Virginia Borjas|theonly_vicky@hotmail.com|NO
 AnaCoronado|Ana Coronado|anamaria.coronado87@gmail.com|NO
 anamaria|Ana María|anamaaria.coronado87@gmail.com|NO
-TatianaVegaAhumada|Tatiana Vega Ahumada|N/A|NO
+TatianaVegaAhumada|Tatiana Vega Ahumada|tatianavegahumada@hotmail.com|NO
 Algamfo|Alexandra|Algamfo@gmail.com|NO
-MiltonDiazVivas|Milton Diaz Vivas|N/A|NO
+MiltonDiazVivas|Milton Diaz Vivas|miltondiazv@gmail.com|NO
 virlginia|virginia ospina|virllymer@hotmail.com|NO
-gabrielgonzalez|gabriel gonzalez|N/A|NO
+gabrielgonzalez|gabriel gonzalez|gamagosanti@hotmail.com|NO
 lunica1tool|Lucía Enríquez|lunica1tool@yahoo.com|NO
 carogv18|Carolina Galeano|carogv18@hotmail.com|NO
 monica|Monica|mocasu@hotmail.com|NO
 moniqer|Mónica Rodríguez Guzmán|moniqer@hotmail.com|NO
 Diana|Diana02|dayhann_1@hotmail.com|NO
-LauraQuintero|Laura Quintero|N/A|NO
-TamaraDobrzynska|Tamara Dobrzynska|N/A|NO
-NidiaRomero.|Nidia Romero .|N/A|YES
+LauraQuintero|Laura Quintero|lauris_395@hotmail.com|NO
+TamaraDobrzynska|Tamara Dobrzynska|tamdob@gmail.com|NO
+NidiaRomero.|Nidia Romero .|licnrp2@hotmail.com|YES
 javier.pinto.becerra|Javier Pinto|javier.pinto.becerra@gmail.com|NO
 lida|LIDA MARIA ACEVEDO GUZMAN|lidamaria.0411@yahoo.es|YES
 marlittrodriguez04|Marlit|marlittrodriguez04@gmail.com|NO
 lidamaria.0411|Lida  Acevedo|lidamcar82@outlook.es|NO
-ProfesorCarlosCardenas|Profesor Carlos Cardenas|N/A|NO
-LuisEduardoVahosHernandez|Luis Eduardo Vahos Hernandez|N/A|NO
+ProfesorCarlosCardenas|Profesor Carlos Cardenas|carlostecno_ces@hotmail.com|NO
+LuisEduardoVahosHernandez|Luis Eduardo Vahos Hernandez|luisvahos@hotmail.com|NO
 kimber_san|Kimberly|kimber_san@hotmail.com|NO
-PatriciaAndreaMoncada|Patricia Andrea Moncada|N/A|NO
+PatriciaAndreaMoncada|Patricia Andrea Moncada|aicirtap2087@hotmail.com|NO
 caritoto71|CAROLINA|caritoto71@hotmail.com|NO
 JuanRico|Juan Rico|juanr_816@hotmail.com|NO
 mariaisabelruizn|maria iasabel ruiz nuñez|mariaisabelruizn@hotmail.com|NO
-LilianaPatriciaDeLaHozBarandica|Liliana Patricia De La Hoz Barandica|N/A|NO
+LilianaPatriciaDeLaHozBarandica|Liliana Patricia De La Hoz Barandica|lidelaho@hotmail.com|NO
 jhon|jhon franklin|jhon_franklin_espinosa@hotmail.com|NO
 sajo0706|adriana|sajo0706@hotmail.com|NO
 cpexpinp|CARLOS MANUEL PINZÓN ARANA|cpexpinp@hotmail.com|NO
 carlos78|carlos   escorcia|cristovive16@hotmail.com|NO
 jexalbe|jexalbe|jexalbe88@gmail.com|NO
-ElkinHernández|Elkin Hernández|N/A|NO
+ElkinHernández|Elkin Hernández|kibirari@gmail.com|NO
 mercedecervantes|Mercedes Cervantes|mercedecervantes@gmail.com|NO
 dabane|David Barroso|dabane79@hotmail.com|NO
-OswaldoVargasHolguin_1571|Oswaldo Vargas Holguin|N/A|NO
+OswaldoVargasHolguin_1571|Oswaldo Vargas Holguin|oswaldovh@yahoo.com|NO
 angela2676|angela|angela2676@hotmail.com|NO
-RenéSolerHernández|René Soler Hernández|N/A|NO
-CamiloAMoralesR|Camilo A Morales R|N/A|NO
+RenéSolerHernández|René Soler Hernández|rene_solerh@yahoo.com|NO
+CamiloAMoralesR|Camilo A Morales R|cagym2001@gmail.com|NO
 jhonpolo19|Jhon polo|jhonpolo19@yahoo.es|NO
 abrasarte|abrasarte|buzonprofe@gmail.com|NO
-MaryFlorenceSchumacher|Mary Florence Schumacher|N/A|NO
+MaryFlorenceSchumacher|Mary Florence Schumacher|schumacher.mf@gmail.com|NO
 williamadmartin|William Díaz Martín|williamadmartin@gmail.com|NO
 fercho3000|Fernando E. Ordonez Novoa|teaching4theworld@gmail.com|NO
 sergioarturomr|sergioarturomr@hotmail.com|sergioarturomr@hotmail.com|YES
 adri1co|Adriana v|adri1co@yahoo.com|NO
 jairoajc|Jairo Jimenez|jairoajc@gamil.com|NO
 yaayiitaa25|martha yaneth martinez suarez|yaayiitaa25@yahoo.es|NO
-LorenaHernándezRodríguez|Lorena Hernández Rodríguez|N/A|NO
-EdgarOswaldoPinedaMartinez|Edgar Oswaldo Pineda Martinez|N/A|NO
+LorenaHernándezRodríguez|Lorena Hernández Rodríguez|lorenahernandez18@hotmail.com|NO
+EdgarOswaldoPinedaMartinez|Edgar Oswaldo Pineda Martinez|edgarpin535@hotmail.com|NO
 cacostamorales10|Cindy Acosta Morales|cacostamorales10@gmail.com|NO
 lauropia5|Laura Gutierrez|lauropia5@gmail.com|NO
 wolfranfidel|wolfran fidel castro maza|wolfranfidel@hotmail.com|NO
 mercedes0917|Mercedes Marquez Anaya|mercedes0917@hotmail.com|NO
 mimundoideal|DEISY RAMIREZ VARGAS|mimundoideal@hotmail.com|NO
-FelixAvendaño|Felix Avendaño|N/A|NO
-isabel.reyMorales|isabel.rey Morales|N/A|NO
-DanielRicardoSarmientoCristancho_2845|Daniel Ricardo Sarmiento Cristancho|N/A|NO
-DanielRicardoSarmientoCristancho|Daniel Ricardo Sarmiento Cristancho|N/A|NO
+FelixAvendaño|Felix Avendaño|juanking1541@gmail.com|NO
+isabel.reyMorales|isabel.rey Morales|isabelreyster@gmail.com|NO
+DanielRicardoSarmientoCristancho_2845|Daniel Ricardo Sarmiento Cristancho|danielsarmiento.ius@gmail.com|NO
+DanielRicardoSarmientoCristancho|Daniel Ricardo Sarmiento Cristancho|danielsarmiento.ius@hotmail.com|NO
 nestbric|Néstor Briceño Estepa|nestbric@gmail.com|NO
 gorodaimon|andres fernando|gorodaimon123@hotmail.com|NO
-EricJosephSchilling|Eric Joseph Schilling|N/A|NO
-SeanDoyle,PhD|Sean Doyle|N/A|NO
+EricJosephSchilling|Eric Joseph Schilling|onestepbehind@gmail.com|NO
+SeanDoyle,PhD|Sean Doyle|contactme@seandoyle.info|NO
 maryoris|maryoris|elcaminolibre2@hotmail.com|NO
 v_dorner|vivian|v_dorner@yahoo.com|NO
-AndreaRodríguezUribe|Andrea Rodríguez Uribe|N/A|NO
+AndreaRodríguezUribe|Andrea Rodríguez Uribe|aru_85@hotmail.com|NO
 crisfan12001|Cristian|crisfan12001@hotmail.com|NO
-PedroMonsalve_3860|Pedro Monsalve|N/A|NO
+PedroMonsalve_3860|Pedro Monsalve|pmonsalve@hotmail.com|NO
 henryescobarespinosa|henrye|henryescobarespinosa@hotmail.com|NO
 MaryAcosta|MaryAcosta|monytaz@hotmail.com|NO
 johannasantos45|JOHANNA SANTOS|johannasantos45@hotmail.com|NO
-MaríaCarolinaPatinoMorales|María Carolina Patino Morales|N/A|NO
-MónicaCLondoñoMartínez|Mónica C Londoño Martínez|N/A|NO
-AnaMaríaGonzálezHerrera|Ana María González Herrera|N/A|NO
-IvanEscobarSarmiento|Ivan Escobar Sarmiento|N/A|NO
+MaríaCarolinaPatinoMorales|María Carolina Patino Morales|caritopdearistizabal@hotmail.com|NO
+MónicaCLondoñoMartínez|Mónica C Londoño Martínez|molomar@hotmail.com|NO
+AnaMaríaGonzálezHerrera|Ana María González Herrera|anamagh22@hotmail.com|NO
+IvanEscobarSarmiento|Ivan Escobar Sarmiento|vanvanero79@gmail.com|NO
 vivisorozco|Viviana Orozco Osorio|vivisorozco@hotmail.com|NO
-OscarAndres|Oscar Andres|N/A|NO
+OscarAndres|Oscar Andres|oagg07@hotmail.com|NO
 anguigomez|Andrés Gómez Morales|anguigomez@yahoo.com|NO
-VladimirRafaelArnedoPomares|Vladimir Rafael Arnedo Pomares|N/A|NO
-DavidGiraldo|David Giraldo|N/A|NO
-LuzMarcela|Luz Marcela|N/A|NO
+VladimirRafaelArnedoPomares|Vladimir Rafael Arnedo Pomares|vladimir8226@yahoo.es|NO
+DavidGiraldo|David Giraldo|omar_gira@yahoo.es|NO
+LuzMarcela|Luz Marcela|luzmarcelagd@hotmail.com|NO
 lizabadia|Lizbeth|lizabadia@gmail.com|NO
 ecofranrod|FRANCISCO JAVIER RODRIGUEZ ZUÑIGA|ecofranrod@hotmail.com|NO
-EstebanArangoMedina|Esteban Arango Medina|N/A|NO
+EstebanArangoMedina|Esteban Arango Medina|marranoparael31@hotmail.com|NO
 hernanquiroz|Hernan Quiroz|hernanquiroz1@gmail.com|NO
 humteqpo04|HUMBERTO TEQUIA PORRAS|humteqpo04@yahoo.es|NO
 prof.ivonnemmedinao|Ivonne Maritza Medina Ontibón|prof.ivonnemmedinao@yahoo.com.co|NO
@@ -910,42 +935,42 @@ romarioborges|Romario Borges|romarioborges@gmail.com|NO
 balletos22|Oscar Javier Ballesteros Llanos|balletos22@hotmail.com|NO
 earinconp|elbert|earinconp@gmail.com|NO
 SeanMcIntyre|Sean McIntyre|sdevmcintyre@gmail.com|NO
-JohanOrlandoCorreaRestrepo|Johan Orlando Correa Restrepo|N/A|NO
+JohanOrlandoCorreaRestrepo|Johan Orlando Correa Restrepo|johancorreare@hotmail.com|NO
 yppreciado|Yolanda Patricia Preciado Mesa|yppreciado@ucn.edu.co|NO
-PedroMonsalve|Pedro Monsalve|N/A|NO
+PedroMonsalve|Pedro Monsalve|pmonsalve@hotmail.com|NO
 dieglennon|Diego Hernández L|dieglennon@gmail.com|NO
 zcepeda|Zulma Pilar Cepeda Aguilar|pili2798@hotmail.com|NO
 andreabuitragoco|ANDREA BUITRAGO|andreabuitragoco@yahoo.es|NO
-FabianAndres|Fabian Andres|N/A|NO
-ArnobioTorresLópez|Arnobio Torres López|N/A|NO
+FabianAndres|Fabian Andres|andrestapiero2@gmail.com|NO
+ArnobioTorresLópez|Arnobio Torres López|arnotolo@hotmail.com|NO
 adrianamelof1|ADRIANA MELO FAJARDO|adrianamelof1@yahoo.com|NO
 clgg17|CLAUDIA LILIANA GÓMEZ GAMA|clgg17@hotmail.com|NO
-JAVIERA.SALAMANCAG.|JAVIER A. SALAMANCA G.|N/A|NO
+JAVIERA.SALAMANCAG.|JAVIER A. SALAMANCA G.|javo.salamanca@hotmail.com|NO
 raulroldana|Raúl de J. Roldán Álvarez|raulroldana@gmail.com|NO
 carivera71|Cesar Augusto Rivera Jaramillo|carivera71@gmail.com|NO
 ybujatodelahoz|YESICA PAOLA BUJATO DE LA HOZ|ybujatodelahoz@hotmail.com|NO
 centroeducativosumapaz|MARIELA|centroeducativosumapaz@gmail.com|NO
 CristianCarreño|Cristian Carreño|N/A|NO
 emmalex2028|carmen paola solorzano rodriguez|emmalex2028@hotmail.com|NO
-JoséRicardoPérezCamargo|José Ricardo Pérez Camargo|N/A|NO
-JoséDavidArévalo|José David Arévalo|N/A|NO
-BeatrizTorres|Beatriz Torres|N/A|NO
-IsabelCristinaAmaya|Isabel Cristina Amaya|N/A|NO
+JoséRicardoPérezCamargo|José Ricardo Pérez Camargo|ricardoperez419@yahoo.es|NO
+JoséDavidArévalo|José David Arévalo|gerencia@ukansuka.com|NO
+BeatrizTorres|Beatriz Torres|beatrizeugeniatorres_@hotmail.com|NO
+IsabelCristinaAmaya|Isabel Cristina Amaya|cristi_ama66@yahoo.es|NO
 milagroso|José Valerio Torres Roncancio|milagroso22@gmail.com|YES
-STEVENESQUIVEL|STEVEN ESQUIVEL|N/A|NO
+STEVENESQUIVEL|STEVEN ESQUIVEL|jehist7777@aol.com|NO
 mthomeponce|MONICA THOME PONCE|mthomeponce@yahoo.es|NO
 MiriamGarzonO|Miriam Garzon O|N/A|NO
-NancyGarzon|Nancy Garzon|N/A|NO
+NancyGarzon|Nancy Garzon|ngarzon1991@gmail.com|NO
 duranty|MARIA PAULA OSORIO DURANTE|duranty@gmail.com|NO
 paito8724|paola moreno paez|paito8724@hotmail.com|NO
 LuisaF.TorresR.|Luisa F. Torres R.|N/A|NO
 blanca__hernandez7|BLANCA JAMID HERNANDEZ ESTUPIÑAN|blanca__hernandez7@hotmail.com|NO
 barriosmanuel7|Manuel Barrios|barriosmanuel7@gmail.com|YES
 bernidtesmeralda285|bernidt marin|bernidtesmeralda285@hotmail.com|NO
-ClaudiaEdidMoyanoForero|Claudia Edid Moyano Forero|N/A|NO
+ClaudiaEdidMoyanoForero|Claudia Edid Moyano Forero|clau24jesus@hotmail.com|NO
 dennya|DENNIA LONDOÑO M.|dennya2010@hotmail.com|NO
 miguelaguilarx3|Miguel A. Aguilar P.|miguelaguilarx3@gmail.com|NO
-AlejandroValenciaArbelaez|Alejandro Valencia Arbelaez|N/A|NO
+AlejandroValenciaArbelaez|Alejandro Valencia Arbelaez|alevaar-24@hotmail.com|NO
 juan07k|Juan Carlos Parra Ortiz|juan07k@hotmail.com|YES
 faomgapa|faomgapa|faomgapa@yahoo.com|NO
 yaker1208|ROSA COPETE GUTIERREZ|yaker1208@homail.com|NO
@@ -953,7 +978,7 @@ camaca|camaca1|camaca72@hotmail.es|NO
 camaca72|camaca1|camaca72@hotmail.com|NO
 miguelantoniohurtadoalzate|Miguel Antonio Hurtado Alzate|miguelantoniohurtadoalzate@gmail.com|YES
 shadday_837|Anyi|shadday_837@hotmail.com|NO
-AdrianaEsperanzaBurgosdeAlvarado|Adriana Esperanza Burgos de Alvarado|N/A|NO
+AdrianaEsperanzaBurgosdeAlvarado|Adriana Esperanza Burgos de Alvarado|adriesa20@hotmail.com|NO
 jardanysm|JARDANYS DE JESUS MOSQUERA MACHADO|jardanysm@gmail.com|NO
 alberto194524|CARLOS ESPINOSA|alberto194524@yahoo.es|NO
 parmeniob3|ProfeParmenio|parmeniob3@gmail.com|NO
@@ -961,7 +986,7 @@ fiorelladonado|fiorella donado|fiorelladonado@gmail.com|NO
 LaudyYenethNavarreteRodríguez|Laudy Yeneth Navarrete Rodríguez|laudyeneth@hotmail.com|NO
 andrea_pasos|Paola|andrea_pasos@hotmail.com|NO
 adolfoedufo|ADOLFO OBANDO S.|alos1828@hotmail.com|NO
-juanpabloortizsuarez|juan pablo ortiz suarez|N/A|NO
+juanpabloortizsuarez|juan pablo ortiz suarez|juanpablo715@gmail.com|NO
 calor.61|CARLOS ALBERTO LOPEZ ORTIZ|calor.61@hotmail.com|NO
 agustinpauna|Agustin de J. Villalobos Florián|agustinpauna@gmail.com|NO
 jpnavarrou|Juan Pablo Navarro|jpnavarrou@gmail.com|NO
@@ -974,32 +999,32 @@ manudrum|ManuelBarragán|manudrum@yahoo.com.mx|NO
 alexprofgod|Edward Alexis Pacheco|alexprofgod@hotmail.com|YES
 mijavi2co|Miguel Barrera Castelvill|mijavi2co@yahoo.com|NO
 adr_ramirez|Adriana Ramírez Malaber|adr_ramirez@yahoo.es|NO
-MariaJoséMichelsenCadavid|Maria José Michelsen Cadavid|N/A|NO
-EvaNinfaMartinGómez|Eva Ninfa Martin Gómez|N/A|NO
+MariaJoséMichelsenCadavid|Maria José Michelsen Cadavid|mariajose.michelsen@hotmail.com|NO
+EvaNinfaMartinGómez|Eva Ninfa Martin Gómez|evamartin360@gmail.com|NO
 nodime76|Nohelia|nodime76@hotmail.com|NO
-DEIBYGIOVANNILAMUSPENA|DEIBY GIOVANNI LAMUS PENA|N/A|NO
-AngelicaAlarcon|Angelica Alarcon|N/A|NO
+DEIBYGIOVANNILAMUSPENA|DEIBY GIOVANNI LAMUS PENA|deibylamus@gmail.com|NO
+AngelicaAlarcon|Angelica Alarcon|angelica781@hotmail.com|NO
 lina12orion|Lina Constanza Tamayo|lina12orion@gmail.com|NO
-CORREABERNALLUISALBERTODOCENTE|CORREA BERNAL LUIS ALBERTO DOCENTE|N/A|NO
+CORREABERNALLUISALBERTODOCENTE|CORREA BERNAL LUIS ALBERTO DOCENTE|lcorrea@colegionuevayork.edu.co|NO
 yudyvillalba|yudyvillalba@gmail.com|yudyvillalba@gmail.com|NO
 laeskool|Laura Suárez|laeskool@hotmail.com|NO
 ROCIOA|ROCIO ARANZALES|aurarocioa@yahoo.com|NO
 radisan2000|Rafael Diaz sanchez|radisan2000@yahoo.es|NO
 SamyRinconInfante|Sandra  Milena Rincon Infante|educadora.rehabilitacion@gmail.com|NO
-MarthaLucía|Martha Lucía|N/A|NO
+MarthaLucía|Martha Lucía|artechia@hotmail.com|NO
 Jeibi|Jeibi Tapia|nata_ta89@hotmail.com|NO
-MariaDelPilarCampoPrado|Maria Del Pilar Campo Prado|N/A|NO
-DiegoParra|Diego Parra|N/A|NO
-AiSakura|Clara Corina|N/A|NO
-OswaldoVargasHolguin|Oswaldo Vargas Holguin|N/A|NO
-EduardoRodriguez|Eduardo Rodriguez|N/A|NO
+MariaDelPilarCampoPrado|Maria Del Pilar Campo Prado|lunanueva823@hotmail.com|NO
+DiegoParra|Diego Parra|tioparra@gmail.com|NO
+AiSakura|Clara Corina|claracvinchiraa@hotmail.es|NO
+OswaldoVargasHolguin|Oswaldo Vargas Holguin|oswaldovh@yahoo.com|NO
+EduardoRodriguez|Eduardo Rodriguez|eduard8520@hotmail.com|NO
 luhyza|Luhyza|luhyza@gmail.com|NO
 julipaulin|julieth paulina gonzalez perez|gonzalezjulieth26@gmail.com|NO
-AngelaVargas|Angela Vargas|N/A|NO
-AndreaVirginiaBorjasUrdaneta|Andrea Virginia Borjas Urdaneta|N/A|NO
+AngelaVargas|Angela Vargas|angelamava11@hotmail.com|NO
+AndreaVirginiaBorjasUrdaneta|Andrea Virginia Borjas Urdaneta|andreav.borjas@gmail.com|NO
 olgagm0705|Olga|olgagm0705@yahoo.com|NO
 jenpal.839|jenny paola arguello ramirez|jenpal.839@hotmail.com|NO
-JuliánDavidJiménezJ|Julián David Jiménez J|N/A|NO
+JuliánDavidJiménezJ|Julián David Jiménez J|juliandavidjj@gmail.com|NO
 aupemo62|Aurora Pedreros Montañez|aupemo62@hotmail.com|NO
 ConstanzaMartínezCamacho|Constanza Martínez|constamartinez@yahoo.com|NO
 nannys_91|Michelle|nannys_91@hotmail.com|NO
@@ -1008,10 +1033,10 @@ aicardoeducador|Aicardo Humberto Estrada Rios|aicardoestrada5@yahoo.es|NO
 haroldmcp|Mauricio Carreño|haroldmcp@yahoo.com|NO
 hectorcastellanos21|Héctor D. Castellanos Durán|hectorcastellanos21@gmail.com|NO
 javier_hernandez101873|Javier Hernandez|javier_hernandez101873@yahoo.com|NO
-IngrithGonzalezRueda|Ingrith Gonzalez Rueda|N/A|NO
-ManuelFernandoGuevara|Manuel Fernando Guevara|N/A|NO
+IngrithGonzalezRueda|Ingrith Gonzalez Rueda|injogoru552@hotmail.com|NO
+ManuelFernandoGuevara|Manuel Fernando Guevara|mfg80833@hotmail.com|NO
 gustavoaltamar5607|Gustavo Altamar|gustavoaltamar5607@yahoo.com.mx|NO
-RamsesCosman|Ramses Cosman|N/A|NO
+RamsesCosman|Ramses Cosman|cosmanramses@gmail.com|NO
 jarubiano11|Alejandro Rubiano|jarubiano11@gmail.com|NO
 osama7908|Edgar Javier Samacá F.|osama7908@hotmail.com|NO
 carlosamado|CARLOS AMADO ZÚÑIGA|carlosamado@gmail.com|NO
@@ -1020,57 +1045,57 @@ augustomar1982|Omar Augusto Estupiñán|augustomar1982@yahoo.es|NO
 michelyair|Michel Carrillo|michelyair@hotmail.com|NO
 romerovida|Maria del Socorro Romero Urrego|romerovida@telmex.net.co|NO
 fogamarra|Fabian Gamarra|fogamarra@hotmail.com|NO
-MoniDuran|Moni Duran|N/A|NO
-HjeimyHniño|Hjeimy Hniño|N/A|NO
-JaimeFlórezMeza|Jaime Flórez Meza|N/A|NO
+MoniDuran|Moni Duran|monik.duran@gmail.com|NO
+HjeimyHniño|Hjeimy Hniño|jjulijuli@hotmail.com|NO
+JaimeFlórezMeza|Jaime Flórez Meza|jaiflome@gmail.com|NO
 lufermasan|Luisa Fernanda|lufermasan@hotmail.com|NO
 karoyale|CAROLINA MURCIA|karoyale@hotmail.com|NO
 albanidyalopez|Alba Nidya López Ruiz|albanidyalopez@gmail.com|NO
-johanpinzón|johan pinzón|N/A|NO
-LuisCarlosRodríguez|Luis Carlos Rodríguez|N/A|NO
+johanpinzón|johan pinzón|johan.pinzon@gmail.com|NO
+LuisCarlosRodríguez|Luis Carlos Rodríguez|luiscarlos166@hotmail.com|NO
 David|David|djukei@hotmail.com|NO
 amirapatriciacruz|Amira Patricia|amirapatriciacruz@hotmail.com|NO
 casaoscarm|Oscar Mogollón|casaoscarm@hotmail.com|NO
 yennyliliana21|yenny|yennyliliana21@hotmail.com|NO
 hector.hector81|Héctor E. García Rodríguez|hector.hector81@gmail.com|NO
 ihernandez.academia|Iván Hernández|ihernandez.academia@gmail.com|NO
-JenniAgudelo|Jenni Agudelo|N/A|NO
+JenniAgudelo|Jenni Agudelo|jenlly10@gmail.com|NO
 miguel_infante02|Miguel Ynfante Alfaro|miguel_infante02@hotmail.com|NO
 liliana_rod|Liliana Rodríguez|liliana_rod@hotmail.com|NO
 oeramirez80|OSCAR RAMIREZ VILLEGAS|oeramirez80@hotmail.com|NO
 DIEGO_MOYA|DIEGO MOYA|dmoyam.moya@gmail.com|NO
 mvardila|Viviana|mvardila@gmail.com|NO
-AngelicaMariaAriasP.|Angelica Maria Arias P.|N/A|NO
-IvánYamithArévaloCastro|Iván Yamith Arévalo Castro|N/A|NO
+AngelicaMariaAriasP.|Angelica Maria Arias P.|angeloquisima@hotmail.com|NO
+IvánYamithArévaloCastro|Iván Yamith Arévalo Castro|iyarevaloc@gmail.com|NO
 andrea222|Johanna Andrea Torres Calderon|andrea222@hotmail.com|NO
-ClaudiaConsueloPardoBenito|Claudia Consuelo Pardo Benito|N/A|NO
+ClaudiaConsueloPardoBenito|Claudia Consuelo Pardo Benito|ccpardobenito@gmail.com|NO
 yicepolacas|Yicela|yipoc@hotmail.com|NO
 jairo.castro7|JAIRO CASTRO ACOSTA|jairo.castro7@hotmail.com|NO
 alix.caballero|Psicóloga Infantil y Profesora de Francés Alix Mabel Caballero|alix.caballero@yahoo.fr|NO
 Androp|Andrés Porras|aoporrasr@unal.edu.co|NO
-LeirizQuinteroRamírez|Leiriz Quintero Ramírez|N/A|NO
-DanielFlorezMedina|Daniel Florez Medina|N/A|NO
-JorgeEnriqueGonzalezOrtiz|Jorge Enrique Gonzalez Ortiz|N/A|NO
+LeirizQuinteroRamírez|Leiriz Quintero Ramírez|leirizquintero@hotmail.com|NO
+DanielFlorezMedina|Daniel Florez Medina|proxi3@gmail.com|NO
+JorgeEnriqueGonzalezOrtiz|Jorge Enrique Gonzalez Ortiz|jego98@yahoo.com|NO
 lamechis|maria sanchez|lamechis98@hotmail.com|NO
-WalterAlejandroFernandezBarrera|Walter Alejandro Fernandez Barrera|N/A|NO
-AnaMariaLopezMoreno|Ana Maria Lopez Moreno|N/A|NO
-JhonnyJosèAngelYugo|Jhonny Josè Angel Yugo|N/A|NO
+WalterAlejandroFernandezBarrera|Walter Alejandro Fernandez Barrera|waloart@gmail.com|NO
+AnaMariaLopezMoreno|Ana Maria Lopez Moreno|darkanita@gmail.com|NO
+JhonnyJosèAngelYugo|Jhonny Josè Angel Yugo|yucario67@yahoo.com|NO
 yucario67|Johnny José Angel Yugo|yucario67@yahoo.com|NO
 adryanagonza|Adriana Melo González|adryanagonza@hotmail.com|NO
 jyromero03|Jenny Romero|jyromero03@yahoo.es|NO
 gloria.fuentespardo|Gloria|gloria.fuentespardo@gmail.com|NO
 tiempo16|jhon jairo mosquera rodas|tiempo16@hotmail.com|NO
 v.ospina1|Bibiana Ospina|v.ospina1@hotmail.com|NO
-LeonardoAbella|Leonardo Abella|N/A|NO
+LeonardoAbella|Leonardo Abella|leabellap@gmail.com|NO
 HernánVan-ArckenVarón|Hernán Van-Arcken Varón|hernanvanarcken@hotmail.com|NO
-AlbertoVesgaCartagena|Alberto Vesga Cartagena|N/A|NO
+AlbertoVesgaCartagena|Alberto Vesga Cartagena|albertovsg2@gmail.com|NO
 albertovsg2|Alberto Vesga Cartagena|albertovsg2@gmail.com|NO
-LicTonyEdwardMonterrosaVilla|Lic Tony Edward Monterrosa Villa|N/A|NO
+LicTonyEdwardMonterrosaVilla|Lic Tony Edward Monterrosa Villa|tomovill365@gmail.com|NO
 taty1864|Ms Tatiana|taty1864@hotmail.com|NO
-LeonardoUlloaCastellanos|Leonardo Ulloa Castellanos|N/A|NO
-CantolinaLinda|Cantolina Linda|N/A|NO
+LeonardoUlloaCastellanos|Leonardo Ulloa Castellanos|amorstivenbibianita-0412@hotmail.com|NO
+CantolinaLinda|Cantolina Linda|dianacarolinaalfonso@gmail.com|NO
 asesprodusoft|AsesProduSoft|asesprodusoft@hotmail.com|NO
-ClaudiaMilenaTolozaRivera|Claudia Milena Toloza Rivera|N/A|NO
+ClaudiaMilenaTolozaRivera|Claudia Milena Toloza Rivera|claudiamiletoloza@hotmail.com|NO
 teacherdaniel.ortiz|Daniel Ortiz|teacherdaniel.ortiz@gmail.com|YES
 SantiUrbina|Santiago Urbina Heredia|santi28pix@gmail.com|NO
 camilofape|Camilo Andrés|camilofape@yahoo.es|NO
@@ -1092,10 +1117,10 @@ jenifersa|Jenifer Saavedra Espinel|jenifersa@hotmail.com|NO
 julio|Julio J. Gonzalez F.|jugoferxxi@hotmail.com|NO
 Brenda|Brenda|bj16_72@hotmail.com|NO
 Nidia|Nidia|licnrp2@hotmail.com|NO
-AndrésGómez|Andrés Gómez|N/A|YES
-LuisEduardoAlzate|Luis Eduardo Alzate|N/A|NO
-LilianaVasquezP|Liliana Vasquez P|N/A|NO
-SebastianBautista|Sebastian Bautista|N/A|NO
+AndrésGómez|Andrés Gómez|an3gomez@gmail.com|YES
+LuisEduardoAlzate|Luis Eduardo Alzate|acluis@me.com|NO
+LilianaVasquezP|Liliana Vasquez P|samik_7@hotmail.com|NO
+SebastianBautista|Sebastian Bautista|sebauba16@gmail.com|NO
 sybet|betsy|sybet0430@hotmail.com|YES
 artechia|Martha Lucía|artechia@hotmail.com|NO
 jerssonfac|Jersson|jerssonfac@gmail.com|NO
@@ -1104,35 +1129,35 @@ solangellopez|Solangel Lopez|solangellopez@hotmail.com|NO
 norancastle20|Norbey Quintero|norancastle20@hotmail.com|NO
 jmsandinol|Martin Sandino|jmsandinol@unal.edu.co|NO
 AlexaHerrera|Alexa Herrera|trust-alexa@hotmail.com|NO
-OscarNarvaez|Oscar Narvaez|N/A|NO
-MarlonPrince|Marlon Prince|N/A|NO
-CarolVivianaCárdenasAmézquita|Carol Viviana Cárdenas Amézquita|N/A|NO
+OscarNarvaez|Oscar Narvaez|oang2010@gmail.com|NO
+MarlonPrince|Marlon Prince|marlonpri64@hotmail.com|NO
+CarolVivianaCárdenasAmézquita|Carol Viviana Cárdenas Amézquita|caritolicupn@hotmail.com|NO
 CarolCárdenas|Carol Viviana Cárdenas Amézquita|caritolicupn@hotmail.com|NO
 nasa689|Dubby Nayibe Sanchez|nasa689@gmail.com|NO
 garcia.cardenas1179|Adriana|garcia.cardenas1179@gmail.com|NO
 leidy.mendoza.puerto|LeidyM|leidy.mendoza.puerto@gmail.com|NO
-DavidMartinezAvila|David Martinez Avila|N/A|NO
-JuanSierra|Juan Sierra|N/A|NO
+DavidMartinezAvila|David Martinez Avila|djmartin3112@gmail.com|NO
+JuanSierra|Juan Sierra|jotaerresierra@yahoo.com|NO
 angela_904|Angela leguizamo|angela_904@hotmail.com|NO
-AnelAmaya|Anel Amaya|N/A|NO
-ElkinMendieta|Elkin Mendieta|N/A|NO
+AnelAmaya|Anel Amaya|anelamayapacheco@hotmail.com|NO
+ElkinMendieta|Elkin Mendieta|nikle1406@hotmail.com|NO
 giovannidez|Giovanni Ceron|giovannidez@gmail.com|NO
-AlejandraCuaran|Alejandra Cuaran|N/A|NO
-CatalinaBuitrago|Catalina Buitrago|N/A|NO
-JuanAngarita|Juan Angarita|N/A|NO
-abelt04|Luis Alberto Correa|abelt04@hotmail.com|NO
-EstebanGóngora|Esteban Góngora|N/A|NO
-GloriaMartinez|Gloria Martinez|N/A|NO
+AlejandraCuaran|Alejandra Cuaran|alcura73@gmail.com|NO
+CatalinaBuitrago|Catalina Buitrago|ktikbuitrago@gmail.com|NO
+JuanAngarita|Juan Angarita|juangarita15@yahoo.es|NO
+abelt04|Luis Alberto Correa|abelt04@hotmail.com|YES
+EstebanGóngora|Esteban Góngora|gongorasolano@hotmail.com|NO
+GloriaMartinez|Gloria Martinez|gloria5951@yahoo.com|NO
 Alejandro|ALEJOSPI|alejospi016@hotmail.com|NO
 sebas|Sebastián Brito|sese_707@hotmail.com|NO
 cagym2001|CAMILO ANDRES MORALES RINCON|cagym2001@gmail.com|NO
 dianamarcelamoralesr|Psicologa Diana Marcela|dianamarcelamoralesr@gmail.com|NO
 luisafe00|Luisa|luisafe00@hotmail.com|YES
 advel16|Adriana Velásquez|advel16@yahoo.com|NO
-EmilSegundo|Emil Segundo|N/A|NO
-ClaudiaIsabelChaparroV|Claudia Isabel Chaparro V|N/A|NO
+EmilSegundo|Emil Segundo|eperezchica@gmail.com|NO
+ClaudiaIsabelChaparroV|Claudia Isabel Chaparro V|chclaudi@hotmail.com|NO
 anamagalvis|Ana María Galvis|anamagalvis@hotmail.com|NO
-JuanCarlosSuárezVelásquez|Juan Carlos Suárez Velásquez|N/A|NO
+JuanCarlosSuárezVelásquez|Juan Carlos Suárez Velásquez|juansuarezvelasquez@gmail.com|NO
 juanmusica|juan carlos velasquez|juanmusica03@yahoo.es|NO
 MelissaMartinez|Melissa Martinez|N/A|NO
 ReneRojas|Rene Rojas|N/A|NO
@@ -1151,7 +1176,7 @@ JESUSEDUARDOCARBONONIEBLES|JESUS EDUARDO CARBONO NIEBLES|N/A|NO
 aitork8|Victor Andres Fonseca Alarcon|aitork8@hotmail.com|NO
 sergio.cordoba55|Sergio55|sergio.cordoba55@gmail.com|NO
 funda.futuro.org|ELMER MURCIA|funda.futuro.org@gmail.com|NO
-OmarVillotaHurtado|Omar Villota Hurtado|N/A|NO
+OmarVillotaHurtado|Omar Villota Hurtado|info@redici.org|NO
 LuzIvonnePintoGarcia|Luz Ivonne Pinto Garcia|N/A|NO
 DiegoRafaelCórdoba|Diego Rafael Córdoba|N/A|NO
 RosaliaCastro|Rosalia Castro|N/A|NO

@@ -283,7 +283,7 @@
 			}
 
 			$(".chzn-select").css( "display", "block" );
-		
+			$(".custom_fields_edit_profile_category").css( "display", "block" );
 		</script>
 
 		
