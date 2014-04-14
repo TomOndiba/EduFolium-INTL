@@ -21,7 +21,7 @@ if (!elgg_is_logged_in()) {
  	<header>
 		<div id="ib_head">
 			<div id="butSchools"><a href="/intl/colegios" class="transition">Colegios</a></div>
-			<div id="logo"><a class="ascensorLink ascensorLink0"><img src="_graphics/logo.png" ></a></div>
+			<div id="logo"><a class="ascensorLink ascensorLink0"><img src="_graphics/logo.png" alt="Logo EduFolium Latinoamérica" ></a></div>
 			<div id="nav">			
 				<ul class="navigation" style="padding: 0px 0px 0px 0px">
 					<li><a class="ascensorLink ascensorLink1">Conectar</a></li>
@@ -31,10 +31,10 @@ if (!elgg_is_logged_in()) {
 			</div>
 			<div id="topforma">
 				<div id="logvalidate">
-					<a class="socia_register" href="<?php echo $CONFIG->url; ?>register" onClick="_gaq.push(['_trackEvent','SignUP-Teachers','OpenForm','T1 - Top Menu']);">Regístrese</a>
+					<a rel="nofollow" class="socia_register" href="<?php echo $CONFIG->url; ?>register" onClick="_gaq.push(['_trackEvent','SignUP-Teachers','OpenForm','T1 - Top Menu']);">Regístrese</a>
 				</div>
 				<div class="logvalidateB">
-					<a class="socia_login" href="<?php /*echo $CONFIG->url; */?>login"><spam class="azul">Ingresar +</spam></a>
+					<a rel="nofollow" class="socia_login" href="<?php /*echo $CONFIG->url; */?>login"><spam class="azul">Ingresar +</spam></a>
 				</div>
 			</div>
 		</div>
@@ -50,7 +50,7 @@ if (elgg_is_logged_in()) {
     <div class="span5">
         <div class="elgg-heading-site" >
             <div class="elgg-heading-site-logo">
-			<img src="/intl/_graphics/logo.png" style="height: 60px;">
+			<img src="/intl/_graphics/logo.png" alt="logo EduFolium Latinoamerica" style="height: 60px;">
 			<?php
 			/*
                 <div class="logo-first"><?php echo $first; ?></div>

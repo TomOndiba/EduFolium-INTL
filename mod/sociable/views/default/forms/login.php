@@ -21,7 +21,7 @@
             </label>
 			
             <button type="submit" class="ib_butLogin"><?php echo elgg_echo('login'); ?></button>
-            <a class="ib_butLostpass" href="<?php echo elgg_get_site_url(); ?>forgotpassword"><?php echo elgg_echo('user:password:lost'); ?></a>
+            <a rel="nofollow" class="ib_butLostpass" href="<?php echo elgg_get_site_url(); ?>forgotpassword"><?php echo elgg_echo('user:password:lost'); ?></a>
 
 	</section>
 

@@ -25,7 +25,7 @@
     <td align="center"><br /><h3>Loading...</h3><br /></td> 
   </tr>
   <tr>
-    <td align="center">Contacting <b><?php echo ucfirst( $provider ) ; ?></b>, please wait...</td> 
+    <td align="center">Contactando a <b><?php echo ucfirst( $provider ) ; ?></b>, por favor espere...</td> 
   </tr> 
 </table>
 <script> 
@@ -200,7 +200,7 @@
 
 				// notice
 				system_message( elgg_echo( 'Usted ha ingresado con ' . $provider ) );
-				forward("http://edufolium.com/intl/teachers/home");
+				forward("http://edufolium.com/intl/teachers/home/");
 			}
 			else{
 				throw new Exception( 'No fue posible ingresar con ' . $provider.', por favor intente nuevamente' );
@@ -211,8 +211,8 @@
 <script>
 function init() {
 	window.opener.location.reload(); 
-
-	window.close();
+	window.location.assign("http://edufolium.com/intl/teachers/home")
+//	window.close();
 }
 </script>
 </head>

@@ -16,7 +16,9 @@ elgg_register_event_handler('init', 'system', 'sociable_init');
 
 function sociable_init() {
     global $CONFIG;
-
+	elgg_register_page_handler('acerca-de-edufolium', 'aboutus_page_handler');
+        elgg_register_page_handler('politica-sobre-cookies', 'cookies_page_handler');
+        elgg_register_page_handler('politica-de-privacidad', 'privacy_page_handler');
 	elgg_register_page_handler('signup_ok', 'signupok_page_handler');
 	elgg_register_page_handler('ib_teachers', 'ib_teachers_page_handler');	
 	elgg_register_page_handler('colegios', 'colegios_page_handler');
@@ -155,6 +157,30 @@ function home_schools_page_handler($page) {
 	require_once "$base/home_schools.php";
 	
 return true;	
+}
+
+function privacy_page_handler($page) {
+
+        $base = elgg_get_plugins_path() . 'sociable/pages';
+        require_once "$base/privacy.php";
+
+return true;
+}
+
+function cookies_page_handler($page) {
+
+        $base = elgg_get_plugins_path() . 'sociable/pages';
+        require_once "$base/cookies.php";
+
+return true;
+}
+
+function aboutus_page_handler($page) {
+
+        $base = elgg_get_plugins_path() . 'sociable/pages';
+        require_once "$base/about-us.php";
+
+return true;
 }
 
 function signupok_page_handler($page) {

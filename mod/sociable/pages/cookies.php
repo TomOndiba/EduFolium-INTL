@@ -99,7 +99,14 @@ $lang = get_current_language();
 				<article class="container">
 				<div id="ib_home">
 					<section class="ib_sectionB" style="width: 100%;">
+					</br></br>Para información sobre nuestras políticas de privacidad, haga click en el siguiente enlace:
+                                        <a href="http://edufolium.com/intl/politica-de-privacidad">Política de Privacidad</a>
+                                        </br></br>Para saber más sobre EduFolium, haga click en el siguiente enlace:
+                                        <a href="http://edufolium.com/intl/acerca-de-edufolium">Acerca de EduFolium</a>				
 					<h1 class="ib_signupT">Política sobre uso de cookies</h1>
+					</br></br>
+					Vigente a partir de:<b> 1 de junio  de 2013</b>
+					<br><br>
 					<span>
 						Al utilizar o acceder al sitio web, usted acepta de manera predeterminada que EduFolium utilizará las "cookies" de la siguiente manera:
 						</br></br>

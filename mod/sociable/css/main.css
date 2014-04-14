@@ -971,7 +971,7 @@ padding:0 10px 10px 10px;
 border-radius:10px;
 bottom: 20px;
 width: 200px;
-height: 60px;
+height: 75px;
 z-index: 999;
 }
 
@@ -1019,6 +1019,23 @@ z-index: 999;
 	position: fixed;
 	top: 50px;
 	left: 20px;
+}
+
+#navigationMap .privacy {
+        margin-top: 5px;
+        margin-left: 20px;
+}
+
+#navigationMap .privacy a:visited{
+	color: #006BA4;
+}
+
+#ib_home a:visited{
+        color: #006BA4;
+}
+
+#formulario a:visited{
+	color: #006BA4;
 }
 
  @media print {

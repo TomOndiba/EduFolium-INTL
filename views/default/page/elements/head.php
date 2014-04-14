@@ -36,6 +36,13 @@ $css = elgg_get_loaded_css();
 $version = get_version();
 $release = get_version(true);
 ?>
+<script type="text/javascript">
+
+if (window.location.hash && window.location.hash === "#_=_") {
+window.location.hash = "";
+}
+
+</script>
 
 <script type="text/javascript">
 var fb_param = {};

@@ -36,33 +36,33 @@ $connect_menu = '
 					<div id="edufolium_butchat" style="display:none">
 						<a href="/intl/thewire/all">
 							<span>
-								<img src="/intl/_graphics/edufolium_microchat-icon.png">
+								<img src="/intl/_graphics/edufolium_microchat-icon.png" alt="MicroBlog Docentes">
 							</span>
 						</a>
 					</div>					
 					<div id="ib_butGroup" style="display:none">
 						<a href="/intl/groups">
-							<span><img src="/intl/_graphics/group.png"></span>
+							<span><img src="/intl/_graphics/group.png" alt="Grupos Docentes" ></span>
 						</a>
 					</div>				
 					<div id="ib_butMap" style="display:none">
 						<a href="/intl/membersmap">
 							<span>
-								<img src="/intl/_graphics/map.png">
+								<img src="/intl/_graphics/map.png" alt="Mapa Docentes" >
 							</span>
 						</a>
 					</div>
 					<div id="ib_butMember" style="display:none">
 						<a href="/intl/members">
 							<span>
-								<img src="/intl/_graphics/member.png">
+								<img src="/intl/_graphics/member.png" alt="Docentes" >
 							</span>
 						</a>
 					</div>
 					<div id="edufolium_butRecursos" style="display:none">
 						<a href="/intl/file" >
 							<span>
-								<img src="/intl/_graphics/edufolium-icon.png">
+								<img src="/intl/_graphics/edufolium-icon.png" alt="Recursos Docentes">
 							</span>
 						</a>
 					</div>					
@@ -134,6 +134,9 @@ $lang = get_current_language();
 								<li><a class="ascensorLink ascensorLink3" onClick="_gaq.push(['_trackEvent','Nav-CSC','Create','T1 - Create']);"></a></li>
 							</ul>
 							<div class="ib_butContact"><a href="/intl/mod/contact/">Contáctenos</a></div>
+							<div class="privacy">
+								<a href="http://edufolium.com/intl/politica-de-privacidad" >Política de Privacidad</a>
+							</div>
 						</nav>
 							<div id="ascensorBuilding">
 							<section>
@@ -145,7 +148,7 @@ $lang = get_current_language();
 									<section class="ib_sectionA">
 										<div class="ib_cajafoto">
 											<figure>
-												<img src="/intl/_graphics/edufolium-123.png" alt="Empleo para Docentes">
+												<img src="/intl/_graphics/edufolium-123.png" alt="Pasos para conseguir empleo como Docente ">
 											</figure>
 										</div>
 										<div class="ib_butEntrar">
@@ -160,7 +163,7 @@ $lang = get_current_language();
 									<article class="container">
 									<div id="ib_connect">
 									<section class="ib_sectionA">
-										<div class="ib_cajafoto"><figure><img src="_graphics/connect.png"></figure></div>
+										<div class="ib_cajafoto"><figure><img src="_graphics/connect.png" alt="Conectese con Docentes y Colegios" ></figure></div>
 										</section>
 										<section class="ib_sectionB">
 										<h1>Conectar . . .</h1>
@@ -192,7 +195,7 @@ $lang = get_current_language();
 									<article class="container">
 									<div id="ib_share">
 									<section class="ib_sectionA">
-										<div class="ib_cajafoto"><figure><img src="_graphics/share.png"></figure></div>
+										<div class="ib_cajafoto"><figure><img src="_graphics/share.png" alt="Comparta Recursos Educativos" ></figure></div>
 										</section>
 										<section class="ib_sectionB">
 										<h1>Compartir . . .</h1>
@@ -224,7 +227,7 @@ $lang = get_current_language();
 									<article class="container">
 									<div id="ib_create">
 									<section class="ib_sectionA">
-										<div class="ib_cajafoto"><figure><img src="_graphics/create.png"></figure></div>
+										<div class="ib_cajafoto"><figure><img src="_graphics/create.png" alt="Empleos y Trabajos para todos los docentes"></figure></div>
 										</section>
 										<section class="ib_sectionB">
 										<h1>Crear . . .</h1>
@@ -456,10 +459,16 @@ Perfil = Colegio
 		<?php 
 			if( stristr($_SERVER['SCRIPT_NAME'], 'page_handler') )
 				{
-					echo $_SERVER['SCRIPT_NAME'];
-					echo '<div class="modal-backdrop fade in"></div>';
-					echo '<div id="sociaLogin" class="modal fade in" tabindex="-1" role="dialog" aria-labelledby="sociaLoginLabel" aria-hidden="true">';
-					
+					$scriptname = $_SERVER['SCRIPT_NAME'];
+					$requesturi =  $_SERVER['REQUEST_URI'];
+					if (strpos($requesturi,'forgotpassword') !== false) {
+						echo '  <div id="sociaLogin" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="sociaLoginLabel" aria-hidden="true">';				
+					}
+					else
+					{	
+						echo '<div class="modal-backdrop fade in"></div>';
+						echo '<div id="sociaLogin" class="modal fade in" tabindex="-1" role="dialog" aria-labelledby="sociaLoginLabel" aria-hidden="true">';
+					}
 				}
 			else				
 				echo '	<div id="sociaLogin" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="sociaLoginLabel" aria-hidden="true">';
@@ -520,6 +529,6 @@ Perfil = Colegio
 		  });
 		</script>
 		<!-- EduFolium Smart Layers END -->	
-
+		<a href="https://plus.google.com/+Edufolium/?rel=author" style="display:none" >Creado por EduFolium</a>
     </body>
 </html>

@@ -2,3 +2,8 @@ User-agent: *
 Disallow: /_graphics
 Disallow: /documentation
 Disallow: /install
+Disallow: /register
+Disallow: /forgotpassword
+Disallow: /engine
+Disallow: /documentation
+

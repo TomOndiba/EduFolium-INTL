@@ -141,7 +141,10 @@ echo elgg_view('input/hidden', array('name' => 'invitecode', 'value' => $vars['i
 echo elgg_view('input/submit', array('name' => 'submit', 'value' => elgg_echo('Registrarse')));
 
 echo "</div>";
-
+echo "</br>";
+echo "<div class='privacy'>";
+echo "	<a href='http://edufolium.com/intl/politica-de-privacidad' target='_blank'>Política de Privacidad</a>";
+echo "</div>";
 echo "</section>";
 ?>
 
