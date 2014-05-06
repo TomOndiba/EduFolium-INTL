@@ -73,7 +73,7 @@ $lang = get_current_language();
 		<div id="schools_container">
 			
 			<section class="section1">
-				<h1>Con cerca de 1,000 docentes en nuestra plataforma, EduFolium es una nueva alternativa para encontrar los mejores profesionales para su colegio. <br> </h1>
+				<h1>Con mas de 1,600 docentes en nuestra plataforma, EduFolium es una nueva alternativa para encontrar los mejores profesionales para su colegio. <br> </h1>
 
 				<p>
 				<a <a style="color:#006BA4" href="http://demo.edufolium.com/oferta_laboral.html"> Publique ofertas laborales</a>

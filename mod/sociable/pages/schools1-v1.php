@@ -93,8 +93,8 @@ $lang = get_current_language();
 		<div id="schools_container">
 			
 			<section class="section1">
-				<h1>Con cerca de 1,000 docentes en nuestra plataforma, EduFolium es una nueva alternativa para encontrar los mejores profesionales para su colegio.  </h1>
-				<p> EduFolium está creando la comunidad de docentes más grande de Latinoamérica. Tenemos en la actualidad más de 800 docentes activos en la comunidad en línea y más de 1,500 hojas de vida en nuestra base de datos (no todas disponibles para consulta en línea).  </p>
+				<h1>Con más de 1,600 docentes en nuestra plataforma, EduFolium es la alternativa para encontrar los mejores profesionales para su colegio.  </h1>
+				<p> EduFolium está creando la comunidad de docentes más grande de Latinoamérica. Tenemos en la actualidad más de 1600 docentes activos en la comunidad en línea y más de 1,500 hojas de vida en nuestra base de datos (no todas disponibles para consulta en línea).  </p>
 			</section>
 			<section class="section2">
 				<div class="lupa"></div>

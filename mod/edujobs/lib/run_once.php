@@ -12,4 +12,5 @@ function edujobs_run_once_subtypes()	{
     add_subtype('object', Educvedu::SUBTYPE, "educvedu");
     add_subtype('object', Educvlang::SUBTYPE, "educvlang");
     add_subtype('object', Educvport::SUBTYPE, "educvport");
+    add_subtype('object', Edujobsext::SUBTYPE, "edujobsext");	// external jobs from other job sites
 }

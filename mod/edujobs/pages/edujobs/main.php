@@ -65,7 +65,8 @@ if (get_input("searchformsubmitted"))	{
 		$sidebar_options[country] = $country;
 	}
 	if ($city) {
-		$city_frm = array('name' => 'city','value' => $city, 'operand' => '=');
+		$city_frm = array('name' => 'city','value' => '%'.$city.'%', 'operand' => 'like');
+		//$city_frm = array('name' => 'city','value' => $city, 'operand' => '=');
 		array_push($search_options,$city_frm);
 		$sidebar_options[city] = $city;
 	}

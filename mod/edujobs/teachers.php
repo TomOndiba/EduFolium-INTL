@@ -1,7 +1,6 @@
 <?php
 /**
- * Elgg membersmap helper functions
- *
+ * Elgg edujobs helper functions
  * @package MembersMap
  */
 

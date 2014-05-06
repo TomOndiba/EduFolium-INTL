@@ -36,7 +36,7 @@
 
 					<div class="ib_ShareBut" style="display:none">
 						<div class="ib_buts">
-							<a href="/intl/edujobs/jobs">Explora Oportunidades Laborales</a>
+							<a href="/intl/edujobs/teachers/extjobs">Explora Oportunidades Laborales</a>
 						</div>
 				
 					</div>

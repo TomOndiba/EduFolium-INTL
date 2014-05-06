@@ -34,7 +34,8 @@ def get_info(country,url)
 			puts "Link: "+response['location']+"</br>"
 		
 			puts "</br>"
-			eduurl="http://edufolium.com/intl/mod/edujobs/ext-jobs.php?country="+country+"&title="+title+"&company="+company+"&location="+location+"&summary="+summary+"&source="+source+"&link="+link
+			#eduurl="http://edufolium.com/intl/mod/edujobs/ext-jobs.php?country="+country+"&title="+title+"&company="+company+"&location="+location+"&summary="+summary+"&source="+source+"&link="+link
+			eduurl="http://localhost/elgg/mod/edujobs/ext-jobs.php?country="+country+"&title="+title+"&company="+company+"&location="+location+"&summary="+summary+"&source="+source+"&link="+link
 					
 			puts eduurl
 			

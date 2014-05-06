@@ -19,6 +19,7 @@ function edujobs_init() {
 	define('JOB_STATUS_REJECTED', 'rejected');	// set applicant job status to rejected
 	define('DEFAULT_LANG', 'Spanish');	// set default language
 	define('DEFAULT_CURRENCY', 'COP');	// set default currency
+	define('EXTERNAL_JOBS_TIME_PUBLISHED', 1296000);	// , 15 days define external jobs published date, how many days ago
 	
 	$current_site = elgg_get_site_entity();
 	$temp = array();
@@ -26,14 +27,17 @@ function edujobs_init() {
 	if (in_array("sandbox", $temp)) {
 		define('COLEGIO_PROFILE_TYPE_GUID', 77);	// set colegio guid from profile manager
 		define('DOCENTE_PROFILE_TYPE_GUID', 75);	// set colegio guid from profile manager
+		define('SITE_ADMIN_GUID', 35);	// admin guid for external jobs inserting
 	}	
 	else if (in_array("edufolium", $temp)) {
 		define('COLEGIO_PROFILE_TYPE_GUID', 168);	// set colegio guid from profile manager
 		define('DOCENTE_PROFILE_TYPE_GUID', 169);	// set colegio guid from profile manager
+		define('SITE_ADMIN_GUID', 34);	// admin guid for external jobs inserting
 	}
 	else {
-		define('COLEGIO_PROFILE_TYPE_GUID', 287);	// set colegio guid from profile manager
-		define('DOCENTE_PROFILE_TYPE_GUID', 288);	// set colegio guid from profile manager	
+		define('COLEGIO_PROFILE_TYPE_GUID', 87);	// set colegio guid from profile manager
+		define('DOCENTE_PROFILE_TYPE_GUID', 86);	// set colegio guid from profile manager	
+		define('SITE_ADMIN_GUID', 59);	// admin guid for external jobs inserting
 	}	
 
 	
@@ -49,6 +53,7 @@ function edujobs_init() {
     // Register entity_type for search
     elgg_register_entity_type('object', Edujobs::SUBTYPE);
     elgg_register_entity_type('object', Educv::SUBTYPE);
+    elgg_register_entity_type('object', Edujobsext::SUBTYPE);
     //elgg_register_entity_type('object', Educvedu::SUBTYPE);
     //elgg_register_entity_type('object', Educvlang::SUBTYPE);
     //elgg_register_entity_type('object', Educvport::SUBTYPE);
@@ -69,6 +74,7 @@ function edujobs_init() {
     // Register a URL handler for jobs
     elgg_register_entity_url_handler('object', 'edujobs', 'edujobs_url');  
     elgg_register_entity_url_handler('object', 'educv', 'educv_url');  
+    elgg_register_entity_url_handler('object', 'edujobsext', 'edujobsext_url');  
     
     // Add cv widget
 	elgg_register_widget_type('edujobs',	elgg_echo('edujobs:widget:cv'),	elgg_echo('edujobs:widget:cv:description'));
@@ -88,6 +94,7 @@ function edujobs_init() {
 	elgg_register_action("edujobs/cvs/addlanguage", "$action_path/goaddlanguage.php");  
 	elgg_register_action("edujobs/cvs/addcv6", "$action_path/goaddcv6.php");
 	elgg_register_action("edujobs/cvs/addportfolio", "$action_path/goaddportfolio.php");
+	elgg_register_action("edujobsext/job/delete", "$action_path/deljob.php"); 
 }
 
 /**
@@ -136,6 +143,17 @@ function edujobs_page_handler($page) {
 					return false;									
 			}
 			break;
+			
+		 case "jobext":
+			switch($page[1]) {
+				case 'view':
+					if(!empty($page[2])) {
+						set_input('guid', $page[2]);
+					}
+					include "$base/jobs/viewjobexternal.php";
+					break;
+			}
+			break;			
 			
 		 case "teachers":
 			switch($page[1]) {
@@ -218,7 +236,10 @@ function edujobs_page_handler($page) {
 					if(!empty($page[2])) {	set_input('uguid', $page[2]);	}
 					if(!empty($page[3])) {	set_input('guid', $page[3]);	}
 					require_once "$base/teachers/addportfolio.php";
-					break;						
+					break;				
+				case 'extjobs':
+					include "$base/teachers/extjobs.php";
+					break;	
 				default:
 					include "$base/main.php";
 					return false;						
@@ -262,5 +283,17 @@ function educv_url($entity) {
 	//$title = elgg_get_friendly_title($title);
 
 	return $CONFIG->url . "edujobs/teachers/cv/" . $elgg_user[0]->username;
+}
+
+/**
+ * Populates the ->getUrl() method for edujobs objects
+ */
+function edujobsext_url($entity) {
+	global $CONFIG;
+
+	$title = $entity->title;
+	$title = elgg_get_friendly_title($title);
+
+	return $CONFIG->url . "edujobs/jobext/view/" . $entity->getGUID() . "/" . $title;
 }
 

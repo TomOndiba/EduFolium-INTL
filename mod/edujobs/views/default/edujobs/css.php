@@ -159,8 +159,30 @@ div.cvsection h3	{
 	padding: 25px 0 0 0 ;
 }
 
+div.job-external	{
+	width: 65%;
+	border: 1px solid grey;
+	padding: 5px;
+	float:left;
+	margin: 5px 10px 5px 0;
+	clear:both;
+}
 
+div.job-footer-external	{
+	float:left;
+	width: 95%;
+	border: 0px solid red;
+	margin: 0 0 10px 0;
+}
 
+div.job-side-external	{
+	padding: 0px 15px;
+	border: 0px solid green;
+	width: 25%;
+	float:right;
+	margin: 5px 0;
+}
 
-
-
+div.job-side-external a	{
+	text-align:center;
+}

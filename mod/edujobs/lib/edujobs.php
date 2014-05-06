@@ -1851,3 +1851,50 @@ function get_country_flag($country = null) {
     } 
     return false;
 }
+
+// get list of publish periods
+function get_sort_by_selector_external($current_url, $current_orderby = null, $teachers = false) {
+	$datepostedrecent_selected = "";
+	$datepostedlatest_selected = "";
+
+	$telestis = '&';
+	$pos = strpos($current_url, '?');
+	if ($pos === false) 
+		$telestis = '?';
+
+	if ($current_orderby != null)	{
+		if ($current_orderby == "datepostedrecent") $datepostedrecent_selected = " selected ";
+		if ($current_orderby == "datepostedlatest") $datepostedlatest_selected = " selected ";
+	}
+	
+	$selector = '<div style="float:right; margin:10px 0;">';
+	$selector .= '<select onchange="gotopage(this)">';
+	$selector .= '<option value="'.$current_url.'&orderby=datepostedrecent" '.$datepostedrecent_selected.'>'.elgg_echo('edujobs:view:job:sort:datepostedrecent').'</option>';
+	$selector .= '<option value="'.$current_url.'&orderby=datepostedlatest" '.$datepostedlatest_selected.'>'.elgg_echo('edujobs:view:job:sort:datepostedlatest').'</option>';
+	$selector .= '</select>';
+	$selector .= '</div>';
+	
+	return $selector;
+}
+
+// get alternative location... e.g. 
+function get_location_alternative($location) {
+	$alt_location = array();
+	
+	// push default location
+	array_push($alt_location,$location);
+	
+	$tmp_string = strtolower($location); // convert to lowercase
+	array_push($alt_location,$tmp_string);
+	
+	// replace special chars
+	$tmp_string = str_replace('á', 'a', $tmp_string);
+	$tmp_string = str_replace('é', 'e', $tmp_string);
+	$tmp_string = str_replace('í', 'i', $tmp_string);
+	$tmp_string = str_replace('ó', 'o', $tmp_string);
+	$tmp_string = str_replace('ú', 'u', $tmp_string);
+	$tmp_string = str_replace('ñ', 'n', $tmp_string);
+	array_push($alt_location,$tmp_string);
+	
+	return $alt_location;
+}

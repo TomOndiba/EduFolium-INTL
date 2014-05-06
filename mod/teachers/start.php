@@ -28,7 +28,7 @@ function teachers_init()
 		elgg_register_menu_item('site', $item5);		
 
 		//CV-ZOHO
-		$item6 = new ElggMenuItem('ibpals_jp', "EMPLEOS", 'edujobs/jobs');
+		$item6 = new ElggMenuItem('ibpals_jp', "EMPLEOS", 'edujobs/teachers/extjobs');
 		elgg_register_menu_item('site', $item6);		
 		
 		

@@ -525,6 +525,16 @@ $lang = array(
 	'river:portfolio:object:educvport' => '%s ha subido un nuevo recurso %s',    
 
         'edujobs:addcv:country' => "Selecciona tu País",
+        
+	// external jobs
+	'jobsext' => "Otras Ofertas",
+	'jobsext:none' => 'No hay resultados',
+	'edujobs:label:extjobs' => "Otras Ofertas",
+	'edujobs:label:jobsexternal:source' => "Fuente",
+	'edujobs:label:jobsexternal:clicktoapply' => "Ir al sitio de la oferta para aplicar",
+	'edujobs:label:jobsexternal:published' => "Publicado: ",
+	'edujobs:label:jobsexternal:search:area' => "Ciudad / Area",
+	'edujobs:jobsexternal:resultsno' => "Resultados: ",        
             
 );
 

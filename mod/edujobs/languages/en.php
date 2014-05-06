@@ -528,6 +528,15 @@ $lang = array(
 	    
 	'edujobs:addcv:country' => "Select your Country",    
 	
+	// external jobs
+	'jobsext' => "External Jobs",
+	'jobsext:none' => 'No results',
+	'edujobs:label:extjobs' => "External Jobs",
+	'edujobs:label:jobsexternal:source' => "Source",
+	'edujobs:label:jobsexternal:clicktoapply' => "Click to external site to apply",
+	'edujobs:label:jobsexternal:published' => "Published on ",
+	'edujobs:label:jobsexternal:search:area' => "City / Area",
+	'edujobs:jobsexternal:resultsno' => "Results: ",
 );
 
 add_translation("en", $lang);  

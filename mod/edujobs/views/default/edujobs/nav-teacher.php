@@ -25,6 +25,11 @@ $tabs = array(
 				'url' => 'edujobs/jobs',
 				'selected' => $vars['selected'] == 'jobs',
 		),
+		'extjobs' => array(
+				'title' => elgg_echo('edujobs:label:extjobs'),
+				'url' => 'edujobs/teachers/extjobs',
+				'selected' => $vars['selected'] == 'teachers/extjobs',
+		),		
 );
 
 echo elgg_view('navigation/tabs', array('tabs' => $tabs));
