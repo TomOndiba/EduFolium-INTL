@@ -71,7 +71,7 @@
 				$params = array(
 					"title" => elgg_get_site_entity()->name,
 					"content" => $custom_text_header . $userdata . $custom_text_footer,
-					"footer" => elgg_view("digest/elements/footer", $vars),
+					"footer" => 'skata'.elgg_view("digest/elements/footer", $vars),
 					"digest_header" => elgg_view("digest/elements/header", $vars),
 					"digest_online" => elgg_view("digest/elements/online", $vars),
 					"digest_unsubscribe" => elgg_view("digest/elements/unsubscribe", $vars)
@@ -630,25 +630,8 @@
 		elgg_extend_view("css/digest/core", "css/digest/river");
 		elgg_extend_view("digest/elements/site", "digest/elements/site/river");
 		elgg_extend_view("digest/elements/group", "digest/elements/group/river");
-	
-		if(elgg_is_active_plugin("blog")){
-			elgg_extend_view("css/digest/core", "css/digest/blog");
-				
-			elgg_extend_view("digest/elements/site", "digest/elements/site/blog");
-		}
-	
-		if(elgg_is_active_plugin("groups")){
-			elgg_extend_view("css/digest/core", "css/digest/groups");
-				
-			elgg_extend_view("digest/elements/site", "digest/elements/site/groups");
-		}
-	
-		if(elgg_is_active_plugin("profile")){
-			elgg_extend_view("css/digest/core", "css/digest/profile");
-				
-			elgg_extend_view("digest/elements/site", "digest/elements/site/profile");
-		}
-		
+
+
 		// edujobs nikos start
 		if(elgg_is_active_plugin("edujobs")){
 			elgg_load_library('elgg:edujobs');
@@ -660,9 +643,30 @@
 			elgg_extend_view("digest/elements/site", "digest/elements/site/edujobs");
 			
 			// external jobs
-			elgg_extend_view("digest/elements/site", "digest/elements/site/edujobsext");			
+			//elgg_extend_view("digest/elements/site", "digest/elements/site/edujobsext");			
 		}		
-		// edujobs nikos start
+		// edujobs nikos end
+		
+		/*	edujobs nikos
+		if(elgg_is_active_plugin("blog")){
+			elgg_extend_view("css/digest/core", "css/digest/blog");
+				
+			elgg_extend_view("digest/elements/site", "digest/elements/site/blog");
+		}
+		*/ 
+
+		if(elgg_is_active_plugin("profile")){
+			elgg_extend_view("css/digest/core", "css/digest/profile");
+				
+			elgg_extend_view("digest/elements/site", "digest/elements/site/profile");
+		}
+			
+		if(elgg_is_active_plugin("groups")){
+			elgg_extend_view("css/digest/core", "css/digest/groups");
+				
+			elgg_extend_view("digest/elements/site", "digest/elements/site/groups");
+		}
+	
 	}
 	
 	function digest_get_default_distribution($interval){

@@ -17,6 +17,7 @@
 	$interval = elgg_extract("interval", $vars);
 	$site = elgg_get_site_entity();
 	
+	/*
 	echo "<h1>";
 	if(!empty($group)){
 		echo elgg_echo("digest:message:title:group", array($site->name, $group->name, elgg_echo("digest:interval:" . $interval)));
@@ -24,3 +25,7 @@
 		echo elgg_echo("digest:message:title:site", array($site->name, elgg_echo("digest:interval:" . $interval)));
 	}
 	echo "</h1>";
+	*/
+	echo '
+		<a href="http://edufolium.com/intl/"><img src="http://edufolium.com/intl/_graphics/logo.png"/></a>
+	';
