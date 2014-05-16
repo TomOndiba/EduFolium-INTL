@@ -15,15 +15,15 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 	}
 
 	// Retrieve map width 
-	$mapwidth = get_map_width('membersmap');
+	$mapwidth = get_map_width();
 	// Retrieve map height
-	$mapheight = get_map_height('membersmap');
+	$mapheight = get_map_height();
 	// Retrieve map default location
-	$defaultlocation = get_map_default_location('membersmap');
+	$defaultlocation = get_map_default_location();
 	// Retrieve map zoom
-	$mapzoom = get_map_zoom('membersmap');
+	$mapzoom = get_map_zoom();
 	// Retrieve cluster feature
-	$clustering = get_map_clustering('membersmap');
+	$clustering = get_map_clustering();
 	$clustering_zoom = CUSTOM_CLUSTER_ZOOM;
 
 	// get coords of default location
@@ -59,7 +59,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 				$title = elgg_echo('membersmap:map').': '.elgg_echo('membersmap:label:friends');
 				$options['relationship'] = 'friend';
 				$options['relationship_guid'] = elgg_get_logged_in_user_guid();
-				$options['types'] = 'user';	// XREIAZETAI ????
+				$options['types'] = 'user';	
 				$options['inverse_relationship'] = false;
 				$options['limit'] = 0;
 				$users = elgg_get_entities_from_relationship($options);
@@ -77,7 +77,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 				$options = array('type' => 'user', 'full_view' => false);
 				$options['relationship'] = 'member';
 				$options['relationship_guid'] = $group->guid;
-				$options['types'] = 'user';		// XREIAZETAI ????
+				$options['types'] = 'user';		
 				$options['inverse_relationship'] = true;
 				$options['limit'] = 0;
 				$users = elgg_get_entities_from_relationship($options);
@@ -120,7 +120,5 @@ else
 	forward(REFERER);
 }
 
-
-
-
-
+// release variables
+unset($users);

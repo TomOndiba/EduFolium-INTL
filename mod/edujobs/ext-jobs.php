@@ -88,7 +88,14 @@ if(isset($_GET['country']) && isset($_GET['title']) && isset($_GET['company']) &
 		
 		// convert title to array for storing in tags
 		$title_array = explode(" ", $title);
-		$tag_array = array_map('trim', $title_array);
+		$tmp_array_1 = array_map('trim', $title_array);
+		
+		// convert title to array for storing in tags
+		$company_array = explode(" ", $company);
+		$tmp_array_2 = array_map('trim', $company_array);		
+		
+		// merge arrays
+		$tag_array = array_merge($tmp_array_1, $tmp_array_2);
 		
 		// get alternative location
 		$location_alternative = get_location_alternative($location);

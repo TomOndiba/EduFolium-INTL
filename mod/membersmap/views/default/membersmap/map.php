@@ -12,7 +12,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
     $location = $vars['location'];
     
     if(!isset($zoom)){
-        $zoom = get_map_zoom('membersmap');
+        $zoom = get_map_zoom();
     } 
     if(!isset($location)){
         $location = CUSTOM_DEFAULT_COORDS;

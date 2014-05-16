@@ -61,7 +61,7 @@
     
     // search area
     function codeAddress(givenaddr) {
-        codeAddressExtend(givenaddr,<?php echo $defaultzoom;?>,'<?php echo elgg_get_site_url();?>','<?php echo $defaultlocation;?>','<?php echo elgg_echo("membersmap:map:2");?>', 0, <?php echo get_unit_of_measurement('membersmap');?>, '<?php echo get_unit_of_measurement_string_simple('membersmap');?>');
+        codeAddressExtend(givenaddr,<?php echo $defaultzoom;?>,'<?php echo elgg_get_site_url();?>','<?php echo $defaultlocation;?>','<?php echo elgg_echo("membersmap:map:2");?>', 0, <?php echo get_unit_of_measurement();?>, '<?php echo get_unit_of_measurement_string_simple();?>');
     } 
 
 
@@ -77,9 +77,13 @@
         else    {
             if ($u->getLatitude() && $u->getLongitude())  {
                 // remove single and double quotes from username
-                $namecleared = remove_shits($u->name);
-                $briefdescriptioncleared = preg_replace('/[^(\x20-\x7F)]*/','', $u->briefdescription);
-                $briefdescriptioncleared = remove_shits($briefdescriptioncleared);
+				$namecleared = remove_shits($u->name);
+				
+				$entity_description = getEntityDescription($u->briefdescription);
+				$entity_location = remove_shits($u->location);	
+				$icon = getEntityIcon($u);
+				$entity_title = getEntityTitle($u, $namecleared); 
+				$entity_img = getEntityImg($u, $namecleared);				
                 
 ?> 
                 if (radius>=0) ddd = calcDistance(www1, www2, <?php echo $u->getLatitude();?>, <?php echo $u->getLongitude();?>);
@@ -90,10 +94,10 @@
                         map: map,
                         position: myLatlng,
                         title: '<?php echo $namecleared;?>',
-                        icon: '<?php echo elgg_get_site_url();?>mod/membersmap/graphics/<?php echo get_marker_icon('membersmap');?>'
+                        icon: '<?php echo $icon;?>'
                     });                
                     google.maps.event.addListener(marker, 'click', function() {
-                      infowindow.setContent('<?php echo '<div class="infowindow"><img src="'.$u->getIconURL('tiny').'" alt="'.$namecleared.'" style="float:left; margin: 6px 4px 0 0;border-radius: 3px 3px 3px 3px;" />  <a href="'.elgg_get_site_url().'profile/'.$u->username.'">'.$namecleared.'</a><br />'.$u->location.'<br/>'.$briefdescriptioncleared.'</div>';?>');
+                      infowindow.setContent('<?php echo '<div class="infowindow">'.$entity_img.' '.$entity_title.'<br/>'.$entity_location.'<br/>'.$entity_description.'</div>';?>');
                       infowindow.open(map, this);
                     });  
                     oms.addMarker(marker);  // Spiderfier feature

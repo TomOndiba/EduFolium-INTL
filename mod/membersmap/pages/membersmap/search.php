@@ -1,7 +1,6 @@
 <?php
 /**
  * Members search page
- *
  * @package MembersMap
  */
 
@@ -24,15 +23,15 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 	$title = elgg_echo('membersmap:search:searchname', array($name));
 
 	// Retrieve map width 
-	$mapwidth = get_map_width('membersmap');
+	$mapwidth = get_map_width();
 	// Retrieve map height
-	$mapheight = get_map_height('membersmap');
+	$mapheight = get_map_height();
 	// Retrieve map default location
-	$defaultlocation = get_map_default_location('membersmap');
+	$defaultlocation = get_map_default_location();
 	// Retrieve map zoom
-	$mapzoom = get_map_zoom('membersmap');
+	$mapzoom = get_map_zoom();
 	// Retrieve cluster feature
-	$clustering = get_map_clustering('membersmap');
+	$clustering = get_map_clustering();
 	$clustering_zoom = CUSTOM_CLUSTER_ZOOM;
 
 	// get coords of default location
@@ -110,3 +109,7 @@ else
 	register_error(elgg_echo("membersmap:settings:kanelggamapsapi:notenabled"));
 	forward(REFERER);
 }
+
+// release variables
+unset($users);
+unset($usersfound);

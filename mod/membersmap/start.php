@@ -11,11 +11,6 @@ elgg_register_event_handler('init', 'system', 'membersmap_init');
  * MembersMap plugin initialization functions.
  */
 function membersmap_init() {  
-	define('CUSTOM_DEFAULT_COORDS', '49.037868,14.941406');	// set coords of Europe in case default location is not set
-	define('CUSTOM_DEFAULT_LOCATION', 'Africa');	// set default location in case default location is not set
-	define('CUSTOM_DEFAULT_ZOOM', 10);	// set default zoom in case is not set
-	define('CUSTOM_CLUSTER_ZOOM', 7);	// set cluster zoom that define when markers grouping ends	
-	
     // load kanelgga maps api libraries if it's enabled. If not, it will not be working
     if(elgg_is_active_plugin("kanelggamapsapi")){
 		elgg_load_library('elgg:kanelggamapsapi');  
@@ -34,16 +29,6 @@ function membersmap_init() {
     // Extend CSS
     elgg_extend_view('css/elgg', 'membersmap/css');
 
-    // register extra js files
-    $mapkey = trim(elgg_get_plugin_setting('google_api_key', 'kanelggamapsapi'));
-    elgg_register_js('basicjs', '/mod/membersmap/assets/membersmap.js');
-    elgg_register_js('placeholderjs', '/mod/membersmap/assets/jquery.placeholder.js');
-    elgg_register_js('gmap1', 'https://maps.googleapis.com/maps/api/js?sensor=false&amp;key=' . $mapkey);
-    elgg_register_js('gmap2', 'https://maps.googleapis.com/maps/api/js?sensor=true&libraries=places&amp;key=' . $mapkey);    
-    elgg_register_js('gmap3', 'https://maps.google.com/maps/api/js?sensor=false&libraries=geometry&amp;key=' . $mapkey);
-    elgg_register_js('gmap4', 'http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/markerclusterer_compiled.js');
-    elgg_register_js('omsjs', '/mod/membersmap/assets/oms.min.js');
-    
     // extend group main page 
     elgg_extend_view('groups/tool_latest', 'membersmap/group_module');
     
@@ -64,7 +49,7 @@ function membersmap_init() {
 	// Register a handler for create members
 	elgg_register_event_handler('create', 'user', 'membersmap_geolocation');   
 	// Register a handler for update members
-	elgg_register_event_handler('update', 'user', 'membersmap_geolocation');		 
+	elgg_register_event_handler('profileupdate', 'user', 'membersmap_geolocation');		 
       
 }
 

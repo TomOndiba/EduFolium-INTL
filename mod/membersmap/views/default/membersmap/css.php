@@ -11,12 +11,6 @@
     $graphics_url = $base_url . 'mod/membersmap/graphics/';
 ?>
 
-#map    {
-    border: 1px solid #333;
-    margin-top: 0.6em;
-    overflow:hidden;
-}
-
 input:-moz-placeholder {
     color: #BBBBBB !important;
 }
@@ -49,9 +43,4 @@ label   {
 input, textarea { color: #000; }
 .placeholder { color: #aaa; }
 
-div.infowindow	{
-	width:150px; 
-	padding: 3px; 
-	border:0px solid #eaeaea;
-	height:70px;
-}
+

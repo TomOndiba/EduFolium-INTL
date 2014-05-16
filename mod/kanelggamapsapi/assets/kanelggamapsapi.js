@@ -50,7 +50,7 @@ function codeAddressExtend(givenaddr, defaultzoom, siteurl, defaultlocation, ech
             var marker = new google.maps.Marker({
               map: map,
               position: results[0].geometry.location,
-              icon: siteurl+'mod/membersmap/graphics/flag.png'
+              icon: siteurl+'mod/kanelggamapsapi/graphics/flag.png'
             });
             oms.addMarker(marker);  // Spiderfier feature
 

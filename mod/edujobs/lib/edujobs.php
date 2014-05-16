@@ -1881,6 +1881,9 @@ function get_sort_by_selector_external($current_url, $current_orderby = null, $t
 function get_location_alternative($location) {
 	$alt_location = array();
 	
+	// store location before convert
+	$tmp_location = $location;
+	
 	// push default location
 	array_push($alt_location,$location);
 	
@@ -1888,13 +1891,42 @@ function get_location_alternative($location) {
 	array_push($alt_location,$tmp_string);
 	
 	// replace special chars
-	$tmp_string = str_replace('á', 'a', $tmp_string);
-	$tmp_string = str_replace('é', 'e', $tmp_string);
-	$tmp_string = str_replace('í', 'i', $tmp_string);
-	$tmp_string = str_replace('ó', 'o', $tmp_string);
-	$tmp_string = str_replace('ú', 'u', $tmp_string);
-	$tmp_string = str_replace('ñ', 'n', $tmp_string);
-	array_push($alt_location,$tmp_string);
+	array_push($alt_location,replace_special_chars($tmp_string));	
+	
+	// make similar chars replacements to inital location before convert to lower case
+	array_push($alt_location,replace_special_chars($tmp_location));	
 	
 	return $alt_location;
 }
+
+// replace special chars on a string 
+function replace_special_chars($str) {
+	$tmp_str = $str;
+	$tmp_str = str_replace('á', 'a', $tmp_str);
+	$tmp_str = str_replace('é', 'e', $tmp_str);
+	$tmp_str = str_replace('í', 'i', $tmp_str);
+	$tmp_str = str_replace('ó', 'o', $tmp_str);
+	$tmp_str = str_replace('ú', 'u', $tmp_str);
+	$tmp_str = str_replace('ñ', 'n', $tmp_str);	
+	
+	return $tmp_str;
+}
+
+// replace special chars on a string 
+function count_ext_jobs_by_country($country = null) {
+	if ($country)	{
+		$options = array(
+			'type' => 'object',
+			'subtype' => 'edujobsext',
+			'full_view' => false,
+			'created_time_lower' => time() - EXTERNAL_JOBS_TIME_PUBLISHED, // retrieve jobs created last ... days (see start.php)
+			'count' => true,
+			'metadata_name_value_pairs' => array(array('name' => 'country','value' => $country, 'operand' => '='))
+		);
+		
+		return elgg_get_entities_from_metadata($options);	
+	}
+	
+	return 0;
+}
+

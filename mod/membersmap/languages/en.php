@@ -1,7 +1,6 @@
 <?php
 /**
  * Elgg membersmap plugin language pack
- *
  * @package MembersMap
  */
 
@@ -52,21 +51,6 @@ $language = array(
     'membersmap:map:3' => "Geocode was not successful for the following reason",
     
     // settings
-    'membersmap:settings:google_maps' => 'Google Maps settings',
-    'membersmap:settings:google_api_key' => 'Enter your Google API key',
-    'membersmap:settings:google_api_key:clickhere' => 'Go to <a target="_blank" href="https://developers.google.com/maps/documentation/javascript/tutorial#api_key">https://developers.google.com/maps/documentation/javascript/tutorial#api_key</a> to get your "Google API key". <br />(<strong>Note:</strong> the API key is NOT required. Only if you want stats on your api usage, or if you have a paid API account the key is needed)',
-    'membersmap:settings:map_width' => 'Width of map',
-    'membersmap:settings:map_width:how' => 'Numeric value (e.g. 500) or % (e.g. 100%)',
-    'membersmap:settings:map_height' => 'Height of map',
-    'membersmap:settings:map_height:how' => 'Numeric value (e.g. 500)',    
-    'membersmap:settings:defaultlocation' => 'Default location address',     
-    'membersmap:settings:defaultlocation:note' => 'Enter a valid location address (postal address or postal code or city or country... e.g. 73100, Greece)', 
-    'membersmap:settings:defaultzoom' => 'Default map zoom',     
-    'membersmap:settings:defaultzoom:note' => 'Enter a numeric value for zoom',    
-    'membersmap:settings:cluster' => 'Use cluster feature of Google Maps', 
-    'membersmap:settings:cluster:no' => 'No', 
-    'membersmap:settings:cluster:yes' => 'Yes', 
-    'membersmap:settings:cluster:note' => 'Select Yes for clustering nearby members on map.<br />If disabled, when multiple markers are located at the same or nearby location will be splitted out so they will be clickable.', 
     'membersmap:settings:markericon' => 'Marker Icon', 
     'membersmap:settings:markericon:blue-light' => 'Blue light', 
     'membersmap:settings:markericon:blue' => 'Blue', 
@@ -83,11 +67,6 @@ $language = array(
     'membersmap:settings:searchbyname:no' => 'No', 
     'membersmap:settings:searchbyname:yes' => 'Yes', 
     'membersmap:settings:searchbyname:note' => 'Select if display "Search members by name" form (sidebar). ',  
-    'membersmap:settings:unitmeas' => 'Distance Unit of Measurement', 
-    'membersmap:settings:unitmeas:meters' => 'Meters', 
-    'membersmap:settings:unitmeas:km' => 'Kilometers', 
-    'membersmap:settings:unitmeas:miles' => 'Miles',
-    'membersmap:settings:unitmeas:note' => 'Select Unit of Measurement will be used in searching.',   
     'membersmap:settings:memberstab' => 'Add "Map of Members" tab on Elgg Members Page', 
     'membersmap:settings:memberstab:note' => 'Select if you want to add a "Map of Members" tab on Elgg Members Page (domain/members).<br /><strong>Important</strong>: You have to put Membersmap plugin after Members plugin in Administration/Configure/Plugins',    
     'membersmap:settings:maponmenu' => 'Add "Map of Members" item on site menu', 

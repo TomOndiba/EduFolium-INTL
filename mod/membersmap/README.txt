@@ -33,13 +33,13 @@ Elgg map plugin for showing community members in Google Maps, based on "location
 == 2. Installation ==
 Requires: Elgg 1.8 or higher
 
-1. Upload kanelggamapsapi in "/mod/" elgg folder and activate it
+1. Upload kanelggamapsapi in "/mod/" elgg folder and activate it. In "Administration/Configure/Settings/Kanelgga Maps API" you must configure basic map options
 2. Upload membersmap in "/mod/" elgg folder and activate it
-3. In Administration/Configure/Settings/Map of Members, run once 'Batch Users Geolocation' for geolocate current users
-4. In Administration/Configure/Settings/Map of Members you can configure several map options
+3. In "Administration/Configure/Settings/Map of Members", run once 'Batch Users Geolocation' for geolocate current users
+4. In "Administration/Configure/Settings/Map of Members" you can configure several map options
 5. If you wish to add "Map of Members" tab at Elgg Members page, then you should place Membersmap plugin after Members plugin in Administration/Configure/Plugins
 6. If using Profile Manager, in the Profile Manager settings, import default fields. Delete fields you don't want but leave location field.
-7. Ensure that images at 'mod/membersmap/graphics' are readable from web server
+7. Ensure that images at 'mod/membersmap/graphics' and 'mod/kanelggamapsapi/graphics' are readable from web server
 
 == 3. ToDo ==
 - autocomplete in search (souloupoma js)

@@ -15,7 +15,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 	$sidebar .= '<div class="elgg-head"><h3>'.elgg_echo("membersmap:search").'</h3></div>';
 	$sidebar .= '<div class="elgg-body">';
 	$sidebar .= '<input class="elgg-input-text elgg-autofocus" id="address" type="text" value="" placeholder="'.elgg_echo("membersmap:search:location").'">';
-	$sidebar .= '<input class="elgg-input-text" id="radius" type="text" value="" placeholder="'.get_unit_of_measurement_string('membersmap').'">';
+	$sidebar .= '<input class="elgg-input-text" id="radius" type="text" value="" placeholder="'.get_unit_of_measurement_string().'">';
 	$sidebar .= '<label class="mtm float-alt"><input id="showradius" type="checkbox" value="show" >'.elgg_echo("membersmap:search:showradius").'</label><br />';
 	$sidebar .= '<input type="submit" class="elgg-button elgg-button-submit" value="'.elgg_echo("membersmap:search:submit").'" onclick="codeAddress()">';
 	$sidebar .= '</div>';
@@ -27,7 +27,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 			$sidebar .= '<div class="elgg-head"><h3>'.elgg_echo("membersmap:searchnearby").'</h3></div>';
 			$sidebar .= '<div class="elgg-body">';
 			$sidebar .= '<small>'.elgg_echo("membersmap:mylocationsis").'<i>'.$user->location.'</i></small>';
-			$sidebar .= '<input class="elgg-input-text" id="radiusmyloc" type="text" value="" placeholder="'.get_unit_of_measurement_string('membersmap').'">';
+			$sidebar .= '<input class="elgg-input-text" id="radiusmyloc" type="text" value="" placeholder="'.get_unit_of_measurement_string().'">';
 			$sidebar .= '<label class="mtm float-alt"><input id="showradiusloc" type="checkbox" value="show" >'.elgg_echo("membersmap:search:showradius").'</label>';
 			$sidebar .= '<input type="submit" class="elgg-button elgg-button-submit" value="'.elgg_echo("membersmap:search:submit").'" onclick="codeAddress(\''.$user->location.'\')">';
 			$sidebar .= '</div>';
@@ -41,7 +41,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 		$sidebar .= '<div class="elgg-body">';
 		$sidebar .= '<form method="get" action="'.elgg_get_site_url() .'membersmap/search/name" class="elgg-form elgg-form-members-name-search">';
 		$sidebar .= '<input class="elgg-input-text" name="name" type="text" value="'.sanitize_string(get_input('name')).'" placeholder="'.elgg_echo("membersmap:search:name").'">';
-		$sidebar .= '<input class="elgg-input-text" name="radius" type="text" value="'.sanitize_string(get_input('radius')).'" placeholder="'.get_unit_of_measurement_string('membersmap').'">';
+		$sidebar .= '<input class="elgg-input-text" name="radius" type="text" value="'.sanitize_string(get_input('radius')).'" placeholder="'.get_unit_of_measurement_string().'">';
 		$sidebar .= '<input type="submit" class="elgg-button elgg-button-submit" value="'.elgg_echo("membersmap:search:submit").'">';
 		$sidebar .= '</form>';
 		$sidebar .= '</div>';

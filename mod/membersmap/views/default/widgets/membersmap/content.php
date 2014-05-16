@@ -19,7 +19,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 		$location = CUSTOM_DEFAULT_COORDS; 
 
 		// Retrieve map default location
-		$defaultlocation = get_map_default_location('membersmap');
+		$defaultlocation = get_map_default_location();
 		$geocoder = new Geocoder($mapkey);
 		if ($defaultlocation) {
 			try {
@@ -36,7 +36,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 		}
 	}
 
-	$zoom = isset($vars['entity']->zoom) ? $vars['entity']->zoom : get_map_zoom('membersmap');
+	$zoom = isset($vars['entity']->zoom) ? $vars['entity']->zoom : get_map_zoom();
 
 	echo elgg_view('membersmap/map',array(
 			'location'=>$location, 

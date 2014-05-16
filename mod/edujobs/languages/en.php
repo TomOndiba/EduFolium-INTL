@@ -537,6 +537,11 @@ $lang = array(
 	'edujobs:label:jobsexternal:published' => "Published on ",
 	'edujobs:label:jobsexternal:search:area' => "City / Area",
 	'edujobs:jobsexternal:resultsno' => "Results: ",
+	
+	// digest
+	'edujobs:digest:intro1' => "Hay nuevas ofertas de empleo en <a href='http://edufolium.com/intl/' target='_blank'>EduFolium</a> que quizá no hayas visto",   
+	'edujobs:digest:intro2' => "Ingresa ahora mismo y aplica a las ofertas que más te interesen en <a href='http://edufolium.com/intl/' target='_blank'>www.edufolium.com</a>. No olvides actualizar o crear tu CV para aplicar.",   
+	
 );
 
 add_translation("en", $lang);  

@@ -118,7 +118,7 @@
             return $this->getAddress();
         }
 
-        public function setPoint(Point $point)
+        public function setPoint(Kanelggapoint $point)
         {
             $this->_point = $point;
         }
@@ -140,10 +140,7 @@
 
         public static function FromSimpleXml($xml)
         {
-            //require_once('Point.php');
-            //$point = Point::Create($xml->Point->coordinates);
-
-            $point = Point::Create($xml->geometry->location->lng.','.$xml->geometry->location->lat);
+            $point = Kanelggapoint::Create($xml->geometry->location->lng.','.$xml->geometry->location->lat);
             $placemark = new self;
             $placemark->setPoint($point);
             //$placemark->setAddress($xml->address);
@@ -154,7 +151,7 @@
         }
     }    
     
-    class Point
+    class Kanelggapoint
     {
         protected $_lat;
         protected $_lng;

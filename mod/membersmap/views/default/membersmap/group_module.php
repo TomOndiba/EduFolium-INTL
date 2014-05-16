@@ -31,7 +31,7 @@ if(elgg_is_active_plugin("kanelggamapsapi")){
 	$defaultlocation = trim(elgg_get_plugin_setting('map_default_location', 'kanelggamapsapi'));
 
 	// Retrieve cluster feature
-	$clustering = get_map_clustering('membersmap');
+	$clustering = get_map_clustering();
 
 	$options = array('type' => 'user', 'full_view' => false);
 	$options['relationship'] = 'member';
