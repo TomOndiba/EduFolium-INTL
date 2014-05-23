@@ -627,9 +627,10 @@
 	
 	function digest_message_css(){
 	
-		elgg_extend_view("css/digest/core", "css/digest/river");
-		elgg_extend_view("digest/elements/site", "digest/elements/site/river");
-		elgg_extend_view("digest/elements/group", "digest/elements/group/river");
+		// edujobs nikos: we don't want river activity
+		//elgg_extend_view("css/digest/core", "css/digest/river");
+		//elgg_extend_view("digest/elements/site", "digest/elements/site/river");
+		//elgg_extend_view("digest/elements/group", "digest/elements/group/river");
 
 
 		// edujobs nikos start

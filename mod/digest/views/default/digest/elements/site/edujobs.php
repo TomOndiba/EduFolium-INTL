@@ -8,6 +8,7 @@
 	$ts_lower = (int) elgg_extract("ts_lower", $vars);
 	$ts_upper = (int) elgg_extract("ts_upper", $vars);
 	$totaljobs = 10;	// total jobs to display
+	$user = elgg_extract("user", $vars);
 
 	// only show jobs that are published
 	$dbprefix = elgg_get_config("dbprefix");
@@ -21,10 +22,19 @@
 		'limit' => 10, 
 		'created_time_lower' => $ts_lower,
 		'created_time_upper' => $ts_upper,		
+		'metadata_name_value_pairs' => array(
+			array('name' => 'published_until_final','value' => time(), 'operand' => '>='),
+		),	
 	);	
-
+	
 	$title = '<h1>'.elgg_echo('edujobs:digest:intro1').'</h1>';
-	$subtitle = '<p>'.elgg_echo('edujobs:digest:intro2').'</p>';
+	if ($user->custom_profile_type == COLEGIO_PROFILE_TYPE_GUID)	{
+		$subtitle = '<p>'.elgg_echo('edujobs:digest:intro2:schools').'</p>';
+	}
+	else {
+		$subtitle = '<p>'.elgg_echo('edujobs:digest:intro2').COLEGIO_PROFILE_TYPE_GUID.'</p>';
+	}
+	
 	
 	// get no of jobs by country
 	$argentina = count_ext_jobs_by_country('Argentina');
@@ -77,8 +87,8 @@
 	echo elgg_view_module("digest", '', $title.$subtitle.$jobsbycountry);
 	
 	
-	if($jobs = elgg_get_entities($job_options)){
-		$title = elgg_view("output/url", array("text" => elgg_echo("edujobs"), "href" => "edujobs/jobs" ));
+	if($jobs = elgg_get_entities_from_metadata($job_options)){
+		
 		
 		$latest_jobs = "";
 		
@@ -107,8 +117,7 @@
 			$latest_jobs .= "</span>";
 			$latest_jobs .= "</div>";
 		}
-		
-		echo elgg_view_module("digest", $title, $latest_jobs);
+
 	}
 	
 	if($i<$totaljobs)	{	// show external jobs only if internal jobs are less than 10
@@ -121,11 +130,11 @@
 			'created_time_lower' => $ts_lower,
 			'created_time_upper' => $ts_upper,		
 		);	
-		
+	
 		$search_options = array();
-		$user = elgg_extract("user", $vars);
+		
 		$country = $user->country;
-		if ($country) {
+		if ($country && $country!='Seleccione su País') {
 			$country_frm = array('name' => 'country','value' => $country, 'operand' => '=');
 			array_push($search_options,$country_frm);
 		}	
@@ -133,18 +142,18 @@
 		if($search_options){  // in case of sidebar form submitted
 			$job_ext_options['metadata_name_value_pairs'] = $search_options;
 			$job_ext_options['metadata_name_value_pairs_operator'] = 'AND';
-			$jobs = elgg_get_entities_from_metadata($job_ext_options);
+			$jobs_ext = elgg_get_entities_from_metadata($job_ext_options);
 		}
 		else {
-			$jobs = elgg_get_entities($job_ext_options);
+			$jobs_ext = elgg_get_entities($job_ext_options);
 		}	
 		
-		if($jobs){
-			$title = elgg_view("output/url", array("text" => elgg_echo("jobsext"), "href" => "edujobs/teachers/extjobs" ));
+		if($jobs_ext){
+			//$title = elgg_view("output/url", array("text" => elgg_echo("jobsext"), "href" => "edujobs/teachers/extjobs" ));
 			
-			$latest_jobs = "";
+			$external_jobs = "";
 			
-			foreach($jobs as $job){
+			foreach($jobs_ext as $job){
 				$job_url = $job->getURL();
 				
 				//get location
@@ -154,22 +163,22 @@
 				if ($job->country) $location .= ', ' . $job->country;
 				if ($flag) $location .= '&nbsp;<img src="'.elgg_get_site_url().'mod/edujobs/assets/flags/'.$flag.'" width="20" height="12" alt="'.$job->country.'" />';
 
-				$latest_jobs .= "<div class='digest-job'>";
+				$external_jobs .= "<div class='digest-job'>";
 				if($job->icontime){
-					$latest_jobs .= "<a href='" . $job_url. "'><img src='". $job->getIconURL("medium") . "' /></a>";
+					$external_jobs .= "<a href='" . $job_url. "'><img src='". $job->getIconURL("medium") . "' /></a>";
 				}
-				$latest_jobs .= "<span>";
-				$latest_jobs .= "<h4><a href='" . $job_url. "'>" . $job->title . "</a></h4>";
-				$latest_jobs .= elgg_get_excerpt($job->description);
-				$latest_jobs .= '<br />';
-				if ($location) $latest_jobs .= $location . ' | ';
-				$latest_jobs .= elgg_echo('edujobs:view:job:date') . date(DATE_FORMAT, $job->time_created);
-				$latest_jobs .= "</span>";
-				$latest_jobs .= "</div>";
+				$external_jobs .= "<span>";
+				$external_jobs .= "<h4><a href='" . $job_url. "'>" . $job->title . "</a></h4>";
+				$external_jobs .= elgg_get_excerpt($job->description);
+				$external_jobs .= '<br />';
+				if ($location) $external_jobs .= $location . ' | ';
+				$external_jobs .= elgg_echo('edujobs:view:job:date') . date(DATE_FORMAT, $job->time_created);
+				$external_jobs .= "</span>";
+				$external_jobs .= "</div>";
 			}
-			
-			echo elgg_view_module("digest", $title, $latest_jobs);
 		}	
-		
 	}
 	
+	$title = elgg_view("output/url", array("text" => elgg_echo("edujobs"), "href" => "edujobs/jobs" ));
+	echo elgg_view_module("digest", $title, $latest_jobs.$external_jobs);
+
