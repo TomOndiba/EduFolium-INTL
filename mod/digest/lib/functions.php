@@ -71,7 +71,7 @@
 				$params = array(
 					"title" => elgg_get_site_entity()->name,
 					"content" => $custom_text_header . $userdata . $custom_text_footer,
-					"footer" => 'skata'.elgg_view("digest/elements/footer", $vars),
+					"footer" => elgg_view("digest/elements/footer", $vars),
 					"digest_header" => elgg_view("digest/elements/header", $vars),
 					"digest_online" => elgg_view("digest/elements/online", $vars),
 					"digest_unsubscribe" => elgg_view("digest/elements/unsubscribe", $vars)
@@ -81,7 +81,9 @@
 				$digest_online_url = digest_get_online_url($vars);
 				
 				// message_subject
-				$message_subject = elgg_echo("digest:message:title:site", array(elgg_get_site_entity()->name, elgg_echo("digest:interval:" . $interval)));
+				//$message_subject = elgg_echo("digest:message:title:site", array(elgg_get_site_entity()->name, elgg_echo("digest:interval:" . $interval)));
+				$message_subject = elgg_echo("digest:subject");
+				
 				// message body
 				$message_body = elgg_view_layout("digest", $params);
 				

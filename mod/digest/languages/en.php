@@ -159,6 +159,7 @@ You can also view the digest online using the following link: %s.",
 		'digest:cli:error:secret' => "The provided secret is invalid, the digest can't run",
 		
 		//edujobs
+		'digest:subject' => "EduFolium: Lo que te has perdido estos últimos días",		
 		
 	);
 	

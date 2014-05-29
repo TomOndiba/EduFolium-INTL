@@ -34,18 +34,19 @@ foreach ($users as $u)  {
 			if($u->email)
 				echo '<td>'.$u->email.'</td>';
 			else
-				{	
-					if ($u->School_Email)
+				{
+				if($u->contactemail)	
 					{
-						echo '<td>'.$u->School_Email.'</td>';
-						$u->email = $u->School_Email;
+						echo '<td>'.$u->contactemail.'</td>';
+						$u->email = $u->contactemail;					
 					}	
 					else
 						{
-							if($u->contactemail)
-							{	
-								echo '<td>'.$u->contactemail.'</td>';
-								$u->email = $u->contactemail;
+							if ($u->School_Email)
+							{
+						echo '<td>'.$u->School_Email.'</td>';
+						$u->email = $u->School_Email;								
+
 							}
 							else
 							{

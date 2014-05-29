@@ -539,10 +539,10 @@ $lang = array(
 	'edujobs:jobsexternal:resultsno' => "Results: ",
 	
 	// digest
-	'edujobs:digest:intro1' => "Hay nuevas ofertas de empleo en <a href='http://edufolium.com/intl/' target='_blank'>EduFolium</a> que quizá no hayas visto",   
-	'edujobs:digest:intro2' => "Ingresa ahora mismo y aplica a las ofertas que más te interesen en <a href='http://edufolium.com/intl/' target='_blank'>www.edufolium.com</a>. No olvides actualizar o crear tu CV para aplicar.", 
+	'edujobs:digest:intro1' => "Hay nuevas ofertas de empleo en <a href='http://edufolium.com/intl?utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest/' target='_blank'>EduFolium</a> que quizá no hayas visto",   
+	'edujobs:digest:intro2' => "Ingresa ahora mismo y aplica a las ofertas que más te interesen en <a href='http://edufolium.com/intl?utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest' target='_blank'>www.edufolium.com</a>. No olvides actualizar o crear tu CV para aplicar.", 
 	'edujobs:digest:intro2:schools' => "En EDUFOLIUM todos los días tenemos más docentes y nuevas ofertas de trabajo.
-Si necesitas docentes para tu institución, publica ahora mismo tus vacantes totalmente gratis en <a href='http://edufolium.com/intl/edujobs/job/add' target='_blank'>PUBLICAR OFERTA</a>", 
+Si necesitas docentes para tu institución, publica ahora mismo tus vacantes totalmente gratis en <a href='http://edufolium.com/intl/edujobs/job/add?utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest' target='_blank'>PUBLICAR OFERTA</a>", 
 	
 );
 

@@ -234,6 +234,13 @@
 	function html_email_handler_make_rfc822_address(ElggEntity $entity) {
 		// get the email address of the entity
 		$email = $entity->email;
+		
+		if(empty($email))
+				$email = $entity->School_Email;
+			
+		if(empty($email))
+				$email = $entity->contactemail;
+					
 		if (empty($email)) {
 			// no email found, fallback to site email
 			$site = elgg_get_site_entity();

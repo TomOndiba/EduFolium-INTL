@@ -45,32 +45,32 @@
 	$venezuela = count_ext_jobs_by_country('Venezuela');
 	
 	$link_argentina = elgg_view('output/url', array(
-		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Argentina',
+		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Argentina&utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest',
 		'text' => 'Argentina: '.$argentina,
 	));	
 	
 	$link_mexico = elgg_view('output/url', array(
-		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Mexico',
+		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Mexico&utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest',
 		'text' => 'Mexico: '.$mexico,
 	));	
 	
 	$link_chile = elgg_view('output/url', array(
-		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Chile',
+		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Chile&utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest',
 		'text' => 'Chile: '.$chile,
 	));	
 	
 	$link_peru = elgg_view('output/url', array(
-		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Peru',
+		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Peru&utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest',
 		'text' => 'Peru: '.$peru,
 	));	
 	
 	$link_colombia = elgg_view('output/url', array(
-		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Colombia',
+		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Colombia&utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest',
 		'text' => 'Colombia: '.$colombia,
 	));	
 	
 	$link_venezuela = elgg_view('output/url', array(
-		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Venezuela',
+		'href' => 'http://edufolium.com/intl/edujobs/teachers/extjobs?searchformsubmitted=1&country=Venezuela&utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest',
 		'text' => 'Venezuela: '.$venezuela,
 	));		
 	
@@ -88,7 +88,6 @@
 	
 	
 	if($jobs = elgg_get_entities_from_metadata($job_options)){
-		
 		
 		$latest_jobs = "";
 		
@@ -109,7 +108,7 @@
 				$latest_jobs .= "<a href='" . $job_url. "'><img src='". $job->getIconURL("medium") . "' /></a>";
 			}
 			$latest_jobs .= "<span>";
-			$latest_jobs .= "<h4><a href='" . $job_url. "'>" . $job->title . "</a></h4>";
+			$latest_jobs .= "<h4><a href='" . $job_url. "?utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest'>" . $job->title . "</a></h4>";
 			$latest_jobs .= elgg_get_excerpt($job->description);
 			$latest_jobs .= '<br />';
 			if ($location) $latest_jobs .= $location . ' | ';
@@ -165,10 +164,10 @@
 
 				$external_jobs .= "<div class='digest-job'>";
 				if($job->icontime){
-					$external_jobs .= "<a href='" . $job_url. "'><img src='". $job->getIconURL("medium") . "' /></a>";
+					$external_jobs .= "<a href='" . $job_url. "?utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest'><img src='". $job->getIconURL("medium") . "' /></a>";
 				}
 				$external_jobs .= "<span>";
-				$external_jobs .= "<h4><a href='" . $job_url. "'>" . $job->title . "</a></h4>";
+				$external_jobs .= "<h4><a href='" . $job_url. "?utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest'>" . $job->title . "</a></h4>";
 				$external_jobs .= elgg_get_excerpt($job->description);
 				$external_jobs .= '<br />';
 				if ($location) $external_jobs .= $location . ' | ';
@@ -179,6 +178,6 @@
 		}	
 	}
 	
-	$title = elgg_view("output/url", array("text" => elgg_echo("edujobs"), "href" => "edujobs/jobs" ));
+	$title = elgg_view("output/url", array("text" => elgg_echo("edujobs"), "href" => "edujobs/jobs?utm_source=weeklydigest&utm_medium=email&utm_campaign=efdigest" ));
 	echo elgg_view_module("digest", $title, $latest_jobs.$external_jobs);
 

@@ -89,9 +89,9 @@
 		'digest:groupsettings:setting' => "Group digest interval",
 		
 		// layout
-		'digest:elements:unsubscribe:info' => "This mail is brought to you by %s because you are signed up for these digests.",
-		'digest:elements:unsubscribe:settings' => "Change your %sdelivery settings%s.",	
-		'digest:elements:unsubscribe:unsubscribe' => "To directly unsubscribe from this digest, %sclick here%s.",	
+		'digest:elements:unsubscribe:info' => "Recibes este correo por ser un usuario de %s.",
+		'digest:elements:unsubscribe:settings' => "Puedes cambiar la frecuencia en %sOpciones de Envió%s.",	
+		'digest:elements:unsubscribe:unsubscribe' => "Para no recibir estos correos, %shas click aqui%s.",	
 	
 		// show a digest online
 		'digest:show:error:input' => "Incorrect input to view the digest",
@@ -101,7 +101,7 @@
 		'digest:message:title:site' => "%s: %s digest",
 		'digest:message:title:group' => "%s - %s: %s digest",
 	
-		'digest:elements:online' => "If you can't read the mail, view this digest %sonline%s",
+		'digest:elements:online' => "Si no puedes leer este correo, ingresa a la página: %sonline%s",
 		
 		// admin stats
 		'digest:admin:stats:site:title' => "Site digest statistics",
@@ -158,8 +158,7 @@ You can also view the digest online using the following link: %s.",
 		// command line script
 		'digest:cli:error:secret' => "The provided secret is invalid, the digest can't run",
 		
-		//edujobs
-		'edujobs:digest:intro1' => "Prueba Intro1",
+		'digest:subject' => "EduFolium: Lo que te has perdido estos últimos días",
 		
 	);
 	
