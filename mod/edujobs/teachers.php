@@ -71,6 +71,9 @@ foreach ($users as $u)  {
 			echo '<td>'.$u->location.'</td></tr>';
 						
 		$teachers.= $u->username. "|". $u->name ."|".	$u->email ."|".$cv ."\n";
+	
+		$u->save();
+		
 	}
 }
 echo '</table>';
